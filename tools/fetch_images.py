@@ -14,7 +14,9 @@ Usage:
   python3 tools/fetch_images.py --limit 50      # echantillon
   python3 tools/fetch_images.py --dry-run       # liste sans telecharger
 """
-import argparse, hashlib, json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
+import argparse, hashlib, json, os, re, sys, threading, time
+import urllib.error, urllib.parse, urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT = os.path.join(HERE, "content")
@@ -90,30 +92,31 @@ def cdx_prefixes(urls):
     return [p for p, _ in sorted(counts.items(), key=lambda kv: -kv[1])]
 
 
-def cdx_query(prefix, attempts=5):
+def cdx_query(prefix, attempts=3):
     """Une requete CDX par dossier : la requete globale est tronquee cote serveur."""
     target = "leconceptmarketing.com%s/*" % prefix
     url = ("https://web.archive.org/cdx/search/cdx?url=" + urllib.parse.quote(target, safe="")
            + "&output=json&fl=original,timestamp,statuscode&collapse=urlkey&limit=50000")
-    delay = 3
+    delay = 5
     for attempt in range(attempts):
         try:
-            body, _ = fetch(url, timeout=180)
+            body, _ = fetch(url, timeout=90)
             rows = json.loads(body.decode("utf-8", "replace"))
             return {key(o): ts for o, ts, code in rows[1:] if code == "200"}
         except Exception as exc:
             if attempt == attempts - 1:
                 raise
             time.sleep(delay)
-            delay = min(delay * 2, 60)
+            delay = min(delay * 2, 30)
     return {}
 
 
-def build_cdx_index(urls, refresh=False):
+def build_cdx_index(urls, refresh=False, workers=3):
     """Index original -> timestamp, construit dossier par dossier et mis en cache.
 
-    Chaque dossier resolu est enregistre immediatement : une interruption ou une
-    indisponibilite de l'Internet Archive ne fait perdre que le dossier en cours.
+    Les requetes partent par petits lots : l'Internet Archive repond lentement et
+    renvoie souvent 503, mais tolere quelques requetes simultanees. Chaque dossier
+    resolu est enregistre aussitot, donc une interruption ne coute que le lot en cours.
     """
     cache = load(INDEX, {}) if not refresh else {}
     index = cache.get("entries", {})
@@ -124,18 +127,28 @@ def build_cdx_index(urls, refresh=False):
 
     print("Index CDX : %d dossiers a interroger (%d deja en cache)"
           % (len(prefixes), len(done)), flush=True)
-    for i, prefix in enumerate(prefixes, 1):
-        try:
-            found = cdx_query(prefix)
-        except Exception as exc:
-            print("  %s : indisponible (%s)" % (prefix, str(exc)[:60]), flush=True)
-            continue
-        index.update(found)
-        done.add(prefix)
-        save(INDEX, {"entries": index, "done": sorted(done)})
-        print("  [%d/%d] %s : %d captures (total %d)"
-              % (i, len(prefixes), prefix, len(found), len(index)), flush=True)
-        time.sleep(1)
+    lock = threading.Lock()
+    failures = 0
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {pool.submit(cdx_query, p): p for p in prefixes}
+        for n, future in enumerate(as_completed(futures), 1):
+            prefix = futures[future]
+            try:
+                found = future.result()
+            except Exception as exc:
+                failures += 1
+                print("  [%d/%d] %s : indisponible (%s)"
+                      % (n, len(prefixes), prefix, str(exc)[:60]), flush=True)
+                continue
+            with lock:
+                index.update(found)
+                done.add(prefix)
+                save(INDEX, {"entries": index, "done": sorted(done)})
+            print("  [%d/%d] %s : %d captures (total %d)"
+                  % (n, len(prefixes), prefix, len(found), len(index)), flush=True)
+    if failures:
+        print("  %d dossiers injoignables : relancez le script pour les reprendre."
+              % failures, flush=True)
     return index
 
 
@@ -156,7 +169,8 @@ def main():
     ap.add_argument("--limit", type=int, help="nombre maximum d'images a traiter")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--refresh-index", action="store_true")
-    ap.add_argument("--delay", type=float, default=0.4)
+    ap.add_argument("--workers", type=int, default=4,
+                    help="telechargements simultanes")
     ap.add_argument("--retry-failed", action="store_true")
     args = ap.parse_args()
 
@@ -190,40 +204,49 @@ def main():
     if args.limit:
         todo = todo[:args.limit]
 
-    ok = miss = err = 0
-    for i, (k, url) in enumerate(todo, 1):
+    counts = {"ok": 0, "miss": 0, "err": 0}
+    lock = threading.Lock()
+
+    def restore(item):
+        k, url = item
         tries = candidates(url, index)
         if not tries:
-            failed[k] = "aucune capture"
-            miss += 1
-            continue
+            return k, None, "aucune capture"
         for ts, original in tries:
             replay = "https://web.archive.org/web/%sim_/%s" % (ts, original)
             try:
                 data, ctype = fetch(replay)
             except Exception as exc:
-                failed[k] = str(exc)[:120]
-                err += 1
-                break
-            if len(data) < 128 or not ctype.split(";")[0].startswith("image/"):
-                failed[k] = "reponse non-image"
+                return k, None, str(exc)[:120]
+            mime = ctype.split(";")[0]
+            if len(data) < 128 or not mime.startswith("image/"):
                 continue
-            ext = EXTS.get(ctype.split(";")[0], os.path.splitext(k)[1] or ".jpg")
+            ext = EXTS.get(mime, os.path.splitext(k)[1] or ".jpg")
             name = hashlib.sha1(k.encode("utf-8")).hexdigest()[:16] + ext
             with open(os.path.join(IMAGES, name), "wb") as f:
                 f.write(data)
-            manifest[k] = name
-            failed.pop(k, None)
-            ok += 1
-            break
-        else:
-            miss += 1
-        if i % 25 == 0:
-            save(MANIFEST, manifest)
-            save(FAILED, failed)
-            print("  %d/%d  ok=%d absentes=%d erreurs=%d" % (i, len(todo), ok, miss, err), flush=True)
-        time.sleep(args.delay)
+            return k, name, None
+        return k, None, "aucune capture exploitable"
 
+    with ThreadPoolExecutor(max_workers=args.workers) as pool:
+        futures = [pool.submit(restore, item) for item in todo]
+        for n, future in enumerate(as_completed(futures), 1):
+            k, name, problem = future.result()
+            with lock:
+                if name:
+                    manifest[k] = name
+                    failed.pop(k, None)
+                    counts["ok"] += 1
+                else:
+                    failed[k] = problem
+                    counts["miss" if problem.startswith("aucune") else "err"] += 1
+                if n % 50 == 0:
+                    save(MANIFEST, manifest)
+                    save(FAILED, failed)
+                    print("  %d/%d  ok=%d absentes=%d erreurs=%d"
+                          % (n, len(todo), counts["ok"], counts["miss"], counts["err"]), flush=True)
+
+    ok, miss, err = counts["ok"], counts["miss"], counts["err"]
     save(MANIFEST, manifest)
     save(FAILED, failed)
     print("TERMINE  rapatriees=%d absentes=%d erreurs=%d  total manifest=%d"
