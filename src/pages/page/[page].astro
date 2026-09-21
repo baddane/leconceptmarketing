@@ -3,7 +3,7 @@ import type { GetStaticPaths } from "astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import PostCard from "../../components/PostCard.astro";
 import Pagination from "../../components/Pagination.astro";
-import { getPosts, getCategories } from "../../lib/archive";
+import { getPosts, getCategories, type ArchiveItem } from "../../lib/archive";
 import { SITE } from "../../lib/site";
 
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -20,7 +20,8 @@ export const getStaticPaths: GetStaticPaths = async () => {
   });
 };
 
-const { items, current, lastPage } = Astro.props;
+interface Props { items: ArchiveItem[]; current: number; lastPage: number }
+const { items, current, lastPage } = Astro.props as Props;
 const categories = await getCategories();
 ---
 
@@ -38,7 +39,7 @@ const categories = await getCategories();
   </section>
   <section class="section">
     <div class="wrap">
-      <div class="grid">{items.map((post: any) => <PostCard post={post} />)}</div>
+      <div class="grid">{items.map((post) => <PostCard post={post} />)}</div>
       <Pagination page={{ currentPage: current, lastPage }} base="/page/" first="/" />
     </div>
   </section>

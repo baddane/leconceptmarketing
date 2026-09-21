@@ -3,7 +3,7 @@ import type { GetStaticPaths } from "astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import PostCard from "../components/PostCard.astro";
 import { render } from "astro:content";
-import { getAll, getPosts, getCategories } from "../lib/archive";
+import { getAll, getPosts, getCategories, type ArchiveItem } from "../lib/archive";
 import { resolveImage } from "../lib/images.mjs";
 import { formatDate, slugify, SITE } from "../lib/site";
 
@@ -12,7 +12,8 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return all.map((item) => ({ params: { slug: item.slug }, props: { item } }));
 };
 
-const { item } = Astro.props;
+interface Props { item: ArchiveItem }
+const { item } = Astro.props as Props;
 const d = item.data;
 const { Content } = await render(item.entry);
 const categories = await getCategories();
