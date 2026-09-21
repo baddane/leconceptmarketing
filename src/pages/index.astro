@@ -1,0 +1,53 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PostCard from "../components/PostCard.astro";
+import Pagination from "../components/Pagination.astro";
+import { getPosts, getCategories } from "../lib/archive";
+import { SITE } from "../lib/site";
+
+const posts = await getPosts();
+const categories = await getCategories();
+const perPage = SITE.postsPerPage;
+const lastPage = Math.max(1, Math.ceil(posts.length / perPage));
+const pageItems = posts.slice(0, perPage);
+const page = { currentPage: 1, lastPage };
+const years = new Set(posts.map((p) => p.data.date?.getUTCFullYear()).filter(Boolean));
+---
+
+<BaseLayout title={SITE.title} categories={categories}>
+  <section class="hero">
+    <div class="wrap">
+      <h1>{SITE.title}</h1>
+      <p>{SITE.description}</p>
+      <div class="hero__meta">
+        <span class="chip chip--plain">{posts.length} articles</span>
+        <span class="chip chip--plain">{categories.length} catégories</span>
+        <span class="chip chip--plain">{years.size} années d’archives</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section__head">
+        <h2>Derniers articles</h2>
+        <a href="/archives/">Tout parcourir →</a>
+      </div>
+      <div class="grid">
+        {pageItems.map((post) => <PostCard post={post} />)}
+      </div>
+      <Pagination page={page} base="/page/" first="/" />
+    </div>
+  </section>
+
+  <section class="section" style="border-top:1px solid var(--border)">
+    <div class="wrap">
+      <div class="section__head"><h2>Explorer par catégorie</h2></div>
+      <div class="tag-cloud">
+        {categories.map((c) => (
+          <a class="chip" href={`/category/${c.slug}/`}>{c.name} <span style="opacity:.65">{c.count}</span></a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,49 @@
+---
+import { SITE, slugify } from "../lib/site";
+
+interface Props { categories?: { name: string; count: number }[] }
+const { categories = [] } = Astro.props;
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="site-footer__cols">
+      <div>
+        <h3>{SITE.title}</h3>
+        <p style="margin:0 0 10px">{SITE.description}</p>
+      </div>
+      {categories.length > 0 && (
+        <div>
+          <h3>Catégories</h3>
+          <ul>
+            {categories.slice(0, 8).map((c) => (
+              <li><a href={`/category/${slugify(c.name)}/`}>{c.name}</a></li>
+            ))}
+          </ul>
+        </div>
+      )}
+      <div>
+        <h3>Le site</h3>
+        <ul>
+          <li><a href="/archives/">Tous les articles</a></li>
+          <li><a href="/recherche/">Recherche</a></li>
+          <li><a href="/rss.xml">Flux RSS</a></li>
+          <li><a href="/sitemap-index.xml">Plan du site</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Informations</h3>
+        <ul>
+          <li><a href="/a-propos/">À propos de cette archive</a></li>
+          <li><a href="/mentions-legales/">Mentions légales</a></li>
+          <li><a href="/donnees-personnelles-et-cookies/">Données personnelles</a></li>
+          <li><a href="/avertissement/">Avertissement</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="site-footer__bottom">
+      © {year} {SITE.title} — archive éditoriale reconstruite à partir des captures publiques du site.
+    </p>
+  </div>
+</footer>

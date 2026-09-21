@@ -1,22 +1,27 @@
 ---
 title: "Achetez un NFT et aidez à protéger les espèces en voie de disparition"
 permalink: "/achetez-un-nft-et-aidez-a-proteger-les-especes-en-voie-de-disparition/"
-date: "2022-05-09T17:09:52+00:00"
-author: "Sylvere Gelien Responsable Webmarketing & Acquisitions // Marchés : France, Uk, USA, CA"
-categories: ["Actualité Web","Crypto-monnaies","Le Journal E-marketing","Meilleur du Web"]
-description: "L&#039;un des premiers points de critique émis à l&#039;encontre des NFT était le coût potentiel que leur production et leur distribution continues pourraient avoir s"
+legacy_permalinks: []
+type: "post"
+date: "2022-05-09T18:09:52+00:00"
+modified: ""
+author: "Sébastian Magni @ Responsable du contenu"
+categories: ["Crypto-monnaies"]
+tags: []
+description: "Actualité sur le bitcoin, l'ethereum, la NFT, blockchain Achetez un NFT et aidez à protéger les espèces en voie de disparition"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2022/05/pexels-photo-7506265.jpeg"
+source_url: "https://leconceptmarketing.com/achetez-un-nft-et-aidez-a-proteger-les-especes-en-voie-de-disparition/"
 source_capture: "20220524002925"
 ---
 L’un des premiers points de critique émis à l’encontre des NFT était le coût potentiel que leur production et leur distribution continues pourraient avoir sur l’environnement. La majeure partie de cela a été attribuée à la pression accrue exercée par l’écosystème NFT sur la blockchain Ethereum.
 
-Heureusement, plusieurs groupes ont découvert la clé pour rendre les NFT – et la technologie blockchain dans son ensemble – plus durables sur le plan environnemental : passer d’un modèle de vérification de preuve de travail à un modèle de preuve de participation. Avec la sortie de [Algorand](https://www.algorand.com/)une blockchain économe en énergie qui compense son empreinte carbone en partenariat avec ClimateTrade, et d’autres blockchains respectueuses de l’environnement telles que Tezos, ces préoccupations pourraient s’estomper lentement.
+Heureusement, plusieurs groupes ont découvert la clé pour rendre les NFT – et la technologie blockchain dans son ensemble – plus durables sur le plan environnemental : passer d’un modèle de vérification de preuve de travail à un modèle de preuve de participation. Avec la sortie de [Algorand](https://www.algorand.com/)une blockchain économe en énergie qui compense son empreinte carbone en partenariat avec ClimateTrade, et d’autres blockchains respectueuses de l’environnement telles que Tezos, ces préoccupations pourraient s’estomper lentement.
 
 Pourtant, l’importance d’utiliser les NFT comme une force du bien pour notre planète prévaut. Grâce à ces chaînes de blocs vertes, des organisations axées sur la préservation de notre planète et de ses habitants adoptent cette technologie, à savoir Australia Zoo et la World Wildlife Foundation.
 
-## **L’héritage de Crocodile Hunter persiste dans la blockchain**
+## L’héritage de Crocodile Hunter persiste dans la blockchain
 
-[Zoo d’Australie](https://www.australiazoo.com.au/)fondé par Steve et Terri Irwin, utilise Algorand pour faire sa première incursion dans le Web3 : le [_Guerriers de la faune_« Projet NFT.](https://australiazoonfts.com/) La série limitée célèbre le 20e anniversaire des Wildlife Warriors du zoo.
+[Zoo d’Australie](https://www.australiazoo.com.au/)fondé par Steve et Terri Irwin, utilise Algorand pour faire sa première incursion dans le Web3 : le [*Guerriers de la faune*« Projet NFT.](https://australiazoonfts.com/) La série limitée célèbre le 20e anniversaire des Wildlife Warriors du zoo.
 
 Robert Irwin, le fils d’Irwin, a parlé de l’importance de ce lancement dans un communiqué de presse, déclarant: “Cette chaîne verte et cette nouvelle technologie nous offrent une nouvelle avenue pour continuer à lutter pour la protection de notre faune et de nos lieux sauvages.”
 
@@ -24,7 +29,7 @@ En partenariat avec [Laboratoires des prés](http://www.meadowlabs.io/), une sta
 
 Le co-fondateur et PDG de Meadow Labs, Martin Kelly, a parlé de l’opportunité dans un communiqué de presse : “Ce n’est que le début d’un partenariat à long terme pour créer un mouvement ‘NFT for good’ qui s’appuie sur la garantie que nous avons tous un avenir durable.”
 
-## **Des animaux non fongibles ?**
+## Des animaux non fongibles ?
 
 La World Wildlife Foundation utilise également les NFT pour financer les efforts de conservation. En février 2022, ils ont dévoilé le [Animaux non fongibles](https://www.wwf-nfa.com/en/) projet – un lancement limité d’œuvres d’art NFT représentant dix espèces animales au bord de l’extinction. Parmi ces espèces en voie de disparition, on trouve le panda géant, le gorille des montagnes et le vaquita – un mammifère marin avec seulement 22 individus confirmés vivant à l’état sauvage.
 

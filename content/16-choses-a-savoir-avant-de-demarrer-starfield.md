@@ -1,11 +1,16 @@
 ---
 title: "16 choses à savoir avant de démarrer Starfield"
 permalink: "/16-choses-a-savoir-avant-de-demarrer-starfield/"
+legacy_permalinks: []
+type: "post"
 date: "2023-09-04T12:39:58+00:00"
-author: "Sylvere Gelien Responsable Webmarketing & Acquisitions // Marchés : France, Uk, USA, CA"
-categories: ["Digital Marketing","Le Journal E-marketing","SEO","Réseaux Sociaux"]
-description: "Starfield est un jeu à part entière. Il y a des vaisseaux à piloter, des animaux en peluche à faire passer en contrebande, des avant-postes à construire et"
+modified: ""
+author: "Sébastian Magni @ Responsable du contenu"
+categories: ["Gaming et des jeux vidéo"]
+tags: ["démarrer Starfield","jeu starfield","starfield","starfield gaming"]
+description: "Starfield est un jeu dense dont les nombreux systèmes ne sont pas entièrement expliqués. Nos conseils et astuces pour débutants peuvent vous aider à explorer le champ"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2023/09/image-8.png"
+source_url: "https://leconceptmarketing.com/16-choses-a-savoir-avant-de-demarrer-starfield/"
 source_capture: "20230922175419"
 ---
 [Starfield est un jeu](https://www.bfmtv.com/tech/gaming/starfield-est-disponible-pourquoi-c-est-peut-etre-le-jeu-video-le-plus-ambitieux-de-tous-les-temps_AV-202309010045.html) à part entière. Il y a des vaisseaux à piloter, des animaux en peluche à faire passer en contrebande, des avant-postes à construire et, oh oui, des artefacts à collectionner (et de grands mystères de l’univers à résoudre).
@@ -103,7 +108,3 @@ Bien sûr, vous utiliserez une partie du butin que vous ramassez parce qu’il e
 Il est important de noter que cette valeur n’est pas la même que le prix qu’un vendeur vous paiera. Le prix de vente commence à environ 13 % de la valeur. Vous pouvez améliorer ces chiffres en investissant des points dans la compétence Commerce.
 
 En règle générale, les armes et les équipements (combinaisons, casques et sacs) sont ceux qui valent le plus cher. Mais ce sont aussi les objets les plus lourds.
-
-![](https://leconceptmarketing.com/wp-content/uploads/2021/10/sg.jpeg)
-
-**Sylvere Gelien** est un Consultant en Marketing Digital & Stratégie eCommerce chez @Search Engine Spot

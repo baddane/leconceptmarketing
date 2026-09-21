@@ -1,0 +1,45 @@
+---
+import type { GetStaticPaths } from "astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PostCard from "../../components/PostCard.astro";
+import Pagination from "../../components/Pagination.astro";
+import { getPosts, getCategories } from "../../lib/archive";
+import { SITE } from "../../lib/site";
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const posts = await getPosts();
+  const perPage = SITE.postsPerPage;
+  const lastPage = Math.max(1, Math.ceil(posts.length / perPage));
+  // La page 1 est servie par "/" : on ne genere que les suivantes.
+  return Array.from({ length: lastPage - 1 }, (_, i) => {
+    const n = i + 2;
+    return {
+      params: { page: String(n) },
+      props: { items: posts.slice((n - 1) * perPage, n * perPage), current: n, lastPage },
+    };
+  });
+};
+
+const { items, current, lastPage } = Astro.props;
+const categories = await getCategories();
+---
+
+<BaseLayout
+  title={`Articles — page ${current}`}
+  description={`Archive du Concept Marketing, page ${current} sur ${lastPage}.`}
+  categories={categories}
+>
+  <section class="hero">
+    <div class="wrap">
+      <p class="breadcrumb"><a href="/">Accueil</a> › Articles</p>
+      <h1>Tous les articles</h1>
+      <p>Page {current} sur {lastPage}</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap">
+      <div class="grid">{items.map((post: any) => <PostCard post={post} />)}</div>
+      <Pagination page={{ currentPage: current, lastPage }} base="/page/" first="/" />
+    </div>
+  </section>
+</BaseLayout>

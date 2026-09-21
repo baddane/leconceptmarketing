@@ -1,0 +1,21 @@
+{
+  "name": "leconceptmarketing",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Archive editoriale de leconceptmarketing.com, rendue en site statique Astro.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "content:extract": "python3 tools/extract.py",
+    "content:images": "python3 tools/fetch_images.py"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.12",
+    "@astrojs/sitemap": "^3.5.1",
+    "astro": "^5.14.1",
+    "hast-util-to-string": "^3.0.1"
+  }
+}

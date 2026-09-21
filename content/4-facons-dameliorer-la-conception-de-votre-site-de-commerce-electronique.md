@@ -1,11 +1,16 @@
 ---
-title: "4 façons d'améliorer la conception de votre site de commerce électronique"
+title: "4 façons d’améliorer la conception de votre site de commerce électronique"
 permalink: "/4-facons-dameliorer-la-conception-de-votre-site-de-commerce-electronique/"
+legacy_permalinks: []
+type: "post"
 date: "2023-05-18T13:02:31+00:00"
+modified: ""
 author: "Sébastian Magni @ Responsable du contenu"
-categories: ["Actualité Web","Investissement","Crypto-monnaies","Le Journal E-marketing"]
-description: "Même avant 2020, l'achat en ligne était une alternative populaire à l'expérience en magasin. Ces dernières années, cependant, la conception de sites de co"
+categories: ["Shopify","WooCommerce"]
+tags: ["commerce électronique","site de commerce"]
+description: "Voici quatre façons d'améliorer la conception de votre site web de commerce électronique afin d'améliorer l'expérience de vos clients"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2023/05/image-17.png"
+source_url: "https://leconceptmarketing.com/4-facons-dameliorer-la-conception-de-votre-site-de-commerce-electronique/"
 source_capture: "20230605161438"
 ---
 Même avant 2020, l’achat en ligne était une alternative populaire à l’expérience en magasin. Ces dernières années, cependant, la conception de sites de commerce électronique a atteint un tout autre niveau.
@@ -17,8 +22,6 @@ Une question se pose donc inévitablement : comment, en tant qu’entrepreneur d
 La clé réside dans l’expérience client. Et la clé d’une bonne expérience client, c’est une bonne conception.
 
 **Voici quatre clés de la conception d’un site de commerce électronique qui amélioreront l’expérience de vos clients.**
-
-Table Des Matières
 
 ## Moins il y a de clics, mieux c’est
 
@@ -34,7 +37,7 @@ Ce que je veux dire, c’est que si vous avez déjà vu un commentaire sur un pr
 
 Idéalement, lorsqu’il s’agit de la conception d’un site de commerce électronique, le nombre de clics nécessaires doit être aussi réduit que possible. Cela signifie qu’il faut travailler et retravailler la conception de l’expérience de marque de votre site web, en particulier lorsque vous ajoutez d’autres options de produits, afin de rationaliser le processus de magasinage et d’achat.
 
-**👉🏼 Lecture complémentaire :** **[Qu’est-ce que Shopify et comment l’utiliser en 2023 ?](https://leconceptmarketing.com/quest-ce-que-shopify-et-comment-lutiliser-en-2022/)**
+**👉🏼 Lecture complémentaire :**   **[Qu’est-ce que Shopify et comment l’utiliser en 2023 ?](https://leconceptmarketing.com/quest-ce-que-shopify-et-comment-lutiliser-en-2022/)**
 
 Le nombre de clics nécessaires peut varier en fonction du site, du choix des produits et d’autres facteurs. Nike est un bon exemple : sept clics suffisent pour passer de la page d’accueil à un achat réussi. Sur [Amazon](https://www.amazon.fr/), le nombre de clics peut atteindre plus de dix. Plus il y a de pages à charger, plus il y a de clics à faire, plus le client doit s’engager, et plus il est susceptible de repenser non seulement son expérience d’utilisateur, mais aussi sa décision d’achat.
 
@@ -48,13 +51,13 @@ En tant que client, c’est une expérience incroyablement frustrante.
 
 Une recherche de site optimisée et conviviale est systématiquement liée à une meilleure expérience client. Bien que certaines études suggèrent que seulement 30 % des clients utilisent systématiquement la recherche de site pour le commerce électronique, ce segment a environ six fois plus de chances de convertir, a tendance à dépenser plus et peut représenter environ 14 % du chiffre d’affaires total de l’entreprise. En résumé, si vous cherchez quelque chose et que vous le trouvez, vous avez plus de chances d’aller jusqu’au bout du processus d’achat. C’est l’un des cas où un bon CX est bénéfique pour l’entreprise.
 
-**👉🏼 Lecture complémentaire :** **[Les 10 meilleurs plugins WooCommerce WordPress indispensables pour 2023](https://leconceptmarketing.com/les-10-meilleurs-plugins-woocommerce-wordpress-indispensables-pour-2023/)**
+**👉🏼 Lecture complémentaire :**   **[Les 10 meilleurs plugins WooCommerce WordPress indispensables pour 2023](https://leconceptmarketing.com/les-10-meilleurs-plugins-woocommerce-wordpress-indispensables-pour-2023/)**
 
 **Voici quelques moyens utiles d’optimiser la recherche sur votre site :**
 
--   Mettez le champ de recherche en avant et au centre. Il est plus courant de le placer dans le coin supérieur droit, mais en le plaçant juste en dessous du centre de l’en-tête de votre site, vous augmentez les chances que le client l’utilise.
--   Utilisez un système de filtrage spécifique mais équilibré. Les résultats de la recherche ne doivent pas être trop larges, sinon le visiteur devra continuer à parcourir les résultats. Vous ne voulez pas non plus qu’il y ait trop d’options, car le visiteur pourrait être submergé. Veillez à ce que votre visiteur puisse choisir plusieurs filtres à la fois ; il est plus susceptible de perdre son intérêt et de partir s’il doit suivre le processus pour chaque variation possible.
--   Incorporez une recherche intelligente, avec une saisie semi-automatique et des suggestions de termes de recherche. Je recommanderais également d’inclure des suggestions de recherche personnalisées, en particulier pour vos clients habituels qui ont créé un compte chez vous et au sujet desquels vous avez pu recueillir des informations clés.
+- Mettez le champ de recherche en avant et au centre. Il est plus courant de le placer dans le coin supérieur droit, mais en le plaçant juste en dessous du centre de l’en-tête de votre site, vous augmentez les chances que le client l’utilise.
+- Utilisez un système de filtrage spécifique mais équilibré. Les résultats de la recherche ne doivent pas être trop larges, sinon le visiteur devra continuer à parcourir les résultats. Vous ne voulez pas non plus qu’il y ait trop d’options, car le visiteur pourrait être submergé. Veillez à ce que votre visiteur puisse choisir plusieurs filtres à la fois ; il est plus susceptible de perdre son intérêt et de partir s’il doit suivre le processus pour chaque variation possible.
+- Incorporez une recherche intelligente, avec une saisie semi-automatique et des suggestions de termes de recherche. Je recommanderais également d’inclure des suggestions de recherche personnalisées, en particulier pour vos clients habituels qui ont créé un compte chez vous et au sujet desquels vous avez pu recueillir des informations clés.
 
 ## Être toujours disponible
 
@@ -62,7 +65,7 @@ Une recherche de site optimisée et conviviale est systématiquement liée à un
 
 Dans l’idéal, votre clientèle est très ouverte. Vous pourriez recevoir des visiteurs de tout le pays – voire du monde entier – à toute heure de la journée, sept jours sur sept. Une disponibilité constante est un défi, en particulier pour une startup ou une petite marque de commerce électronique, mais c’est un facteur essentiel d’un CX de qualité.
 
-Heureusement, les robots intelligents ne cessent de s’améliorer, ce qui signifie que vous pouvez inclure un agent de chat sur votre site pour gérer la majorité des interactions avec les clients, en faisant appel à un agent humain si nécessaire. Des logiciels comme Dashly et LiveChat intègrent des agents avec des [chatbots](https://leconceptmarketing.com/quest-ce-quun-chatbot-et-pourquoi-est-il-important/) ; Chatfuel, Pandorabots et DialogFlow sont des programmes de chatbot intelligents fortement recommandés.
+Heureusement, les robots intelligents ne cessent de s’améliorer, ce qui signifie que vous pouvez inclure un agent de chat sur votre site pour gérer la majorité des interactions avec les clients, en faisant appel à un agent humain si nécessaire. Des logiciels comme Dashly et LiveChat intègrent des agents avec des [chatbots ](https://leconceptmarketing.com/quest-ce-quun-chatbot-et-pourquoi-est-il-important/); Chatfuel, Pandorabots et DialogFlow sont des programmes de chatbot intelligents fortement recommandés.
 
 Si vous êtes comme moi, vous utilisez plus souvent le chat en direct – que ce soit avec des chatbots intelligents ou avec un véritable agent en direct – sur des sites pour dépanner ou pour traiter un retour. Ces éléments sont évidemment importants pour une bonne expérience client, car vous voulez que les visiteurs de votre site sachent que vous êtes là pour eux.
 
@@ -93,7 +96,3 @@ N’oubliez pas que votre concurrence se compose littéralement de millions d’
 Les marques vont et viennent. Le facteur clé qui détermine le succès dans le monde du commerce électronique est la fidélité des clients – ce qui signifie que la conception de votre site web de commerce électronique pourrait en fin de compte déterminer si votre marque survit.
 
 **À Lire Aussi :**
-
-![](https://leconceptmarketing.com/wp-content/uploads/2021/10/seb.jpg)
-
-**Sébastian Magni** est un Spécialiste du SEO et Inbound Marketing chez @[LCM](https://leconceptmarketing.com/)

@@ -1,11 +1,16 @@
 ---
 title: "Aave ci-dessous son support à long terme ; À quoi s’attendre maintenant ?"
 permalink: "/aave-ci-dessous-son-support-a-long-terme-a-quoi-sattendre-maintenant/"
-date: "2022-05-14T06:34:52+00:00"
-author: "Sylvere Gelien Responsable Webmarketing & Acquisitions // Marchés : France, Uk, USA, CA"
-categories: ["Actualité Web","Crypto-monnaies","Le Journal E-marketing","Meilleur du Web"]
-description: "Aave est sur une tendance baissière depuis avril au milieu d&#039;une intense volatilité sur le marché.  Les principaux altcoins ont prolongé les pertes en raiso"
+legacy_permalinks: []
+type: "post"
+date: "2022-05-14T07:34:52+00:00"
+modified: ""
+author: "Sébastian Magni @ Responsable du contenu"
+categories: ["Crypto-monnaies"]
+tags: ["actualité crypto","actualite cryptomonnaies","blokchaine","crypto","crypto actualité","crypto monnaie","crypto monnaie prometteuse","cryptomonnaie","cryptomonnaies actualité","cryptomonnaies news","la crypto monnaie","les cryptomonnaies","meilleur crypto monnaie","NFT","nouvelle crypto monnaie","prix crypto monnaie"]
+description: "Actualité sur le bitcoin, l'ethereum, la NFT, blockchain Aave ci-dessous son support à long terme ; À quoi s'attendre maintenant ?"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2022/05/dylan-calluy-JpflvzEl5cg-unsplash.jpg"
+source_url: "https://leconceptmarketing.com/aave-ci-dessous-son-support-a-long-terme-a-quoi-sattendre-maintenant/"
 source_capture: "20220523235719"
 ---
 Aave est sur une tendance baissière depuis avril au milieu d’une intense volatilité sur le marché. Les principaux altcoins ont prolongé les pertes en raison d’une vente importante dans l’ensemble de l’industrie de la crypto-monnaie. Au cours de la semaine dernière, la pièce a présenté des creux plus bas et a affiché une pression de vente intense.
@@ -14,7 +19,7 @@ L’altcoin a également connu des volumes de transactions élevés, liés à un
 
 Une chute par rapport au niveau de prix actuel signifierait qu’Aave pourrait bientôt viser la région de support de 50 $. Aave a été parmi les principaux perdants de l’industrie avec une perte de plus de 51 % au cours de la dernière semaine.
 
-## Analyse des prix Aave : graphique d’un jour
+## Analyse des prix Aave : graphique d’un jour
 
 Aave était au prix de 74 $ sur le graphique d’un jour | **[Source : AAVEUSD sur TradingView](https://www.tradingview.com/symbols/AAVEUSD/?exchange=COINBASE)**
 
@@ -34,7 +39,7 @@ Aave était au milieu d’une forte vente, la pièce n’avait pas enregistré l
 
 Aave a plané pour la dernière fois à ce stade au mois de décembre 2020. Les bandes de Bollinger qui affichent de la volatilité ont montré des chances de volatilité. Les bandes se sont élargies, ce qui indique une volatilité accrue des prix.
 
-_**Lecture connexe | TA: Bitcoin casse 30 000 $, pourquoi cela pourrait se transformer en une tendance à la baisse plus importante**_
+***Lecture connexe | TA: Bitcoin casse 30 000 $, pourquoi cela pourrait se transformer en une tendance à la baisse plus importante***
 
 ![Aave](https://leconceptmarketing.com/wp-content/uploads/2022/05/1652510092_726_Aave-ci-dessous-son-support-a-long-terme-A-quoi-sattendre.png)
 
@@ -46,6 +51,8 @@ Les chances de reprise au cours des séances de négociation immédiates semblen
 
 Sur le graphique, l’indicateur a été vu en dessous de la demi-ligne et il a continué à se déplacer vers le sud alors que les sorties de capitaux dépassaient les entrées de capitaux.
 
-_**Lecture connexe | Les entrées d’échange de bitcoins ont atteint leur plus haut niveau en trois mois alors que le marché se prépare à une nouvelle baisse**_
+***Lecture connexe | Les entrées d’échange de bitcoins ont atteint leur plus haut niveau en trois mois alors que le marché se prépare à une nouvelle baisse***
 
+```
 Featured image from UnSplash, chart from TradingView.com
+```

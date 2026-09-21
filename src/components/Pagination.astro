@@ -1,0 +1,31 @@
+---
+interface Props { page: any; base: string; first?: string }
+const { page, base, first } = Astro.props;
+const current: number = page.currentPage;
+const last: number = page.lastPage;
+
+const href = (n: number) => (n === 1 ? (first ?? base) : `${base}${n}/`);
+
+// Fenetre glissante autour de la page courante, bornes toujours visibles.
+const nums: (number | "gap")[] = [];
+for (let i = 1; i <= last; i++) {
+  if (i === 1 || i === last || Math.abs(i - current) <= 2) nums.push(i);
+  else if (nums[nums.length - 1] !== "gap") nums.push("gap");
+}
+---
+
+{last > 1 && (
+  <nav class="pagination" aria-label="Pagination">
+    {current > 1 && <a href={href(current - 1)} rel="prev">‹ Précédent</a>}
+    {nums.map((n) =>
+      n === "gap" ? (
+        <span class="is-gap" aria-hidden="true">…</span>
+      ) : n === current ? (
+        <span aria-current="page">{n}</span>
+      ) : (
+        <a href={href(n)}>{n}</a>
+      )
+    )}
+    {current < last && <a href={href(current + 1)} rel="next">Suivant ›</a>}
+  </nav>
+)}

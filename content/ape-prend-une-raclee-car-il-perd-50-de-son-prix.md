@@ -1,11 +1,16 @@
 ---
 title: "APE prend une raclée car il perd 50% de son prix"
 permalink: "/ape-prend-une-raclee-car-il-perd-50-de-son-prix/"
-date: "2022-05-08T12:36:49+00:00"
-author: "Sylvere Gelien Responsable Webmarketing & Acquisitions // Marchés : France, Uk, USA, CA"
-categories: ["Actualité Web","Crypto-monnaies","Le Journal E-marketing","Meilleur du Web"]
-description: "L&#039;APE doit s&#039;accrocher, sinon il tombe et subit une &quot;blessure&quot; majeure.\nLes jetons non fongibles et le métaverse ne sont plus simplement des mots à la mode da"
+legacy_permalinks: []
+type: "post"
+date: "2022-05-08T13:36:49+00:00"
+modified: ""
+author: "Sébastian Magni @ Responsable du contenu"
+categories: ["Crypto-monnaies"]
+tags: ["Bitcoin","crypto","Les jetons non fongibles (NFT)"]
+description: "Actualité sur le bitcoin, l'ethereum, la NFT, blockchain APE prend une raclée car il perd 50% de son prix"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2022/05/APE.png"
+source_url: "https://leconceptmarketing.com/ape-prend-une-raclee-car-il-perd-50-de-son-prix/"
 source_capture: "20220530123524"
 ---
 L’APE doit s’accrocher, sinon il tombe et subit une “blessure” majeure.
@@ -16,9 +21,11 @@ Rien qu’en 2021, le marché des NFT était évalué à 40 milliards de dollars
 
 Nous avons également observé une nouvelle pièce – ApeCoin – provoquant un chahut à l’échelle du secteur parallèlement à cette expansion.
 
-**_Lecture suggérée | Le volume des échanges de Moonbirds et Solana NFT est en baisse alors que les ventes augmentent de 45%_**
+***Lecture suggérée | Le volume des échanges de Moonbirds et Solana NFT est en baisse alors que les ventes augmentent de 45%***
 
+```
 ApeCoin still makes a lot of noise, despite suffering losses in the market. (DailyCoin)
+```
 
 ApeCoin est une crypto-monnaie récemment lancée sur le réseau Ethereum (ETH). La pièce est la crypto-monnaie native de l’écosystème APE, qui se compose de l’ApeCoin DAO et de tous les services et biens basés sur l’APE.
 
@@ -26,9 +33,11 @@ Le développeur des célèbres collections NFT du Bored Ape Yacht Club (BAYC), Y
 
 Bien qu’il s’agisse de la plus récente crypto-monnaie sur le marché en avril de cette année, sa capitalisation boursière se classe au 47e rang, à 3,445 milliards de dollars.
 
-**_Lecture suggérée | Bitcoin s’effondre le plus en près d’un mois – Ses beaux jours sont-ils terminés ?_**
+***Lecture suggérée | Bitcoin s’effondre le plus en près d’un mois – Ses beaux jours sont-ils terminés ?***
 
-[![](https://leconceptmarketing.com/wp-content/uploads/2022/05/binance.jpeg)](https://accounts.binance.com/fr/register?ref=CFWBZCAM)
+[
+![](https://leconceptmarketing.com/wp-content/uploads/2022/05/binance.jpeg)
+](https://accounts.binance.com/fr/register?ref=CFWBZCAM)
 
 ## L’APE chute fort de l’ATH
 
@@ -36,9 +45,11 @@ L’APE a atteint un sommet historique de 28 $ à la fin du mois d’avril. Mais
 
 Compte tenu de l’attention médiatique qu’ApeCoin suscite déjà, si le prix continue d’augmenter, ce jeton pourrait devenir l’une des meilleures crypto-monnaies en 2022.
 
-![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODI0IiBoZWlnaHQ9IjgxMiIgdmlld0JveD0iMCAwIDE4MjQgODEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+![](https://www.tradingview.com/x/Ksp9yrZK/)
 
+```
 APE total market cap at $3.445 billion on the weekend chart | Source: [TradingView.com](https://www.tradingview.com/chart/ajrdy9Lf/)
+```
 
 Cependant, en revanche, le prix de l’APE a considérablement baissé au cours de la semaine dernière, d’environ 50,42 %.
 
@@ -54,4 +65,10 @@ Il y a un total de 1 milliard de jetons APE, et 15 % de l’offre de jetons est 
 
 Le cours de l’action ApeCoin a commencé le 17 mars à 5 $ et a augmenté de plus de 250 % au cours des 48 premières heures de négociation. Après avoir atteint 18 $, APE a peu reculé et revient maintenant pour réévaluer cette région.
 
+```
 Featured image NMK World, chart from [TradingView.com](https://www.tradingview.com/chart/ajrdy9Lf/)
+```
+
+[
+![](https://leconceptmarketing.com/wp-content/uploads/2022/05/bit.jpeg)
+](bitflyerglobal.pxf.io/ORoALA)

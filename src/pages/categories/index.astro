@@ -1,0 +1,43 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCategories, getTags } from "../../lib/archive";
+
+const categories = await getCategories();
+const tags = await getTags();
+---
+
+<BaseLayout title="Catégories" description="Toutes les catégories de l’archive du Concept Marketing." categories={categories}>
+  <section class="hero">
+    <div class="wrap">
+      <p class="breadcrumb"><a href="/">Accueil</a> › Catégories</p>
+      <h1>Catégories</h1>
+      <p>{categories.length} catégories issues de l’arborescence d’origine du site.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="grid">
+        {categories.map((c) => (
+          <article class="card">
+            <div class="card__body">
+              <h3 class="card__title"><a href={`/category/${c.slug}/`}>{c.name}</a></h3>
+              <p class="card__meta">{c.count} article{c.count > 1 ? "s" : ""}</p>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {tags.length > 0 && (
+    <section class="section" style="border-top:1px solid var(--border)">
+      <div class="wrap">
+        <div class="section__head"><h2>Mots-clés</h2></div>
+        <div class="tag-cloud">
+          {tags.slice(0, 120).map((t) => <span class="chip chip--plain">{t.name} <span style="opacity:.6">{t.count}</span></span>)}
+        </div>
+      </div>
+    </section>
+  )}
+</BaseLayout>

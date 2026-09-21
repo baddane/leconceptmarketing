@@ -1,11 +1,16 @@
 ---
-title: "Asgard&#039;s Wrath 2 : Avis et critiques du jeu"
+title: "Asgard’s Wrath 2 : Avis et critiques du jeu"
 permalink: "/asgards-wrath-2-avis/"
+legacy_permalinks: []
+type: "post"
 date: "2024-01-23T14:35:59+00:00"
+modified: ""
 author: "Sébastian Magni @ Responsable du contenu"
-categories: ["Digital Marketing","Le Journal E-marketing","SEO","Réseaux Sociaux"]
-description: "Asgard&#039;s Wrath 2 se distingue des autres jeux de réalité virtuelle disponibles sur le marché aujourd&#039;hui. En tant que vitrine de Meta Quest 3, cette suite of"
+categories: ["Gaming et des jeux vidéo"]
+tags: ["Asgard's Wrath 2","Avis et critiques"]
+description: "Asgard's Wrath 2 se distingue des autres jeux de réalité virtuelle disponibles sur le marché aujourd'hui. En tant que vitrine de Meta Quest 3, cette suite offre une expérience rarement vue dans cette catégorie, en tissant un mélange passionnant d'action"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2024/01/image-3.png"
+source_url: "https://leconceptmarketing.com/asgards-wrath-2-avis/"
 source_capture: "20240221152012"
 ---
 **[Asgard’s Wrath 2](https://amzn.to/42k8uHf)** se distingue des autres jeux de réalité virtuelle disponibles sur le marché aujourd’hui. En tant que vitrine de Meta Quest 3, cette suite offre une expérience rarement vue dans cette catégorie, en tissant un mélange passionnant d’action, de conception d’énigmes complexes et d’environnements semi-ouverts. Grâce à l’utilisation intelligente des mécanismes VR, vous découvrirez de nouvelles surprises même après des dizaines d’heures de jeu. Asgard’s Wrath 2 est un jeu VR difficile à arrêter, même si l’autonomie de la batterie du Quest 3 l’exige souvent. Cependant, bien qu’il commence fort, il rencontre quelques obstacles en cours de route.
@@ -29,7 +34,3 @@ Malheureusement, l’abondance d’énigmes conduit à un ralentissement du ryth
 Asgard’s Wrath 2 propose tout de même une campagne épique qui peut durer jusqu’à 70 heures et qui regorge de lieux, de repaires et de secrets à découvrir. De même, un mode roguelike infiniment rejouable vous attend bien après avoir terminé la campagne et les zones de l’overworld. Malgré ces quelques défauts, Asgard’s Wrath 2 reste une offrande digne des dieux.
 
 → 🔥 **D’autres articles qui pourraient vous intéresser** :
-
-![](https://leconceptmarketing.com/wp-content/uploads/2021/10/seb.jpg)
-
-**Sébastian Magni** est un Spécialiste du SEO et Inbound Marketing chez @[LCM](https://leconceptmarketing.com/)

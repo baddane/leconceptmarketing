@@ -1,24 +1,31 @@
 ---
 title: "Quel Rôle pour les réseaux sociaux dans la construction de Marque 2022"
-permalink: "/▷-le-role-des-reseaux-sociaux-dans-la-construction-de-marque/"
-date: "2019-10-24T22:27:52+00:00"
+permalink: "/le-role-des-reseaux-sociaux-dans-la-construction-de-marque/"
+legacy_permalinks: ["/▷-le-role-des-reseaux-sociaux-dans-la-construction-de-marque/"]
+type: "post"
+date: "2019-10-24T23:27:52+00:00"
+modified: ""
 author: "Sébastian Magni @ Responsable du contenu"
-categories: ["Actualité Web","Crypto-monnaies","Le Journal E-marketing","Meilleur du Web"]
-description: "Par Didier Lagae, CEO et fondateur de MARCO, l’agence de communication la plus appréciée et la plus récompensée d’Espagne et Best PR Professional Europe"
+categories: ["Actualité Web","Espace Réseaux Sociaux"]
+tags: ["marketing","Marketing digital","marque","Reseaux sociaux","stratégie communication"]
+description: "En France, on recense 58% d’utilisateurs actifs sur les réseaux sociaux (Hootsuite, 2021) et sur Twitter, près d’un inscrit"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2019/10/Le-Rôle-Des-Réseaux-Sociaux-Dans-La-Construction-De-Marque.jpg"
+source_url: "https://leconceptmarketing.com/%E2%96%B7-le-role-des-reseaux-sociaux-dans-la-construction-de-marque/"
 source_capture: "20211129081339"
 ---
 **Par Didier Lagae, CEO et fondateur de MARCO, l’agence de communication la plus appréciée et la plus récompensée d’Espagne et Best PR Professional Europe 2021 aux PRWeek Global Awards.**
 
 ![](https://leconceptmarketing.com/wp-content/uploads/2019/10/image-11.jpeg)
 
-Quand une marque vous fait sourire avec la simple mention de son slogan, c’est qu’elle est pleinement aboutie. 
+Quand une marque vous fait sourire avec la simple mention de son slogan, c’est qu’elle est pleinement aboutie.
 
-Quand une destination touristique fait en sorte que vous rêviez de ses plages, de sa gastronomie ou de ses monuments, c’est qu’elle gère sa stratégie de communication  de manière optimale. Lorsque vous assimilez directement une ville ou un pays  à un secteur spécifique et que cela vous incite à y investir, à y voyager ou à vous y installer.
+Quand une destination touristique fait en sorte que vous rêviez de ses plages, de sa gastronomie ou de ses monuments, c’est qu’elle gère sa stratégie de communication  de manière optimale. Lorsque vous assimilez directement une ville ou un pays  à un secteur spécifique et que cela vous incite à y investir, à y voyager ou à vous y installer.
 
-C’est que sa réalité est bien construite. Toutes ces marques ont alors réussi à obtenir une reconnaissance internationale, et cela grâce à une stratégie marketing impliquant les réseaux sociaux.
+C’est que sa réalité est bien construite. Toutes ces marques ont alors réussi à obtenir une reconnaissance internationale, et cela grâce à une stratégie marketing impliquant les réseaux sociaux.
 
-Derrière la construction d’une marque, il y a de nombreuses questions  auxquelles il a fallu répondre et de nombreuses décisions qui ont été prises. Ce n’est pas le résultat d’une improvisation. Derrière tout cela, il y a du travail, du travail et encore du travail, qui doit  être constant et de qualité, sans perdre de vue l’objectif fixé. Ainsi, tout le monde n’est pas prêt à trouver ces réponses, à les analyser et à prendre les décisions correspondantes.
+## Quel Rôle pour les réseaux sociaux :
+
+Derrière la construction d’une marque, il y a de nombreuses questions  auxquelles il a fallu répondre et de nombreuses décisions qui ont été prises. Ce n’est pas le résultat d’une improvisation. Derrière tout cela, il y a du travail, du travail et encore du travail, qui doit  être constant et de qualité, sans perdre de vue l’objectif fixé. Ainsi, tout le monde n’est pas prêt à trouver ces réponses, à les analyser et à prendre les décisions correspondantes.
 
 En France, on recense 58% d’utilisateurs actifs sur les réseaux sociaux (Hootsuite, 2020) et sur Twitter, près d’un inscrit sur trois suit plus de 11 marques, contre un sur cinq en 2019 (Médiamétrie, 2019). La puissance et la croissance rapide des réseaux sociaux n’est plus à démontrée.
 
@@ -32,7 +39,7 @@ Cela signifie : ce que la marque possède déjà (ses valeurs et ses acquis), ce
 
 Un autre aspect de la stratégie de communication à prendre en compte est l’analyse des résultats de ces campagnes : est-ce que la campagne de communication est effectivement présente, la visibilité a-t-elle augmenté, la réputation et la perception se sont-elles améliorées ?
 
-Il faut analyser si la couverture médiatique provient d’articles dans les médias traditionnels, à travers une campagne publicitaire, sur les réseaux sociaux, à travers un  
+Il faut analyser si la couverture médiatique provient d’articles dans les médias traditionnels, à travers une campagne publicitaire, sur les réseaux sociaux, à travers un
 événement, des témoignages… Il faut pouvoir mesurer l’efficacité de chacun des éléments du marketing mix avec lequel on a travaillé afin de pouvoir ajuster sa communication si besoin et accentuer ou non sa communication sur les réseaux sociaux en fonction des résultats.
 
 Enfin, je conseil de créer un effet « waouuh ! » sur les réseaux sociaux afin d’amplifier la portée de vos messages sur ces médias sociaux. Ainsi, cette perception que vous aurez générée s’accentuera et se renforcera dans la durée. Il s’agit d’aligner la réalité et le message pour ensuite créer un effet de surprise.
@@ -44,7 +51,3 @@ vous devez proposer un meilleur produit que ce que vous aviez promis, permettant
 Un consommateur heureux aura davantage envie de partager son expérience sur les réseaux sociaux, avec ses amis et connaissances, en partageant des photos, des avis en ligne… Dans le tourisme par exemple, un touriste heureux et conquis génère en moyenne 25 nouveaux touristes par le simple effet du bouche à oreille.
 
 **À lire aussi :**
-
-![](https://leconceptmarketing.com/wp-content/uploads/2021/10/seb.jpg)
-
-**Sébastian Magni** est un Spécialiste du SEO et Inbound Marketing chez @[LCM](https://leconceptmarketing.com/)

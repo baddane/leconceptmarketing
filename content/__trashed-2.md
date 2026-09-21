@@ -1,11 +1,16 @@
 ---
 title: "Comment Ajouter Correctement Google AdSense à votre site WordPress"
-permalink: "/__trashed-2/"
+permalink: "/trashed-2/"
+legacy_permalinks: ["/__trashed-2/"]
+type: "post"
 date: "2022-04-07T08:00:00+00:00"
+modified: ""
 author: "Sébastian Magni @ Responsable du contenu"
-categories: ["Actualité Web","Crypto-monnaies","Le Journal E-marketing","Meilleur du Web"]
-description: "Google AdSense est l&#039;un des moyens les plus populaires de monétiser votre site Web.Il vous permet de vendre automatiquement l&#039;espace publicitaire de votre"
+categories: ["Google","WordPress"]
+tags: ["Google AdSense","wordpress"]
+description: "Google AdSense est un réseau publicitaire géré par Google qui permet aux blogueurs et aux propriétaires de sites Web de gagner de l'argent"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2022/04/ADSSSSS.jpeg"
+source_url: "https://leconceptmarketing.com/__trashed-2/"
 source_capture: "20220427093437"
 ---
 [Google AdSense](https://leconceptmarketing.com/comment-postuler-a-google-adsense-et-etre-rapidement-approuve/) est l’un des moyens les plus populaires de monétiser votre site Web.
@@ -16,33 +21,31 @@ Il vous permet de vendre automatiquement l’espace publicitaire de votre site W
 
 Dans cet article, nous vous montrerons comment ajouter Google AdSense à WordPress ainsi que quelques bonnes pratiques et astuces pour augmenter vos gains.
 
-Table Des Matières
-
--   [1 Qu’est-ce que Google AdSense ?](#Qu8217est-ce_que_Google_AdSense)
--   [2 Premiers pas avec AdSense :](#Premiers_pas_avec_AdSense)
--   [3 1. Placer manuellement le code publicitaire de Google AdSense dans WordPress](#1_Placer_manuellement_le_code_publicitaire_de_Google_AdSense_dans_WordPress)
-    -   [3.1 Ajout de Google AdSense dans WordPress](#Ajout_de_Google_AdSense_dans_WordPress)
--   [4 2. Ajouter le code AdSense Auto-Ads dans WordPress :](#2_Ajouter_le_code_AdSense_Auto-Ads_dans_WordPress)
-    -   [4.1 Ajout du code AdSense Auto-Ads dans WordPress](#Ajout_du_code_AdSense_Auto-Ads_dans_WordPress)
--   [5 3. Meilleures pratiques AdSense et questions fréquemment posées](#3_Meilleures_pratiques_AdSense_et_questions_frequemment_posees)
-    -   [5.1 Quelle est la meilleure taille d’annonce AdSense ?](#Quelle_est_la_meilleure_taille_d8217annonce_AdSense)
-    -   [5.2 Quel est le meilleur emplacement pour AdSense ?](#Quel_est_le_meilleur_emplacement_pour_AdSense)
-    -   [5.3 Puis-je cliquer sur mes propres annonces Google AdSense ?](#Puis-je_cliquer_sur_mes_propres_annonces_Google_AdSense)
-    -   [5.4 Puis-je utiliser mon compte AdSense Blogger ou YouTube avec WordPress ?](#Puis-je_utiliser_mon_compte_AdSense_Blogger_ou_YouTube_avec_WordPress)
-    -   [5.5 Puis-je cliquer sur mes propres annonces Google AdSense ?](#Puis-je_cliquer_sur_mes_propres_annonces_Google_AdSense-2)
-    -   [5.6 Qu’est-ce que le RPM de page dans Google AdSense ?](#Qu8217est-ce_que_le_RPM_de_page_dans_Google_AdSense)
-    -   [5.7 Puis-je utiliser mon compte AdSense Blogger ou YouTube avec WordPress ?](#Puis-je_utiliser_mon_compte_AdSense_Blogger_ou_YouTube_avec_WordPress-2)
-    -   [5.8 Qu’est-ce que le CTR dans Google AdSense ?](#Qu8217est-ce_que_le_CTR_dans_Google_AdSense)
-    -   [5.9 Quand et comment Google AdSense paie-t-il les éditeurs ?](#Quand_et_comment_Google_AdSense_paie-t-il_les_editeurs)
-    -   [5.10 Pourquoi Google AdSense a-t-il rejeté ma demande ?](#Pourquoi_Google_AdSense_a-t-il_rejete_ma_demande)
-    -   [5.11 Quelles sont les conditions requises pour que la demande de compte Google AdSense soit approuvée ?](#Quelles_sont_les_conditions_requises_pour_que_la_demande_de_compte_Google_AdSense_soit_approuvee)
-    -   [5.12 Quelle est la différence entre Google AdSense et Google AdWords ?](#Quelle_est_la_difference_entre_Google_AdSense_et_Google_AdWords)
+- 1 Qu’est-ce que Google AdSense ?
+- 2 Premiers pas avec AdSense :
+- 3 1. Placer manuellement le code publicitaire de Google AdSense dans WordPress
+  - 3.1 Ajout de Google AdSense dans WordPress
+- 4 2. Ajouter le code AdSense Auto-Ads dans WordPress :
+  - 4.1 Ajout du code AdSense Auto-Ads dans WordPress
+- 5 3. Meilleures pratiques AdSense et questions fréquemment posées
+  - 5.1 Quelle est la meilleure taille d’annonce AdSense ?
+  - 5.2 Quel est le meilleur emplacement pour AdSense ?
+  - 5.3 Puis-je cliquer sur mes propres annonces Google AdSense ?
+  - 5.4 Puis-je utiliser mon compte AdSense Blogger ou YouTube avec WordPress ?
+  - 5.5 Puis-je cliquer sur mes propres annonces Google AdSense ?
+  - 5.6 Qu’est-ce que le RPM de page dans Google AdSense ?
+  - 5.7 Puis-je utiliser mon compte AdSense Blogger ou YouTube avec WordPress ?
+  - 5.8 Qu’est-ce que le CTR dans Google AdSense ?
+  - 5.9 Quand et comment Google AdSense paie-t-il les éditeurs ?
+  - 5.10 Pourquoi Google AdSense a-t-il rejeté ma demande ?
+  - 5.11 Quelles sont les conditions requises pour que la demande de compte Google AdSense soit approuvée ?
+  - 5.12 Quelle est la différence entre Google AdSense et Google AdWords ?
 
 ## Qu’est-ce que Google AdSense ?
 
 ![](https://leconceptmarketing.com/wp-content/uploads/2022/04/ADSSSSS-1024x576.jpeg)
 
-[Google AdSense](https://www.google.com/intl/fr_fr/adsense/start/) est un réseau publicitaire géré par Google qui permet aux blogueurs et aux propriétaires de sites Web de gagner de l’argent en diffusant des annonces textuelles, des images, des vidéos et d’autres publicités interactives sur leurs sites Web. Ces annonces sont ciblées en fonction du contenu du site et de l’audience, elles sont donc très pertinentes.
+[Google AdSense ](https://www.google.com/intl/fr_fr/adsense/start/)est un réseau publicitaire géré par Google qui permet aux blogueurs et aux propriétaires de sites Web de gagner de l’argent en diffusant des annonces textuelles, des images, des vidéos et d’autres publicités interactives sur leurs sites Web. Ces annonces sont ciblées en fonction du contenu du site et de l’audience, elles sont donc très pertinentes.
 
 Google AdSense ne pose aucun problème, car vous n’avez pas à traiter avec les annonceurs ni à vous soucier de percevoir de l’argent. Google administre et entretient les relations avec les annonceurs. Il perçoit le paiement, prend ses frais de gestion et vous envoie le reste de l’argent.
 
@@ -62,7 +65,7 @@ Cependant, la plupart des éditeurs utilisent encore la méthode manuelle pour p
 
 Nous allons vous montrer les deux méthodes. Nous vous recommandons de commencer par le placement manuel des annonces. Une fois que vous aurez commencé à gagner de l’argent, vous pourrez alors expérimenter les annonces automatiques pour les comparer vous-même.
 
-## 1\. Placer manuellement le code publicitaire de Google AdSense dans WordPress
+## 1. Placer manuellement le code publicitaire de Google AdSense dans WordPress
 
 Vous commencerez par cliquer sur le menu ” Ads ” dans la colonne de gauche, puis vous passerez à l’onglet ” By ad unit “. De là, vous devez cliquer sur “Créer une nouvelle annonce”.
 
@@ -86,7 +89,7 @@ Ensuite, cliquez sur le bouton Créer pour continuer.
 
 AdSense va maintenant générer le code de l’annonce pour vous. Il contient l’ID unique de l’unité publicitaire et votre ID d’éditeur.
 
-**👉🏼 Lecture complémentaire :** [**Logiciel Montage Video InVideo, Avis, Caractéristiques, prix et outils 2022**](https://leconceptmarketing.com/logiciel-montage-video-invideo-avis-caracteristiques-prix-et-outils-2022/)
+**👉🏼 Lecture complémentaire :**  [**Logiciel Montage Video InVideo, Avis, Caractéristiques, prix et outils 2022**](https://leconceptmarketing.com/logiciel-montage-video-invideo-avis-caracteristiques-prix-et-outils-2022/)
 
 ![Comment Ajouter Correctement Google AdSense à votre site WordPress](https://www.wpbeginner.com/wp-content/uploads/2020/02/copyadcode.png)
 
@@ -104,7 +107,7 @@ Il suffit d’aller sur la page Apparence ” Widgets dans la zone d’administr
 
 Pour un meilleur contrôle et suivi des placements, nous vous recommandons de consulter le plugin [AdSanity WordPress](https://adsanityplugin.com/). (Voir : Les meilleures solutions WordPress de gestion des annonces)
 
-## 2\. Ajouter le code AdSense Auto-Ads dans WordPress :
+## 2. Ajouter le code AdSense Auto-Ads dans WordPress :
 
 L’ajout d’annonces individuelles à différents endroits de votre site Web prend beaucoup de temps. La plupart des débutants ont du mal à trouver les meilleurs emplacements pour afficher des annonces sur leurs sites.
 
@@ -116,11 +119,11 @@ Si vous souhaitez utiliser la fonction d’annonces automatiques, voici comment 
 
 Commencez par vous connecter à votre compte Google AdSense et cliquez sur l’onglet Annonces. Ensuite, vous devez cliquer sur le bouton Obtenir un code pour générer le code d’annonces automatiques.
 
-![2\. Ajouter le code AdSense Auto-Ads dans WordPress ](https://www.wpbeginner.com/wp-content/uploads/2020/02/auto-ads-code.png)
+![2. Ajouter le code AdSense Auto-Ads dans WordPress](https://www.wpbeginner.com/wp-content/uploads/2020/02/auto-ads-code.png)
 
 AdSense va maintenant générer un extrait de code avec votre ID d’éditeur et l’afficher à l’écran. Vous pouvez maintenant copier et coller ce code dans un éditeur de texte.
 
-**👉🏼 Lecture complémentaire :** [**Comment élaborer votre stratégie de marketing des médias sociaux pour 2022**](https://leconceptmarketing.com/comment-elaborer-votre-strategie-de-marketing-des-medias-sociaux-pour-2022/)
+**👉🏼 Lecture complémentaire :**  [**Comment élaborer votre stratégie de marketing des médias sociaux pour 2022**](https://leconceptmarketing.com/comment-elaborer-votre-strategie-de-marketing-des-medias-sociaux-pour-2022/)
 
 ![Ajouter le code AdSense Auto-](https://www.wpbeginner.com/wp-content/uploads/2020/02/autoads-code.png)
 
@@ -130,7 +133,7 @@ Le code auto-ads utilise un seul extrait de code pour générer des annonces par
 
 Une façon de le faire est d’ajouter le code dans le fichier header.php de votre thème WordPress. Cependant, l’inconvénient de cette méthode est que le code de votre annonce disparaîtra si vous mettez à jour ou modifiez votre [thème](https://leconceptmarketing.com/divi-vs-wordpress-comment-choisir-le-meilleur-moyen-de-creer-un-site-web/).
 
-**👉🏼 Lecture complémentaire :** **[Google EAT : Comment améliorer votre référencement On-Page SEO](https://leconceptmarketing.com/google-eat-comment-ameliorer-votre-referencement-on-page-seo/)**
+**👉🏼 Lecture complémentaire :**  **[Google EAT : Comment améliorer votre référencement On-Page SEO](https://leconceptmarketing.com/google-eat-comment-ameliorer-votre-referencement-on-page-seo/)**
 
 La meilleure façon d’ajouter un code à votre site Web est d’utiliser un plugin comme Insert Headers and Footers.
 
@@ -146,7 +149,7 @@ Le plugin va maintenant ajouter le code publicitaire sur toutes les pages de vot
 
 **👉🏼 Lecture complémentaire : [Le Top 22 Meilleurs Outils en Marketing Digital Indispensables en 2022](https://leconceptmarketing.com/les-22-meilleurs-outils-en-marketing-digital-indispensables-en-2022/)**
 
-## 3\. Meilleures pratiques AdSense et questions fréquemment posées
+## 3. Meilleures pratiques AdSense et questions fréquemment posées
 
 Au fil des ans, nous avons répondu à plusieurs questions relatives à AdSense. Ayant utilisé AdSense sur plusieurs de nos sites dans le passé, nous avons appris beaucoup de choses sur l’optimisation. Vous trouverez ci-dessous quelques bonnes pratiques AdSense et des questions fréquemment posées.
 
@@ -160,7 +163,7 @@ Cela dépend entièrement de votre mise en page. L’objectif étant d’obtenir
 
 Plusieurs utilisateurs nous ont demandé si nous pouvions ajouter AdSense dans un widget flottant parce qu’il sera très visible. Nous vous le déconseillons fortement, car les conditions d’utilisation de Google ne l’autorisent pas. Si vous enfreignez ces conditions, vous pouvez être banni du programme.
 
-**👉🏼 Lecture complémentaire :** [**Qu’est-ce que Google Tag Manager et pourquoi l’utiliser ? La vérité sur le gestionnaire de balises Google**](https://leconceptmarketing.com/quest-ce-que-google-tag-manager-et-pourquoi-lutiliser-la-verite-sur-le-gestionnaire-de-balises-google/)
+**👉🏼 Lecture complémentaire :**  [**Qu’est-ce que Google Tag Manager et pourquoi l’utiliser ? La vérité sur le gestionnaire de balises Google**](https://leconceptmarketing.com/quest-ce-que-google-tag-manager-et-pourquoi-lutiliser-la-verite-sur-le-gestionnaire-de-balises-google/)
 
 ### Puis-je cliquer sur mes propres annonces Google AdSense ?
 
@@ -190,7 +193,7 @@ Oui, vous pouvez le faire. Si vous avez commencé à utiliser AdSense sur l’un
 
 Il vous suffit de vous connecter à votre compte AdSense, puis de cliquer sur l’option “Autres produits” dans la section “Mes annonces”. Ensuite, vous devez cliquer sur “Upgrade now” et remplir le formulaire de demande.
 
-**👉🏼 Lecture complémentaire : [6 conseils d’experts pour la stratégie SEO des petites entreprises en 2022](https://leconceptmarketing.com/6-conseils-dexperts-pour-la-strategie-seo-des-petites-entreprises-en-2022/)**
+**👉🏼 Lecture complémentaire : [ 6 conseils d’experts pour la stratégie SEO des petites entreprises en 2022](https://leconceptmarketing.com/6-conseils-dexperts-pour-la-strategie-seo-des-petites-entreprises-en-2022/)**
 
 ### Qu’est-ce que le CTR dans Google AdSense ?
 
@@ -212,9 +215,9 @@ Google Adsense peut rejeter votre demande si votre site Web ne respecte pas les 
 
 Voici les conditions minimales à remplir pour que votre demande de compte Google AdSense soit approuvée.
 
--   Votre site Web et tout son contenu doivent être conformes aux règles et conditions du programme AdSense.
--   Votre site Web doit avoir au moins 6 mois d’existence.
--   Vous, le demandeur, devez être âgé de plus de 18 ans.
+- Votre site Web et tout son contenu doivent être conformes aux règles et conditions du programme AdSense.
+- Votre site Web doit avoir au moins 6 mois d’existence.
+- Vous, le demandeur, devez être âgé de plus de 18 ans.
 
 Remarque : même si votre demande remplit toutes les conditions requises, Google AdSense se réserve le droit de la refuser.
 
@@ -233,7 +236,3 @@ Nous espérons que cet article vous a aidé à ajouter Google AdSense à votre s
 Si vous avez aimé cet article, alors abonnez-vous à notre chaîne YouTube pour des tutoriels vidéo sur WordPress. Vous pouvez également nous trouver sur Twitter et Facebook.
 
 **À Lire Aussi :**
-
-![](https://leconceptmarketing.com/wp-content/uploads/2021/10/seb.jpg)
-
-**Sébastian Magni** est un Spécialiste du SEO et Inbound Marketing chez @[LCM](https://leconceptmarketing.com/)

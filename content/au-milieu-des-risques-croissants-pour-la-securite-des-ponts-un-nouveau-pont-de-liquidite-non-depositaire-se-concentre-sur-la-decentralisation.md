@@ -1,11 +1,16 @@
 ---
 title: "Au milieu des risques croissants pour la sécurité des ponts, un nouveau pont de liquidité non dépositaire se concentre sur la décentralisation"
 permalink: "/au-milieu-des-risques-croissants-pour-la-securite-des-ponts-un-nouveau-pont-de-liquidite-non-depositaire-se-concentre-sur-la-decentralisation/"
-date: "2022-05-17T07:57:58+00:00"
-author: "Sylvere Gelien Responsable Webmarketing & Acquisitions // Marchés : France, Uk, USA, CA"
-categories: ["Actualité Web","Crypto-monnaies","Le Journal E-marketing","Meilleur du Web"]
-description: "Fin mars, le pont Ronin, une chaîne latérale Ethereum conçue pour le très populaire jeu NFT play-to-earn (P2E) Axie Infinity pour gérer la demande croissan"
+legacy_permalinks: []
+type: "post"
+date: "2022-05-17T08:57:58+00:00"
+modified: ""
+author: "Sébastian Magni @ Responsable du contenu"
+categories: ["Crypto-monnaies"]
+tags: ["actualité crypto","actualite cryptomonnaies","blokchaine","crypto","crypto actualité","crypto monnaie","crypto monnaie prometteuse","cryptomonnaie","cryptomonnaies actualité","cryptomonnaies news","la crypto monnaie","les cryptomonnaies","meilleur crypto monnaie","NFT","nouvelle crypto monnaie","prix crypto monnaie"]
+description: "Actualité sur le bitcoin, l'ethereum, la NFT, blockchain Au milieu des risques croissants pour la sécurité des ponts, un nouveau pont de liquidité non dépositaire se concentre sur la décentralisation"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2022/05/dotoracle.png"
+source_url: "https://leconceptmarketing.com/au-milieu-des-risques-croissants-pour-la-securite-des-ponts-un-nouveau-pont-de-liquidite-non-depositaire-se-concentre-sur-la-decentralisation/"
 source_capture: "20220702091552"
 ---
 Fin mars, le pont Ronin, une chaîne latérale Ethereum conçue pour le très populaire jeu NFT play-to-earn (P2E) Axie Infinity pour gérer la demande croissante des joueurs, a été piraté pour plus de 173 600 Ether (ETH) et 25,5 millions USD – un total valeur de plus de 600 millions de dollars.
@@ -17,6 +22,10 @@ Actuellement, la chaîne Ronin se compose de neuf nœuds de validation, et le pi
 Au lendemain de l’exploit, le pont de Ronin a été fermé et tous les dépôts et retraits ont été interrompus à des fins d’enquête.
 
 En réponse au piratage, le co-fondateur et directeur de l’exploitation d’Axie Infinity, Aleksander Leonard Larsen, a déclaré à l’époque qu’il ajouterait plusieurs nouveaux validateurs au réseau Ronin afin de décentraliser davantage le réseau. Les développeurs de jeux ont également promis d’augmenter le nombre de nœuds de validation de neuf à 21 à l’avenir.
+
+- 1 L’avenir inévitable
+- 2 Un pont décentralisé et non gardien
+- 3 Transférer des actifs en toute sécurité
 
 ### L’avenir inévitable
 

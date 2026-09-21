@@ -1,0 +1,52 @@
+---
+import type { GetStaticPaths } from "astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import PostCard from "../../../components/PostCard.astro";
+import Pagination from "../../../components/Pagination.astro";
+import { getPosts, getCategories } from "../../../lib/archive";
+import { SITE } from "../../../lib/site";
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const posts = await getPosts();
+  const categories = await getCategories();
+  const perPage = SITE.postsPerPage;
+  const paths = [];
+
+  for (const category of categories) {
+    const items = posts.filter((p) => p.data.categories.includes(category.name));
+    const lastPage = Math.max(1, Math.ceil(items.length / perPage));
+    for (let n = 1; n <= lastPage; n++) {
+      paths.push({
+        // La page 1 vit sur /category/<slug>/ pour preserver les URL d'origine.
+        params: { category: category.slug, page: n === 1 ? undefined : String(n) },
+        props: { category, items: items.slice((n - 1) * perPage, n * perPage), current: n, lastPage },
+      });
+    }
+  }
+  return paths;
+};
+
+const { category, items, current, lastPage } = Astro.props;
+const categories = await getCategories();
+const base = `/category/${category.slug}/`;
+---
+
+<BaseLayout
+  title={current === 1 ? category.name : `${category.name} — page ${current}`}
+  description={`${category.count} articles archivés dans la catégorie ${category.name}.`}
+  categories={categories}
+>
+  <section class="hero">
+    <div class="wrap">
+      <p class="breadcrumb"><a href="/">Accueil</a> › <a href="/categories/">Catégories</a></p>
+      <h1>{category.name}</h1>
+      <p>{category.count} article{category.count > 1 ? "s" : ""}{lastPage > 1 ? ` — page ${current} sur ${lastPage}` : ""}</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap">
+      <div class="grid">{items.map((post: any) => <PostCard post={post} />)}</div>
+      <Pagination page={{ currentPage: current, lastPage }} base={base} />
+    </div>
+  </section>
+</BaseLayout>

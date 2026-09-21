@@ -1,11 +1,16 @@
 ---
 title: "4 façons de gagner avec la vidéo"
 permalink: "/4-facons-de-gagner-avec-la-video/"
-date: "2022-05-16T13:40:56+00:00"
-author: "Soléne Laupez Rédactrice de contenu réseaux sociaux"
-categories: ["Actualité Web","Crypto-monnaies","Le Journal E-marketing","Meilleur du Web"]
-description: "Depuis l'émergence de YouTube en 2005, la prévalence et l'impact du marketing vidéo ont explosé.\nYouTube a changé la donne en permettant aux utilisateurs o"
+legacy_permalinks: []
+type: "post"
+date: "2022-05-16T14:40:56+00:00"
+modified: ""
+author: "Sébastian Magni @ Responsable du contenu"
+categories: ["Espace Réseaux Sociaux","Réseaux sociaux"]
+tags: ["chiffres clés réseaux sociaux","les réseaux sociaux","les réseaux sociaux actualité","les réseaux sociaux news","réseaux sociaux dans le monde","réseaux sociaux en france","Statistiques sur les réseaux sociaux"]
+description: "l'actualité des réseaux sociaux, Facebook, Instagram ... 4 façons de gagner avec la vidéo"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2022/05/video-marketing-627aacc9a3141-sej.png"
+source_url: "https://leconceptmarketing.com/4-facons-de-gagner-avec-la-video/"
 source_capture: "20220702082710"
 ---
 Depuis l’émergence de YouTube en 2005, la prévalence et l’impact du marketing vidéo ont explosé.
@@ -22,16 +27,14 @@ Les entreprises locales peuvent utiliser le marketing vidéo pour générer du t
 
 Voici quatre stratégies pour construire votre stratégie de marketing vidéo locale.
 
-Table Des Matières
-
--   [1 La valeur du marketing vidéo pour les entreprises locales](#La_valeur_du_marketing_video_pour_les_entreprises_locales)
-    -   [1.1 Avantages du marketing vidéo local](#Avantages_du_marketing_video_local)
--   [2 Comment gagner avec le marketing vidéo local](#Comment_gagner_avec_le_marketing_video_local)
-    -   [2.1 1. Générez du trafic avec des vidéos éducatives](#1_Generez_du_trafic_avec_des_videos_educatives)
-    -   [2.2 2. Établissez la confiance avec les produits phares](#2_Etablissez_la_confiance_avec_les_produits_phares)
-    -   [2.3 3. Réutilisez le contenu vidéo sur les réseaux sociaux](#3_Reutilisez_le_contenu_video_sur_les_reseaux_sociaux)
-    -   [2.4 4. Augmenter la connexion avec les biographies et les témoignages de l’entreprise](#4_Augmenter_la_connexion_avec_les_biographies_et_les_temoignages_de_l8217entreprise)
--   [3 Utilisez le marketing vidéo pour atteindre plus de clients locaux](#Utilisez_le_marketing_video_pour_atteindre_plus_de_clients_locaux)
+- 1 La valeur du marketing vidéo pour les entreprises locales
+  - 1.1 Avantages du marketing vidéo local
+- 2 Comment gagner avec le marketing vidéo local
+  - 2.1 1. Générez du trafic avec des vidéos éducatives
+  - 2.2 2. Établissez la confiance avec les produits phares
+  - 2.3 3. Réutilisez le contenu vidéo sur les réseaux sociaux
+  - 2.4 4. Augmenter la connexion avec les biographies et les témoignages de l’entreprise
+- 3 Utilisez le marketing vidéo pour atteindre plus de clients locaux
 
 ## La valeur du marketing vidéo pour les entreprises locales
 
@@ -41,16 +44,18 @@ Alors que beaucoup pourraient supposer que le marketing vidéo est davantage du 
 
 ### Avantages du marketing vidéo local
 
--   **Trafic du site Web**: La publication de vidéos en ligne et l’optimisation des clics peuvent amener davantage d’utilisateurs directement sur votre site Web.
--   **Hausse des revenus**: Le marketing vidéo peut influencer les décisions d’achat et [augmenter le revenu](https://www.statista.com/outlook/dmo/digital-media/video-on-demand/video-streaming-svod/worldwide) pour votre entreprise locale.
--   **Notoriété de la marque**: la vidéo expose votre entreprise à un plus grand nombre d’utilisateurs sur un plus large éventail de plates-formes, ce qui contribue à accroître la visibilité de votre entreprise
--   **Confiance et autorité**: La publication de contenu de valeur peut renforcer la confiance de votre public et donner de l’autorité à votre entreprise.
--   **Optimisation des moteurs de recherche (SEO)**: L’intégration de vidéos dans vos pages Web et vos articles peut aider votre site à apparaître dans la recherche organique ou d’images de Google.
--   **Liens retour**: Les vidéos peuvent ajouter de la valeur à votre contenu et encourager d’autres sites Web à créer un lien vers votre site Web, ce qui est bon pour le référencement et le trafic de référence.
--   **Publicité par e-mail**: Les vidéos sont d’excellents ajouts à vos campagnes de marketing par e-mail, générant plus d’engagement et de clics.
--   **Publicité**: De nombreuses plateformes vidéo offrent des opportunités de publicité payante pour générer encore plus de clics et de revenus pour votre entreprise.
--   **Présence locale**: Publier des vidéos sur votre communauté ou des événements locaux peut vous aider à attirer plus de clients dans votre région, même si vous faites de la publicité en ligne.
--   **Pertinence**: La création de vidéos pertinentes et engageantes peut soutenir davantage vos campagnes marketing existantes, informer les utilisateurs sur votre entreprise et améliorer votre empreinte numérique.
+- **Trafic du site Web**: La publication de vidéos en ligne et l’optimisation des clics peuvent amener davantage d’utilisateurs directement sur votre site Web.
+- **Hausse des revenus**: Le marketing vidéo peut influencer les décisions d’achat et [augmenter le revenu](https://www.statista.com/outlook/dmo/digital-media/video-on-demand/video-streaming-svod/worldwide) pour votre entreprise locale.
+- **Notoriété de la marque**: la vidéo expose votre entreprise à un plus grand nombre d’utilisateurs sur un plus large éventail de plates-formes, ce qui contribue à accroître la visibilité de votre entreprise
+- **Confiance et autorité**: La publication de contenu de valeur peut renforcer la confiance de votre public et donner de l’autorité à votre entreprise.
+- **Optimisation des moteurs de recherche (SEO)**: L’intégration de vidéos dans vos pages Web et vos articles peut aider votre site à apparaître dans la recherche organique ou d’images de Google.
+- **Liens retour**: Les vidéos peuvent ajouter de la valeur à votre contenu et encourager d’autres sites Web à créer un lien vers votre site Web, ce qui est bon pour le référencement et le trafic de référence.
+- **Publicité par e-mail**: Les vidéos sont d’excellents ajouts à vos campagnes de marketing par e-mail, générant plus d’engagement et de clics.
+- **Publicité**: De nombreuses plateformes vidéo offrent des opportunités de publicité payante pour générer encore plus de clics et de revenus pour votre entreprise.
+- **Présence locale**: Publier des vidéos sur votre communauté ou des événements locaux peut vous aider à attirer plus de clients dans votre région, même si vous faites de la publicité en ligne.
+- **Pertinence**: La création de vidéos pertinentes et engageantes peut soutenir davantage vos campagnes marketing existantes, informer les utilisateurs sur votre entreprise et améliorer votre empreinte numérique.
+
+## Comment gagner avec le marketing vidéo local
 
 Des études récentes montrent que [70%](https://blog.google/products/ads/new-ways-to-drive-action/) des téléspectateurs ont acheté auprès d’une marque après avoir vu leur contenu vidéo sur YouTube.
 
@@ -58,7 +63,7 @@ L’opportunité est mûre pour le marketing vidéo, même pour les entreprises 
 
 Voici quelques façons de faire fonctionner la vidéo pour votre entreprise locale.
 
-### 1\. Générez du trafic avec des vidéos éducatives
+### 1. Générez du trafic avec des vidéos éducatives
 
 De nombreuses petites entreprises ont du mal à générer du trafic organique sur leur site Web en raison de leurs ressources et de leur portée limitées. Votre entreprise locale peut potentiellement attirer plus de visiteurs grâce au référencement avec un contenu vidéo éducatif.
 
@@ -74,9 +79,9 @@ Disons, par exemple, que vous êtes un petit cabinet d’avocats.
 
 Vous pouvez créer des vidéos éducatives autour de :
 
--   “conseils pour embaucher un avocat spécialiste du divorce” (260 recherches par mois).
--   « Trucs et astuces pour la médiation du divorce » (170 recherches par mois).
--   “lois sur l’adoption” pour votre état (390 recherches par mois).
+- “conseils pour embaucher un avocat spécialiste du divorce” (260 recherches par mois).
+- « Trucs et astuces pour la médiation du divorce » (170 recherches par mois).
+- “lois sur l’adoption” pour votre état (390 recherches par mois).
 
 Vous souhaiterez optimiser le titre, la description et les balises de votre vidéo sur YouTube pour les mots clés cibles pour lesquels vous espérez vous classer.
 
@@ -84,7 +89,7 @@ Vous pouvez ensuite publier votre vidéo sur YouTube et intégrer la vidéo sur 
 
 Cela peut aider à générer du trafic organique vers votre site Web et à accroître l’autorité de votre site Web au sein de votre secteur.
 
-### 2\. Établissez la confiance avec les produits phares
+### 2. Établissez la confiance avec les produits phares
 
 Les consommateurs d’aujourd’hui deviennent de plus en plus sceptiques à l’égard des « escroqueries » et des allégations publicitaires mensongères.
 
@@ -104,7 +109,7 @@ De plus, si vous pouvez trouver des mots clés à cibler dans votre vidéo, vous
 
 Si vous disposez d’une fonctionnalité de commerce électronique, cela peut être un bon moyen de générer des ventes en ligne.
 
-### 3\. Réutilisez le contenu vidéo sur les réseaux sociaux
+### 3. Réutilisez le contenu vidéo sur les réseaux sociaux
 
 Les petites entreprises locales font face à des défis uniques en matière de marketing.
 
@@ -116,20 +121,20 @@ C’est là qu’intervient la réorientation du contenu.
 
 Vous pouvez essentiellement «réutiliser» votre contenu vidéo sur plusieurs plates-formes plutôt que de créer des ressources vidéo uniques avec une réutilisation.
 
-Voici un exemple de la façon dont cela fonctionne :
+Voici un exemple de la façon dont cela fonctionne :
 
--   Vous menez une session vidéo Facebook Live via la page Facebook de votre entreprise locale.
--   Vous téléchargez ensuite la vidéo Facebook Live sur votre ordinateur pour la télécharger ultérieurement sur YouTube.
--   Vous montez votre vidéo et la publiez sur YouTube tout en enregistrant des clips vidéo individuels sur les réseaux sociaux.
--   Vous partagez à nouveau ces clips vidéo sur LinkedIn, Instagram, Twitter et Facebook.
--   Une fois en direct, vous intégrez votre vidéo YouTube dans votre dernier article de blog.
--   Vous liez ensuite votre article de blog à votre campagne de marketing par e-mail.
+- Vous menez une session vidéo Facebook Live via la page Facebook de votre entreprise locale.
+- Vous téléchargez ensuite la vidéo Facebook Live sur votre ordinateur pour la télécharger ultérieurement sur YouTube.
+- Vous montez votre vidéo et la publiez sur YouTube tout en enregistrant des clips vidéo individuels sur les réseaux sociaux.
+- Vous partagez à nouveau ces clips vidéo sur LinkedIn, Instagram, Twitter et Facebook.
+- Une fois en direct, vous intégrez votre vidéo YouTube dans votre dernier article de blog.
+- Vous liez ensuite votre article de blog à votre campagne de marketing par e-mail.
 
 Dans ce cas, vous transformez une seule vidéo en plusieurs éléments de contenu à utiliser sur sept plates-formes différentes (YouTube, Facebook, Twitter, LinkedIn, Instagram, site Web et e-mail).
 
 Vous pouvez voir à quel point cela représente un gain de temps (et d’argent) important dans vos efforts de marketing vidéo.
 
-### 4\. Augmenter la connexion avec les biographies et les témoignages de l’entreprise
+### 4. Augmenter la connexion avec les biographies et les témoignages de l’entreprise
 
 Les clients veulent souvent ressentir un lien étroit avec la marque auprès de laquelle ils espèrent acheter.
 
@@ -137,7 +142,7 @@ Cela peut être particulièrement vrai pour les entreprises locales plus proches
 
 Le contenu vidéo peut aider à entretenir cette connexion.
 
-Il existe plusieurs types d’idées de vidéos pour nouer des relations avec vos clients :
+Il existe plusieurs types d’idées de vidéos pour nouer des relations avec vos clients :
 
 **Biographies de l’équipe**
 
@@ -149,7 +154,7 @@ Demandez aux clients existants s’ils aimeraient proposer des témoignages vid�
 
 **Entrevues**
 
-Organisez une \[profressional\]» afin que les clients potentiels puissent en savoir plus sur votre secteur, vos offres et/ou votre entreprise.
+Organisez une [profressional]» afin que les clients potentiels puissent en savoir plus sur votre secteur, vos offres et/ou votre entreprise.
 
 **Tutoriels**
 
@@ -161,7 +166,7 @@ S’il y a un événement populaire dans votre région, pensez à enregistrer vo
 
 **Engagement communautaire**
 
-Votre entreprise organise-t-elle des événements de bénévolat, des bourses d’études ou s’implique-t-elle autrement dans votre communauté locale ? Montrez votre équipe en action en enregistrant votre travail et en le présentant sur votre page Initiatives communautaires sur votre site Web.
+Votre entreprise organise-t-elle des événements de bénévolat, des bourses d’études ou s’implique-t-elle autrement dans votre communauté locale ? Montrez votre équipe en action en enregistrant votre travail et en le présentant sur votre page Initiatives communautaires sur votre site Web.
 
 **Facebook en direct**
 
@@ -185,6 +190,6 @@ Que ce soit par le biais de vidéos éducatives, de biographies d’équipe, de 
 
 **Davantage de ressources:**
 
-* * *
+---
 
-_Image en vedette : fizkes/Shutterstock_
+*Image en vedette : fizkes/Shutterstock*

@@ -1,41 +1,44 @@
 ---
 title: "Accessibilité du site Web : 8 façons d’atteindre tout le monde dans votre public"
 permalink: "/accessibilite-du-site-web-8-facons-datteindre-tout-le-monde-dans-votre-public/"
-date: "2022-06-16T23:16:59+00:00"
-author: "Soléne Laupez Rédactrice de contenu réseaux sociaux"
-categories: ["Actualité Web","Crypto-monnaies","Le Journal E-marketing","Meilleur du Web"]
-description: "Votre site Web est jugé selon de nombreux critères, c&#039;est inévitable.  Les visiteurs du site Web détermineront s&#039;ils aiment ou non les couleurs de la marque"
+legacy_permalinks: []
+type: "post"
+date: "2022-06-17T00:16:59+00:00"
+modified: ""
+author: "Sébastian Magni @ Responsable du contenu"
+categories: ["Inbound Marketing"]
+tags: ["digital marketing","ecoomerce","inbound marketing","SEO"]
+description: "Digital News, les actualités du marketing digital... Accessibilité du site Web : 8 façons d'atteindre tout le monde dans votre public"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2022/06/website-accessiblity-handicap-feature.jpg"
+source_url: "https://leconceptmarketing.com/accessibilite-du-site-web-8-facons-datteindre-tout-le-monde-dans-votre-public/"
 source_capture: "20220702075703"
 ---
-Votre site Web est jugé selon de nombreux critères, c’est inévitable. Les visiteurs du site Web détermineront s’ils aiment ou non les couleurs de la marque, l’apparence, la copie. Les clients potentiels évalueront l’autorité de votre entreprise, de votre produit ou de votre équipe. Mais un grand critère trop souvent négligé par les entreprises ? L’accessibilité d’un site web. En fait, il y a en moyenne [51](https://webaim.org/projects/million/) erreurs d’accessibilité sur les pages d’accueil du million de sites Web les plus importants.
+Votre site Web est jugé selon de nombreux critères, c’est inévitable. Les visiteurs du site Web détermineront s’ils aiment ou non les couleurs de la marque, l’apparence, la copie. Les clients potentiels évalueront l’autorité de votre entreprise, de votre produit ou de votre équipe. Mais un grand critère trop souvent négligé par les entreprises ? L’accessibilité d’un site web. En fait, il y a en moyenne[ 51](https://webaim.org/projects/million/) erreurs d’accessibilité sur les pages d’accueil du million de sites Web les plus importants.
 
-L’accessibilité du site Web est essentielle pour toute entreprise afin d’atteindre l’ensemble de son public cible. C’est pourquoi aujourd’hui, nous passons en revue tout ce que vous devez faire pour commencer. Ici, nous couvrirons :
+L’accessibilité du site Web est essentielle pour toute entreprise afin d’atteindre l’ensemble de son public cible. C’est pourquoi aujourd’hui, nous passons en revue tout ce que vous devez faire pour commencer. Ici, nous couvrirons :
 
--   Qu’est-ce que l’accessibilité des sites Web et pourquoi elle est essentielle
--   Huit meilleures pratiques d’accessibilité de site Web que vous devez connaître
--   Trois outils d’accessibilité de sites Web pour vous aider à vous mettre en conformité
+- Qu’est-ce que l’accessibilité des sites Web et pourquoi elle est essentielle
+- Huit meilleures pratiques d’accessibilité de site Web que vous devez connaître
+- Trois outils d’accessibilité de sites Web pour vous aider à vous mettre en conformité
 
 Allons-y.
 
-Table Des Matières
-
--   [1 Qu’est-ce que l’accessibilité d’un site Web ?](#Qu8217est-ce_que_l8217accessibilite_d8217un_site_Web)
--   [2 Pourquoi l’accessibilité du site Web est-elle essentielle?](#Pourquoi_l8217accessibilite_du_site_Web_est-elle_essentielle)
--   [3 Normes d’accessibilité du site Web que vous devez connaître](#Normes_d8217accessibilite_du_site_Web_que_vous_devez_connaitre)
-    -   [3.1 1. Choisissez le bon CMS](#1_Choisissez_le_bon_CMS)
-    -   [3.2 2. Utilisez du texte alternatif partout](#2_Utilisez_du_texte_alternatif_partout)
-    -   [3.3 3. Évitez de transmettre des informations uniquement en couleur ou en images](#3_Evitez_de_transmettre_des_informations_uniquement_en_couleur_ou_en_images)
-    -   [3.4 4. Organisez vos titres dans l’ordre](#4_Organisez_vos_titres_dans_l8217ordre)
-    -   [3.5 5. Utilisez des polices faciles à lire](#5_Utilisez_des_polices_faciles_a_lire)
-    -   [3.6 6. Gardez toutes les navigations conviviales pour le clavier](#6_Gardez_toutes_les_navigations_conviviales_pour_le_clavier)
-    -   [3.7 7. Assurez-vous du contraste des couleurs](#7_Assurez-vous_du_contraste_des_couleurs)
-    -   [3.8 8. Rendre les informations faciles à comprendre dans plusieurs formats](#8_Rendre_les_informations_faciles_a_comprendre_dans_plusieurs_formats)
--   [4 Outils d’accessibilité du site Web](#Outils_d8217accessibilite_du_site_Web)
-    -   [4.1 1. Trier le site](#1_Trier_le_site)
-    -   [4.2 2. Vérificateur d’accessibilité](#2_Verificateur_d8217accessibilite)
-    -   [4.3 3. Extension Chrome du vérificateur d’accessibilité du site Web](#3_Extension_Chrome_du_verificateur_d8217accessibilite_du_site_Web)
--   [5 Donnez la priorité à l’accessibilité du site Web pour votre entreprise](#Donnez_la_priorite_a_l8217accessibilite_du_site_Web_pour_votre_entreprise)
+- 1 Qu’est-ce que l’accessibilité d’un site Web ?
+- 2 Pourquoi l’accessibilité du site Web est-elle essentielle?
+- 3 Normes d’accessibilité du site Web que vous devez connaître
+  - 3.1 1. Choisissez le bon CMS
+  - 3.2 2. Utilisez du texte alternatif partout
+  - 3.3 3. Évitez de transmettre des informations uniquement en couleur ou en images
+  - 3.4 4. Organisez vos titres dans l’ordre
+  - 3.5 5. Utilisez des polices faciles à lire
+  - 3.6 6. Gardez toutes les navigations conviviales pour le clavier
+  - 3.7 7. Assurez-vous du contraste des couleurs
+  - 3.8 8. Rendre les informations faciles à comprendre dans plusieurs formats
+- 4 Outils d’accessibilité du site Web
+  - 4.1 1. Trier le site
+  - 4.2 2. Vérificateur d’accessibilité
+  - 4.3 3. Extension Chrome du vérificateur d’accessibilité du site Web
+- 5 Donnez la priorité à l’accessibilité du site Web pour votre entreprise
 
 ## Qu’est-ce que l’accessibilité d’un site Web ?
 
@@ -45,14 +48,14 @@ Selon le dernier [Lignes directrices sur l’accessibilité du site Web](https:/
 
 ![accessibilité du site Web - pour acronyme](https://leconceptmarketing.com/wp-content/uploads/2022/06/Accessibilite-du-site-Web-8-facons-datteindre-tout-le.png)
 
-[_Source des images_](https://noblestudios.com/digital-marketing-services/web-development-design/ada-compliance-meaning-and-web-accessibility-standards/)
+[*Source des images*](https://noblestudios.com/digital-marketing-services/web-development-design/ada-compliance-meaning-and-web-accessibility-standards/)
 
-Voici ce que cela signifie :
+Voici ce que cela signifie :
 
--   **Perceptible :** L’information doit être transmise aux utilisateurs d’une manière qu’ils peuvent percevoir (elle ne peut pas être invisible à tous leurs sens).
--   **Opérable:** L’interface utilisateur et la navigation d’un site Web doivent fonctionner de la même manière que les utilisateurs fonctionnent.
--   **Compréhensible:** L’interface utilisateur et le fonctionnement du site Web doivent être compréhensibles pour l’utilisateur.
--   **Robuste:** Tout le contenu du site Web doit être suffisamment robuste pour être interprété avec précision par les utilisateurs, qu’ils utilisent ou non des technologies d’assistance.
+- **Perceptible :** L’information doit être transmise aux utilisateurs d’une manière qu’ils peuvent percevoir (elle ne peut pas être invisible à tous leurs sens).
+- **Opérable:** L’interface utilisateur et la navigation d’un site Web doivent fonctionner de la même manière que les utilisateurs fonctionnent.
+- **Compréhensible:** L’interface utilisateur et le fonctionnement du site Web doivent être compréhensibles pour l’utilisateur.
+- **Robuste:** Tout le contenu du site Web doit être suffisamment robuste pour être interprété avec précision par les utilisateurs, qu’ils utilisent ou non des technologies d’assistance.
 
 L’accessibilité du site Web inclut votre site, ainsi que tous les outils, tableaux de bord, bases de données ou autres technologies qui vivent sur votre site. Ceux-ci devraient tous être développés dans le même but de transmettre des informations aux personnes de toutes capacités. Pour cet article, nous nous concentrerons sur vos pages Web, y compris votre page d’accueil, votre [à propos de nous](https://localiq.com/blog/about-us-page-examples-and-tips/), vos articles de blog, vos pages de destination, etc. Il est important que vous les utilisiez correctement – et voyons pourquoi.
 
@@ -72,13 +75,13 @@ Vous voulez vous assurer que votre contenu est aussi inclusif que possible, et c
 
 Le maintien d’un site Web accessible nécessite une attention à tous les éléments de la conception de votre site Web, y compris le contenu multimédia, l’architecture du site, la police, etc. Cela peut être écrasant, mais c’est essentiel, alors commencez par les meilleures pratiques les plus importantes. Voici les principales normes d’accessibilité des sites Web que toutes les personnes travaillant sur leur site Web, qu’il s’agisse des propriétaires d’entreprise ou des spécialistes du marketing, doivent connaître.
 
-### 1\. Choisissez le bon CMS
+### 1. Choisissez le bon CMS
 
 Il s’agit de la première bonne pratique en matière d’accessibilité des sites Web, car c’est la plus fondamentale. Vous avez besoin d’un système de gestion de contenu (CMS) qui prend en charge tous vos utilisateurs et vous aide à créer des processus de développement et de maintenance de sites Web à la fois efficaces et faciles à gérer. Cela est particulièrement vrai si vous êtes une petite entreprise à court de temps sans équipe Web.
 
 [WordPress](https://make.wordpress.org/accessibility/handbook/) a d’excellentes fonctionnalités pour l’accessibilité des sites Web, et il est facile à utiliser une fois que vous avez compris. [Drupal](https://drupal.com/) est une autre option idéale, mais cela peut nécessiter l’aide d’un développeur Web. Les constructeurs de sites Web aiment [Wix](https://www.wix.com/) et [Espace carré](https://www.squarespace.com/) peut être limité dans la prise en charge de l’accessibilité de votre site Web – assurez-vous de revérifier avant de vous engager ou travaillez avec une agence de conception Web pour créer un site Web qui respecte toutes les directives à jour.
 
-### 2\. Utilisez du texte alternatif partout
+### 2. Utilisez du texte alternatif partout
 
 Le texte alternatif est essentiel pour l’accessibilité du site Web. Le texte, que vous serez généralement invité à ajouter à toutes les images de votre CMS, est contenu dans un élément HTML, et c’est ce que les lecteurs d’écran utiliseront pour traduire votre image pour quelqu’un qui ne peut pas voir le graphique sur votre site web.
 
@@ -92,7 +95,7 @@ L’image est une roue qui développe les sentiments et les émotions pour vous 
 
 Il convient de noter que le texte alternatif est également un élément essentiel de notre liste de contrôle SEO sur la page, car c’est ainsi que Google “voit” les images sur votre page.
 
-### 3\. Évitez de transmettre des informations uniquement en couleur ou en images
+### 3. Évitez de transmettre des informations uniquement en couleur ou en images
 
 Afin de garder le contenu de votre site Web accessible aux utilisateurs ayant différentes capacités, y compris les utilisateurs disposant de technologies d’assistance, vous devez éviter les endroits de votre site Web où vous transmettez des informations uniquement par la couleur ou l’imagerie. Cela ne sera pas compréhensible pour tous vos utilisateurs.
 
@@ -100,7 +103,7 @@ Prenez les formulaires de capture de leads, par exemple. Vous ne pouvez pas aler
 
 ![accessibilité du site Web - exemple d'indication correcte des erreurs sur les formulaires](https://leconceptmarketing.com/wp-content/uploads/2022/06/1655421419_212_Accessibilite-du-site-Web-8-facons-datteindre-tout-le.png)
 
-### 4\. Organisez vos titres dans l’ordre
+### 4. Organisez vos titres dans l’ordre
 
 Les titres sont importants pour organiser les informations dans les articles de votre blog, car ils communiquent l’importance de la section par rapport à l’article global ainsi que les changements vers de nouvelles sections. Ces signaux aident à transmettre la structure logique de la publication, c’est pourquoi vous pouvez traiter les titres dans le guide de style de votre marque.
 
@@ -110,23 +113,23 @@ Mais les titres ne sont pas seulement une taille ou une forme de texte, ils sont
 
 ![liste de contrôle de référencement sur la page - en-têtes html](https://leconceptmarketing.com/wp-content/uploads/2022/06/1655421419_539_Accessibilite-du-site-Web-8-facons-datteindre-tout-le.png)
 
-_Vous pouvez également en savoir plus sur les titres dans notre liste de contrôle SEO sur la page._
+*Vous pouvez également en savoir plus sur les titres dans notre liste de contrôle SEO sur la page.*
 
-### 5\. Utilisez des polices faciles à lire
+### 5. Utilisez des polices faciles à lire
 
-Autre conseil connexe : choisissez une police facile à lire. Du point de vue de l’accessibilité, ce point parle de lui-même. Mais il y a aussi un aspect de psychologie marketing. Selon l’effet de fluidité cognitive, plus il est difficile de lire quelque chose, moins il est perçu comme digne de confiance. De plus, si ce texte décrit des instructions, plus cette tâche est perçue comme étant difficile.
+Autre conseil connexe : choisissez une police facile à lire. Du point de vue de l’accessibilité, ce point parle de lui-même. Mais il y a aussi un aspect de psychologie marketing. Selon l’effet de fluidité cognitive, plus il est difficile de lire quelque chose, moins il est perçu comme digne de confiance. De plus, si ce texte décrit des instructions, plus cette tâche est perçue comme étant difficile.
 
 ![](https://leconceptmarketing.com/wp-content/uploads/2022/06/1655421419_152_Accessibilite-du-site-Web-8-facons-datteindre-tout-le.png)
 
-### 6\. Gardez toutes les navigations conviviales pour le clavier
+### 6. Gardez toutes les navigations conviviales pour le clavier
 
 La navigation sur votre site Web doit être accessible à tous. Vous voulez que vos visiteurs puissent interagir avec votre contenu, consulter vos pages de produits, s’inscrire à vos newsletters, etc. Afin de garder votre site Web inclusif, vous devez vous assurer qu’un utilisateur peut naviguer à l’aide d’un clavier.
 
-Les utilisateurs de clavier utilisent généralement la touche Tab pour se déplacer sur un site Web. Se déplacer avec succès sur votre site avec cette clé nécessite des tests et une configuration de code. [L’accessibilité du site Web à l’esprit](https://webaim.org/techniques/keyboard/) a un excellent guide pour commencer à vérifier votre site. De plus, nous partagerons d’autres outils pour vérifier votre accessibilité générale dans la section suivante.
+Les utilisateurs de clavier utilisent généralement la touche Tab pour se déplacer sur un site Web. Se déplacer avec succès sur votre site avec cette clé nécessite des tests et une configuration de code. [L’accessibilité du site Web à l’esprit ](https://webaim.org/techniques/keyboard/)a un excellent guide pour commencer à vérifier votre site. De plus, nous partagerons d’autres outils pour vérifier votre accessibilité générale dans la section suivante.
 
 **EN RELATION:** [16 façons de rendre vos réseaux sociaux accessibles et inclusifs](https://localiq.com/blog/social-media-accessibility/)
 
-### 7\. Assurez-vous du contraste des couleurs
+### 7. Assurez-vous du contraste des couleurs
 
 Rappelez-vous que votre [conception de site web](https://localiq.com/blog/small-business-website-design-tips/) doit également être accessible. Un problème trop courant est le contraste des couleurs. [86,4 %](https://webaim.org/projects/million/) des pages d’accueil ont un texte à faible contraste, qui tombe en dessous des seuils WCAG 2 AA, ce qui en fait le problème d’accessibilité le plus courant.
 
@@ -134,21 +137,23 @@ Les couleurs de votre site Web, en particulier les couleurs du texte et de son a
 
 ![accessibilité du site Web - exemple de faible contraste](https://leconceptmarketing.com/wp-content/uploads/2022/06/1655421419_723_Accessibilite-du-site-Web-8-facons-datteindre-tout-le.png)
 
-[_Source des images_](https://developers.google.com/codelabs/devtools-cvd#2)
+[*Source des images*](https://developers.google.com/codelabs/devtools-cvd#2)
 
-### 8\. Rendre les informations faciles à comprendre dans plusieurs formats
+### 8. Rendre les informations faciles à comprendre dans plusieurs formats
 
-C’est le fondement de l’accessibilité du site Web : **Vous devez créer du contenu sur votre site Web en sachant que tout le monde ne verra pas et ne défilera pas pour accéder et comprendre les informations.** Si vous gardez cela à l’esprit, vous vous souviendrez d’ajouter un texte alternatif et une navigation au clavier, et vous saurez que vous devez transmettre des informations sous forme de texte, de graphiques, de code, etc. au lieu de vous fier à une seule source, comme un vidéo ou gif.
+C’est le fondement de l’accessibilité du site Web : **Vous devez créer du contenu sur votre site Web en sachant que tout le monde ne verra pas et ne défilera pas pour accéder et comprendre les informations.** Si vous gardez cela à l’esprit, vous vous souviendrez d’ajouter un texte alternatif et une navigation au clavier, et vous saurez que vous devez transmettre des informations sous forme de texte, de graphiques, de code, etc. au lieu de vous fier à une seule source, comme un vidéo ou gif.
+
+## Outils d’accessibilité du site Web
 
 Les normes d’accessibilité des sites Web ici sont une excellente base, mais cela n’aide pas vraiment à moins que vous ne les appliquiez à votre site. Voici quelques évaluateurs de site Web simples et faciles à utiliser qui peuvent identifier les éléments ou les éléments qui doivent être corrigés afin de rendre votre site inclusif pour tous vos clients potentiels.
 
-### 1\. Trier le site
+### 1. Trier le site
 
 [Trier le site](https://www.powermapper.com/products/sortsite/checks/accessibility-checks/?_ga=2.112216707.660454475.1654444835-1290511369.1654444835) est un outil rapide et gratuit qui analyse l’intégralité de votre site Web pour vous informer de toute erreur, et il fournit un certain contexte. Pour chaque catégorie d’erreur, vous obtenez une référence afin que vous sachiez comment votre site Web se compare aux moyennes.
 
 ![outils d'accessibilité du site Web - capture d'écran de sortsite](https://leconceptmarketing.com/wp-content/uploads/2022/06/1655421419_480_Accessibilite-du-site-Web-8-facons-datteindre-tout-le.png)
 
-### 2\. Vérificateur d’accessibilité
+### 2. Vérificateur d’accessibilité
 
 [Vérificateur d’accessibilité](https://www.accessibilitychecker.org/)
 
@@ -156,9 +161,9 @@ Cette niveleuse de site Web est élégante et propre, et les résultats sont cla
 
 ![accessibilité du site Web - capture d'écran du vérificateur d'accessibilité](https://leconceptmarketing.com/wp-content/uploads/2022/06/1655421419_429_Accessibilite-du-site-Web-8-facons-datteindre-tout-le.png)
 
-_Un exemple de rapport d’un site Web qui a besoin de quelques travaux._
+*Un exemple de rapport d’un site Web qui a besoin de quelques travaux.*
 
-### 3\. Extension Chrome du vérificateur d’accessibilité du site Web
+### 3. Extension Chrome du vérificateur d’accessibilité du site Web
 
 J’adore une extension Chrome. [Peeper CSS](https://accessibleweb.com/web-accessibility-checker-browser-extension/) m’aide à évaluer ou à vérifier les couleurs et la police de la marque chaque fois que j’en ai besoin, et je trouve que cela me fait gagner beaucoup de temps autrement passé à deviner ou à me référer à un guide de marque. Ce vérificateur d’accessibilité de site Web offre un moyen d’analyser rapidement la page sur laquelle vous vous trouvez et d’obtenir des résultats immédiatement – un excellent outil pour quiconque s’engage à maintenir son site Web à jour.
 
@@ -170,15 +175,15 @@ Sur une autre note, étant donné que de nombreuses optimisations d’accessibil
 
 Vous voulez vous assurer que votre entreprise et votre marketing atteignent votre public, et pour ce faire, vous devez donner la priorité à l’accessibilité du site Web. Utilisez ces outils gratuits pour commencer à identifier les domaines que vous devez améliorer, puis passez en revue les meilleures pratiques d’accessibilité du site Web ci-dessus pour vous assurer que vous êtes conforme et inclusif.
 
-Pour récapituler, voici la liste de contrôle de l’accessibilité de votre site Web :
+Pour récapituler, voici la liste de contrôle de l’accessibilité de votre site Web :
 
-1.  Choisissez le bon CMS
-2.  Utilisez du texte alternatif partout
-3.  Évitez de transmettre des informations uniquement en couleur ou en images
-4.  Organisez vos titres dans l’ordre
-5.  Utilisez des polices faciles à lire
-6.  Gardez toutes les navigations conviviales pour le clavier
-7.  Assurer le contraste des couleurs
-8.  Rendre les informations faciles à comprendre dans plusieurs formats
+1. Choisissez le bon CMS
+2. Utilisez du texte alternatif partout
+3. Évitez de transmettre des informations uniquement en couleur ou en images
+4. Organisez vos titres dans l’ordre
+5. Utilisez des polices faciles à lire
+6. Gardez toutes les navigations conviviales pour le clavier
+7. Assurer le contraste des couleurs
+8. Rendre les informations faciles à comprendre dans plusieurs formats
 
 Bonne chance!

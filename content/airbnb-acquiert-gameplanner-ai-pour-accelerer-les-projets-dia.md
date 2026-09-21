@@ -1,30 +1,34 @@
 ---
-title: "Airbnb acquiert GamePlanner.AI pour accélérer les projets d&#039;IA"
+title: "Airbnb acquiert GamePlanner.AI pour accélérer les projets d’IA"
 permalink: "/airbnb-acquiert-gameplanner-ai-pour-accelerer-les-projets-dia/"
+legacy_permalinks: []
+type: "post"
 date: "2023-12-06T10:03:00+00:00"
+modified: ""
 author: "Sébastian Magni @ Responsable du contenu"
-categories: ["Digital Marketing","Le Journal E-marketing","SEO","Réseaux Sociaux"]
-description: "Lumière :Airbnb acquiert la startup d&#039;IA GamePlanner.AI pour accélérer le développement de projets d&#039;IA.Les fondateurs de GamePlanner.AI ont égal"
+categories: ["Le Journal E-marketing"]
+tags: ["AI","Airbnb","GamePlanner"]
+description: "Airbnb espère faire progresser ses intégrations d'IA avec l'acquisition de GamePlanner.AI, connue pour son expertise en \"IA, conception et communauté\""
 cover: "https://leconceptmarketing.com/wp-content/uploads/2023/11/image-7.png"
+source_url: "https://leconceptmarketing.com/airbnb-acquiert-gameplanner-ai-pour-accelerer-les-projets-dia/?noamp=mobile"
 source_capture: "20240221152158"
 ---
 ## Lumière :
 
--   Airbnb acquiert la startup d’IA GamePlanner.AI pour accélérer le développement de projets d’IA.
--   Les fondateurs de GamePlanner.AI ont également cofondé et développé la technologie NLP Siri d’Apple.
--   Une fonction de visite photographique alimentée par l’IA est attendue dans la version d’hiver d’Airbnb.
+- Airbnb acquiert la startup d’IA GamePlanner.AI pour accélérer le développement de projets d’IA.
+- Les fondateurs de GamePlanner.AI ont également cofondé et développé la technologie NLP Siri d’Apple.
+- Une fonction de visite photographique alimentée par l’IA est attendue dans la version d’hiver d’Airbnb.
 
-**[Airbnb](https://www.airbnb.fr/)** a annoncé l’acquisition de GamePlanner.AI, une société d’intelligence artificielle dirigée par le cofondateur de Siri, dans le cadre d’une opération importante associant technologie et hôtellerie.
+**[Airbnb ](https://www.airbnb.fr/)**a annoncé l’acquisition de GamePlanner.AI, une société d’intelligence artificielle dirigée par le cofondateur de Siri, dans le cadre d’une opération importante associant technologie et hôtellerie.
 
 Cette acquisition stratégique souligne l’engagement d’Airbnb à faire progresser la technologie de l’[IA](https://leconceptmarketing.com/comment-utiliser-lia-pour-creer-des-pages-exceptionnelles/) dans ses services, et n’est pas surprenante car Apple semble être la source d’inspiration de certaines innovations et décisions de l’entreprise.
 
 ## Airbnb annonce l’acquisition de GamePlanner.AI
 
->   
 > Airbnb a annoncé l’acquisition de la startup GamePlanner.AI.
-> 
+>
 > Brian Chesky, PDG et cofondateur d’Airbnb, a souligné les capacités uniques de la startup : “Ce qui rend GamePlanner.AI si spécial, c’est qu’il combine l’expertise en matière d’IA, de conception et de communauté.
-> 
+>
 > M. Chesky a souligné le potentiel de transformation de l’IA et a insisté sur la volonté d’Airbnb de veiller à ce que l’IA enrichisse l’humanité de manière positive. “L’IA modifiera rapidement notre monde, plus que toute autre technologie au cours de notre vie”, a-t-il déclaré. “Avec Adam et son équipe, nous pouvons développer certaines des meilleures interfaces et applications pratiques pour l’IA.
 
 ## Les visites photographiques assistées par ordinateur arrivent cet hiver :
@@ -49,7 +53,7 @@ Certains se sont également demandé jusqu’où la technologie de l’IA pouvai
 
 ## Concevoir une technologie d’IA centrée sur l’humain :
 
-Lors du Fast Company Innovation Festival à New York, **[le PDG d’Airbnb](https://news.airbnb.com/fr/about-us/leadership/brian-chesky/)** a souligné l’importance d’une participation diversifiée à la révolution de l’IA pour obtenir des résultats positifs.
+Lors du Fast Company Innovation Festival à New York,**[ le PDG d’Airbnb ](https://news.airbnb.com/fr/about-us/leadership/brian-chesky/)**a souligné l’importance d’une participation diversifiée à la révolution de l’IA pour obtenir des résultats positifs.
 
 M. Chesky a souligné la nécessité d’une contribution créative au développement de l’IA, en insistant sur le fait que l’intégrité de l’IA dépend de la variété de ses apports. Soulignant que la technologie de l’IA est puissante et irréversible, il a comparé les progrès rapides de la technologie à la vitesse d’une voiture sans possibilité de faire marche arrière.
 
@@ -82,7 +86,3 @@ Mike Curtis, vice-président de l’ingénierie d’Airbnb, a souligné l’impa
 Notre équipe continuera à suivre l’évolution de ce partenariat novateur et à analyser la manière dont les fonctionnalités actuelles et futures d’Airbnb basées sur l’IA pourraient perturber le secteur de l’hôtellerie – pour le meilleur ou pour le pire.
 
 → 🔥 **D’autres articles qui pourraient vous intéresser** :
-
-![](https://leconceptmarketing.com/wp-content/uploads/2021/10/seb.jpg)
-
-**Sébastian Magni** est un Spécialiste du SEO et Inbound Marketing chez @[LCM](https://leconceptmarketing.com/)

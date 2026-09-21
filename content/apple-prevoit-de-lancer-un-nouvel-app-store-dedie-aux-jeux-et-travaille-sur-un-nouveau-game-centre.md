@@ -1,16 +1,21 @@
 ---
 title: "Apple prévoit de lancer un nouvel App Store dédié aux jeux, et travaille sur un nouveau Game Centre"
 permalink: "/apple-prevoit-de-lancer-un-nouvel-app-store-dedie-aux-jeux-et-travaille-sur-un-nouveau-game-centre/"
+legacy_permalinks: []
+type: "post"
 date: "2024-11-09T12:07:28+00:00"
+modified: ""
 author: "Sébastian Magni @ Responsable du contenu"
-categories: ["Digital Marketing","Le Journal E-marketing","SEO","Réseaux Sociaux"]
-description: "Apple serait en train de travailler sur une application dédiée aux jeux qui pourrait bouleverser la façon dont les utilisateurs découvrent les jeux sur ses appareils."
+categories: ["Gaming et des jeux vidéo"]
+tags: ["APPLE","jeux"]
+description: "Apple serait en train de travailler sur une application dédiée aux jeux qui pourrait bouleverser la façon dont les utilisateurs découvrent les jeux sur ses appareils"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2024/10/image-6-1024x683.png"
+source_url: "https://leconceptmarketing.com/apple-prevoit-de-lancer-un-nouvel-app-store-dedie-aux-jeux-et-travaille-sur-un-nouveau-game-centre/"
 source_capture: "20250126022219"
 ---
 Apple serait en train de travailler sur une application dédiée aux jeux qui pourrait bouleverser la façon dont les utilisateurs découvrent les jeux sur ses appareils. Après la sortie de l’iPhone 16 et l’introduction de l’Apple Intelligence, le géant de la technologie continue de se concentrer sur de nouvelles innovations logicielles.
 
-![Apple prévoit de lancer un nouvel App Store dédié aux jeux, et travaille sur un nouveau Game Centre](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgdmlld0JveD0iMCAwIDEwMjQgNjgzIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+![Apple prévoit de lancer un nouvel App Store dédié aux jeux, et travaille sur un nouveau Game Centre](https://leconceptmarketing.com/wp-content/uploads/2024/10/image-6-1024x683.png)
 
 Selon 9to5mac, Apple prévoit de créer une plateforme distincte, semblable à l’App Store, uniquement pour les jeux, en empruntant des éléments à l’App Store et au Game Centre.
 
@@ -37,7 +42,3 @@ Actuellement, Apple propose son service Apple Arcade, qui donne accès à une s�
 Alors que l’enthousiasme autour de la nouvelle application de jeu grandit, sa date de sortie reste incertaine. On ne sait pas si Apple prévoit de la lancer en même temps qu’une mise à jour d’iOS 18 ou si elle fera ses débuts avec iOS 19 à l’avenir. Pour l’instant, les passionnés d’Apple devront attendre de voir comment se déroule cette rumeur de projet.
 
 👉🏼 **Lecture complémentaire :**
-
-![](https://leconceptmarketing.com/wp-content/uploads/2021/10/seb.jpg)
-
-**Sébastian Magni** est un Spécialiste du SEO et Inbound Marketing chez @[LCM](https://leconceptmarketing.com/)

@@ -1,14 +1,19 @@
 ---
 title: "16 des meilleurs outils TikTok pour améliorer votre marketing"
 permalink: "/16-des-meilleurs-outils-tiktok-pour-ameliorer-votre-marketing/"
-date: "2022-05-27T00:28:54+00:00"
-author: "Soléne Laupez Rédactrice de contenu réseaux sociaux"
-categories: ["Actualité Web","Crypto-monnaies","Le Journal E-marketing","Meilleur du Web"]
-description: "Avez-vous une boîte d'outils TikTok de confiance ?  Sinon, il est temps d'en construire un.\nDès 2021, TikTok comptait 78,7 millions d'utilisateurs aux États"
+legacy_permalinks: []
+type: "post"
+date: "2022-05-27T01:28:54+00:00"
+modified: ""
+author: "Sébastian Magni @ Responsable du contenu"
+categories: ["Espace Réseaux Sociaux","Réseaux sociaux"]
+tags: ["chiffres clés réseaux sociaux","les réseaux sociaux","les réseaux sociaux actualité","les réseaux sociaux news","réseaux sociaux dans le monde","réseaux sociaux en france","Statistiques sur les réseaux sociaux"]
+description: "l'actualité des réseaux sociaux, Facebook, Instagram ... 16 des meilleurs outils TikTok pour améliorer votre marketing"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2022/05/tiktok-tools.jpg"
+source_url: "https://leconceptmarketing.com/16-des-meilleurs-outils-tiktok-pour-ameliorer-votre-marketing/"
 source_capture: "20220702090547"
 ---
-Avez-vous une boîte d’outils TikTok de confiance ? Sinon, il est temps d’en construire un.
+Avez-vous une boîte d’outils TikTok de confiance ? Sinon, il est temps d’en construire un.
 
 Dès 2021, [TikTok comptait 78,7 millions d’utilisateurs](https://www.statista.com/statistics/1100836/number-of-us-tiktok-users/) aux États-Unis seulement. Et il est prévu d’atteindre 89,7 millions d’utilisateurs d’ici 2023. L’application continue de développer sa base d’utilisateurs sans aucun signe de ralentissement.
 
@@ -16,34 +21,32 @@ Pour vous, cela signifie plus d’opportunités d’atteindre votre public. Mais
 
 Avec autant de créateurs talentueux publiant du contenu, vous souhaiterez tous les avantages dont vous pouvez bénéficier. Nous avons donc compilé une liste d’outils TikTok approuvés par des experts. Nous avons ce qu’il vous faut, de la planification aux analyses, en passant par l’engagement, l’édition et les publicités. Jetez un oeil ci-dessous.
 
-**Bonus : obtenez un Liste de contrôle de croissance TikTok** du célèbre créateur de TikTok, Tiffy Chen, qui vous montre comment gagner 1,6 million d’abonnés avec seulement 3 lampes de studio et iMovie.
+**Bonus : obtenez un Liste de contrôle de croissance TikTok** du célèbre créateur de TikTok, Tiffy Chen, qui vous montre comment gagner 1,6 million d’abonnés avec seulement 3 lampes de studio et iMovie.
 
-Table Des Matières
-
--   [1 Outils de planification TikTok](#Outils_de_planification_TikTok)
-    -   [1.1 Suite Hoot](#Suite_Hoot)
-    -   [1.2 Le planificateur de vidéos de TikTok](#Le_planificateur_de_videos_de_TikTok)
--   [2 Outils d’analyse TikTok](#Outils_d8217analyse_TikTok)
-    -   [2.1 Analytique Hootsuite](#Analytique_Hootsuite)
-    -   [2.2 Analytique TikTok](#Analytique_TikTok)
--   [3 Outils TikTok pour l’engagement](#Outils_TikTok_pour_l8217engagement)
-    -   [3.1 Hootsuite Insights fourni par Brandwatch](#Hootsuite_Insights_fourni_par_Brandwatch)
-    -   [3.2 Outils automatiques TikTok payants pour l’engagement](#Outils_automatiques_TikTok_payants_pour_l8217engagement)
-    -   [3.3 Table à air pour TikTok](#Table_a_air_pour_TikTok)
--   [4 Outils d’édition TikTok](#Outils_d8217edition_TikTok)
-    -   [4.1 Ruée vers Adobe Premiere](#Ruee_vers_Adobe_Premiere)
-    -   [4.2 CapCut](#CapCut)
-    -   [4.3 rapide](#rapide)
--   [5 Outils de création TikTok](#Outils_de_creation_TikTok)
-    -   [5.1 Fonds des créateurs TikTok](#Fonds_des_createurs_TikTok)
--   [6 Outils publicitaires TikTok](#Outils_publicitaires_TikTok)
-    -   [6.1 Tactiques TikTok](#Tactiques_TikTok)
-    -   [6.2 Pixel TikTok](#Pixel_TikTok)
-    -   [6.3 Promotion TikTok](#Promotion_TikTok)
--   [7 Autres outils TikTok pour les spécialistes du marketing](#Autres_outils_TikTok_pour_les_specialistes_du_marketing)
-    -   [7.1 Adobe Creative Cloud Express](#Adobe_Creative_Cloud_Express)
-    -   [7.2 CopySmith](#CopySmith)
-    -   [7.3 Vous voulez plus de vues TikTok ?](#Vous_voulez_plus_de_vues_TikTok)
+- 1 Outils de planification TikTok
+  - 1.1 Suite Hoot
+  - 1.2 Le planificateur de vidéos de TikTok
+- 2 Outils d’analyse TikTok
+  - 2.1 Analytique Hootsuite
+  - 2.2 Analytique TikTok
+- 3 Outils TikTok pour l’engagement
+  - 3.1 Hootsuite Insights fourni par Brandwatch
+  - 3.2 Outils automatiques TikTok payants pour l’engagement
+  - 3.3 Table à air pour TikTok
+- 4 Outils d’édition TikTok
+  - 4.1 Ruée vers Adobe Premiere
+  - 4.2 CapCut
+  - 4.3 rapide
+- 5 Outils de création TikTok
+  - 5.1 Fonds des créateurs TikTok
+- 6 Outils publicitaires TikTok
+  - 6.1 Tactiques TikTok
+  - 6.2 Pixel TikTok
+  - 6.3 Promotion TikTok
+- 7 Autres outils TikTok pour les spécialistes du marketing
+  - 7.1 Adobe Creative Cloud Express
+  - 7.2 CopySmith
+  - 7.3 Vous voulez plus de vues TikTok ?
 
 ## Outils de planification TikTok
 
@@ -65,26 +68,26 @@ Notre planificateur TikTok vous recommandera même les meilleurs moments pour pu
 
 TikTok est propre [Video Scheduler est une option de planification pratique et sans faille.](https://www.tiktok.com/business/en-US/blog/introducing-video-scheduler-now-you-can-plan-tiktoks-in-advance)
 
-[Il vous suffit d’utiliser TikTok sur votre bureau pour le faire, car vous ne pouvez pas accéder à cette fonctionnalité sur l’application mobile. Si vous effectuez toutes vos autres planifications sociales sur une plate-forme différente, il peut être utile d’installer un outil d’intégration TikTok afin que vous n’ayez pas à basculer d’avant en arrière.](https://www.tiktok.com/business/en-US/blog/introducing-video-scheduler-now-you-can-plan-tiktoks-in-advance)
+Il vous suffit d’utiliser TikTok sur votre bureau pour le faire, car vous ne pouvez pas accéder à cette fonctionnalité sur l’application mobile. Si vous effectuez toutes vos autres planifications sociales sur une plate-forme différente, il peut être utile d’installer un outil d’intégration TikTok afin que vous n’ayez pas à basculer d’avant en arrière.
 
-[Si vous vous en tenez à la planification directement dans TikTok, vous pourrez planifier des publications 10 jours à l’avance.](https://www.tiktok.com/business/en-US/blog/introducing-video-scheduler-now-you-can-plan-tiktoks-in-advance)
+Si vous vous en tenez à la planification directement dans TikTok, vous pourrez planifier des publications 10 jours à l’avance.
 
-[Remarque : une fois que vous avez programmé vos messages, vous ne pourrez plus les modifier. À ce stade, ils sont aussi bons que les pièces publiées. Vous devrez donc supprimer, modifier et reprogrammer les modifications nécessaires.](https://www.tiktok.com/business/en-US/blog/introducing-video-scheduler-now-you-can-plan-tiktoks-in-advance)
+Remarque : une fois que vous avez programmé vos messages, vous ne pourrez plus les modifier. À ce stade, ils sont aussi bons que les pièces publiées. Vous devrez donc supprimer, modifier et reprogrammer les modifications nécessaires.
 
 ## Outils d’analyse TikTok
 
 ### Analytique Hootsuite
 
-Si vous souhaitez vérifier les performances de votre compte TikTok, rendez-vous sur Analytics dans le tableau de bord Hootsuite. Vous y trouverez des statistiques de performances détaillées, notamment :
+Si vous souhaitez vérifier les performances de votre compte TikTok, rendez-vous sur Analytics dans le tableau de bord Hootsuite. Vous y trouverez des statistiques de performances détaillées, notamment :
 
--   Meilleurs messages
--   Nombre d’abonnés
--   Atteindre
--   Vues
--   commentaires
--   Aime
--   Actions
--   Taux d’engagement
+- Meilleurs messages
+- Nombre d’abonnés
+- Atteindre
+- Vues
+- commentaires
+- Aime
+- Actions
+- Taux d’engagement
 
 ![Analyses Hootsuite TikTok - analyses détaillées des publications](https://leconceptmarketing.com/wp-content/uploads/2022/05/1653611333_435_16-des-meilleurs-outils-TikTok-pour-ameliorer-votre-marketing.png)
 
@@ -104,7 +107,7 @@ Si vous avez un compte TikTok, vous avez accès à des analyses intégrées à l
 
 En surveillant les requêtes et les termes de recherche où vous vous présentez, vous pouvez être là où votre public parle de vous ou de sujets qui vous concernent. Vous pouvez même surveiller le ton des commentaires des gens. L’application peut indiquer si elle est positive, neutre ou négative. Ensuite, vous pouvez répondre directement dans Hootsuite.
 
-Vous pouvez utiliser Brandwatch pour surveiller les chansons ou les hashtags TikTok, puis utiliser ceux qui ont tendance à la hausse dans votre contenu. Comme vous le savez, sauter sur des chansons montantes fait des choses incroyables pour votre engagement. Selon TikTok, [67 % des utilisateurs veulent voir des chansons populaires ou tendance](https://newsroom.tiktok.com/en-us/new-studies-quantify-tiktoks-growing-impact-on-culture-and-music?platform=twitter&attr_source=social&channel=social-organic-post-culture-driver-44398&attr_source=social&attr_medium=organic-post&attr_campaign=social-organic-post-culture-driver-44398&attr_agency=gbmhq) dans vos vidéos.
+Vous pouvez utiliser Brandwatch pour surveiller les chansons ou les hashtags TikTok, puis utiliser ceux qui ont tendance à la hausse dans votre contenu. Comme vous le savez, sauter sur des chansons montantes fait des choses incroyables pour votre engagement. Selon TikTok,[ 67 % des utilisateurs veulent voir des chansons populaires ou tendance](https://newsroom.tiktok.com/en-us/new-studies-quantify-tiktoks-growing-impact-on-culture-and-music?platform=twitter&attr_source=social&channel=social-organic-post-culture-driver-44398&attr_source=social&attr_medium=organic-post&attr_campaign=social-organic-post-culture-driver-44398&attr_agency=gbmhq) dans vos vidéos.
 
 ### Outils automatiques TikTok payants pour l’engagement
 
@@ -122,13 +125,13 @@ L’une des meilleures choses que vous puissiez faire pour vous-même en tant qu
 
 Airtable est un hybride feuille de calcul-base de données avec une tonne de potentiel.
 
-Pour les calendriers de contenu de médias sociaux, vous pouvez collaborer avec le reste de votre équipe et vos clients sur la plateforme. Vous pouvez montrer _et_ dire dans un endroit facile à modifier. De plus, vous aurez une vue macro de votre stratégie hebdomadaire, mensuelle et annuelle.
+Pour les calendriers de contenu de médias sociaux, vous pouvez collaborer avec le reste de votre équipe et vos clients sur la plateforme. Vous pouvez montrer *et* dire dans un endroit facile à modifier. De plus, vous aurez une vue macro de votre stratégie hebdomadaire, mensuelle et annuelle.
 
 ## Outils d’édition TikTok
 
 ### Ruée vers Adobe Premiere
 
-[Ruée vers Adobe Premiere](https://business.adobe.com/blog/the-latest/premiere-rush-tiktok-are-you-here-for-it) est la première application tierce qui vous permet de publier _directement sur TikTok_. Adobe a créé l’application pour tous les niveaux de compétence d’édition et a inclus des fonctionnalités telles que la montée en puissance, les filtres et les transitions.
+[Ruée vers Adobe Premiere](https://business.adobe.com/blog/the-latest/premiere-rush-tiktok-are-you-here-for-it) est la première application tierce qui vous permet de publier *directement sur TikTok*. Adobe a créé l’application pour tous les niveaux de compétence d’édition et a inclus des fonctionnalités telles que la montée en puissance, les filtres et les transitions.
 
 En raison de la popularité de Rush, il existe une tonne de didacticiels vidéo disponibles, y compris [ceux sur TikTok](https://www.tiktok.com/tag/madewithrush?lang=en).
 
@@ -138,11 +141,11 @@ CapCut est une application de montage vidéo tout-en-un. Il est personnalisé po
 
 CapCut appartient à la même société mère que TikTok. En ce qui concerne les outils viraux TikTok, vous savez qu’il a tout ce dont vous avez besoin. Consultez le compte CapCut TikTok pour les hacks.
 
-> [@capcut](https://www.tiktok.com/@capcut "@capcut")
-> 
-> voici le tuto [#capcut](https://www.tiktok.com/tag/capcut "capcut") [#viral](https://www.tiktok.com/tag/viral "viral") [#fyp](https://www.tiktok.com/tag/fyp "fyp") [#videoedit](https://www.tiktok.com/tag/videoedit "videoedit") [#Didacticiel](https://www.tiktok.com/tag/tutorial "tutorial")
-> 
-> [♬ son original – CapCut – CapCut](https://www.tiktok.com/music/original-sound-CapCut-7037431899886848770 "♬ original sound - CapCut - CapCut")
+> [@capcut](https://www.tiktok.com/@capcut)
+>
+> voici le tuto [#capcut](https://www.tiktok.com/tag/capcut) [#viral](https://www.tiktok.com/tag/viral) [#fyp](https://www.tiktok.com/tag/fyp) [#videoedit](https://www.tiktok.com/tag/videoedit) [#Didacticiel](https://www.tiktok.com/tag/tutorial)
+>
+> [♬ son original – CapCut – CapCut](https://www.tiktok.com/music/original-sound-CapCut-7037431899886848770)
 
 ### rapide
 
@@ -150,23 +153,23 @@ L’application Quik de GoPro est le meilleur ami d’un créateur de contenu d�
 
 Donc, si vous êtes occupé à faire du kayak jusqu’au prochain site de saut de falaise mais que vous voulez toujours publier, c’est l’application qu’il vous faut. En ce qui concerne les outils automatiques TikTok, Quik est parmi les plus utiles et les plus rapides.
 
-> [@Go Pro](https://www.tiktok.com/@gopro "@gopro")
-> 
-> Présentation [#Quik](https://www.tiktok.com/tag/quik "quik") 📲 Le meilleur de notre application. Tirez le meilleur parti de vos photos/vidéos, quel que soit le téléphone ou l’appareil photo que vous utilisez. Lien de téléchargement dans la bio
-> 
-> [♬ son original – GoPro](https://www.tiktok.com/music/original-sound-6940260411316931333 "♬ original sound - GoPro")
+> [@Go Pro](https://www.tiktok.com/@gopro)
+>
+> Présentation [#Quik](https://www.tiktok.com/tag/quik) 📲 Le meilleur de notre application. Tirez le meilleur parti de vos photos/vidéos, quel que soit le téléphone ou l’appareil photo que vous utilisez. Lien de téléchargement dans la bio
+>
+> [♬ son original – GoPro](https://www.tiktok.com/music/original-sound-6940260411316931333)
 
 ## Outils de création TikTok
 
 ### Fonds des créateurs TikTok
 
-En 2021, TikTok a mis les outils de création à la disposition de tous les comptes publics. Mais, au sein de ces outils, le Creator Fund est toujours fermé. Selon TikTok, pour être éligible au Creator Fund, vous devez répondre à ces critères :
+En 2021, TikTok a mis les outils de création à la disposition de tous les comptes publics. Mais, au sein de ces outils, le Creator Fund est toujours fermé. Selon TikTok, pour être éligible au Creator Fund, vous devez répondre à ces critères :
 
--   Être basé aux États-Unis, au Royaume-Uni, en France, en Allemagne, en Espagne ou en Italie
--   Avoir au moins 18 ans
--   Avoir au moins 10 000 abonnés
--   Avoir au moins 100 000 vues de vidéos au cours des 30 derniers jours
--   Avoir un compte conforme aux directives de la communauté TikTok et aux conditions d’utilisation
+- Être basé aux États-Unis, au Royaume-Uni, en France, en Allemagne, en Espagne ou en Italie
+- Avoir au moins 18 ans
+- Avoir au moins 10 000 abonnés
+- Avoir au moins 100 000 vues de vidéos au cours des 30 derniers jours
+- Avoir un compte conforme aux directives de la communauté TikTok et aux conditions d’utilisation
 
 Si vous remplissez ces points, cela vaut la peine de créer un compte Creator Fund. Vos vidéos populaires pourraient vous rapporter quelques dollars supplémentaires. Cependant, c’est une bonne idée de peser le pour et le contre du Creator Fund avant de prendre une décision.
 
@@ -174,18 +177,18 @@ Si vous remplissez ces points, cela vaut la peine de créer un compte Creator Fu
 
 ### Tactiques TikTok
 
-Alors [Tactiques TikTok](https://tiktok-tactics.com/) lui-même n’est pas _exactement_ un outil TikTok – mais il vous donnera les apprentissages dont vous avez besoin pour mieux performer. La série d’apprentissage en ligne est proposée par TikTok pour les spécialistes du marketing TikTok. Ils disent que cela fera de vous un “pro du gestionnaire de publicités”, quels que soient vos objectifs publicitaires.
+Alors [Tactiques TikTok ](https://tiktok-tactics.com/)lui-même n’est pas *exactement* un outil TikTok – mais il vous donnera les apprentissages dont vous avez besoin pour mieux performer. La série d’apprentissage en ligne est proposée par TikTok pour les spécialistes du marketing TikTok. Ils disent que cela fera de vous un “pro du gestionnaire de publicités”, quels que soient vos objectifs publicitaires.
 
 Une série en quatre parties, TikTok Tactics couvre :
 
-1.  Attribution,
-2.  Ciblage,
-3.  Enchères et optimisation, et
-4.  Catalogues et création.
+1. Attribution,
+2. Ciblage,
+3. Enchères et optimisation, et
+4. Catalogues et création.
 
 ### Pixel TikTok
 
-Vous cherchez à mieux suivre l’évolution d’une campagne TikTok ? Utiliser [Pixel TikTok](https://ads.tiktok.com/help/article?aid=9663), un outil qui suit l’impact de vos publicités TikTok sur votre site Web. Il s’agit essentiellement d’un morceau de code que vous intégrez et qui surveillera les parcours de vos utilisateurs.
+Vous cherchez à mieux suivre l’évolution d’une campagne TikTok ? Utiliser [Pixel TikTok](https://ads.tiktok.com/help/article?aid=9663), un outil qui suit l’impact de vos publicités TikTok sur votre site Web. Il s’agit essentiellement d’un morceau de code que vous intégrez et qui surveillera les parcours de vos utilisateurs.
 
 TikTok Pixel permet un suivi facile des conversions et la possibilité d’optimiser vos campagnes publicitaires TikTok. Vous pourrez également créer des audiences personnalisées en fonction du comportement suivi par Pixel sur votre site.
 
@@ -193,14 +196,14 @@ TikTok Pixel permet un suivi facile des conversions et la possibilité d’optim
 
 Si vous cherchez à dynamiser le contenu existant avec un profil de créateur, jetez un œil à Promouvoir. La promotion est disponible pour tous les utilisateurs de TikTok sous Creator Tools. Cet outil publicitaire TikTok peut augmenter les vues de vos vidéos, les clics sur le site Web et le nombre d’abonnés.
 
-La meilleure partie de TikTok Promote est sa simplicité d’utilisation et la mesure dans laquelle votre dollar peut s’étendre. [TikTok dit que via Promote](https://www.tiktok.com/business/en/blog/common-questions-promote-feature)“Vous pouvez atteindre jusqu’à ~1000 vues pour aussi peu que 10 dollars.”
+La meilleure partie de TikTok Promote est sa simplicité d’utilisation et la mesure dans laquelle votre dollar peut s’étendre.[ TikTok dit que via Promote](https://www.tiktok.com/business/en/blog/common-questions-promote-feature)“Vous pouvez atteindre jusqu’à ~1000 vues pour aussi peu que 10 dollars.”
 
-**Fonctionnalités de promotion de TikTok :**
+**Fonctionnalités de promotion de TikTok :**
 
--   Montant de dépenses flexible
--   Vous pouvez choisir un objectif de promotion pour plus d’engagement, plus de visites de sites Web ou plus d’abonnés
--   Personnalisez votre audience ou laissez TikTok choisir pour vous
--   Un budget et un délai défini
+- Montant de dépenses flexible
+- Vous pouvez choisir un objectif de promotion pour plus d’engagement, plus de visites de sites Web ou plus d’abonnés
+- Personnalisez votre audience ou laissez TikTok choisir pour vous
+- Un budget et un délai défini
 
 ## Autres outils TikTok pour les spécialistes du marketing
 
@@ -208,17 +211,17 @@ La meilleure partie de TikTok Promote est sa simplicité d’utilisation et la m
 
 Adobe Creative Cloud Express est **génial** pour TikTok. Les fonctionnalités de glisser-déposer de l’application, les modèles et thèmes préchargés et les capacités de redimensionnement vidéo permettent de créer rapidement et facilement des vidéos TikTok personnalisées. Vous pouvez ajouter du texte, des animations et des autocollants qui ne se trouvent pas dans l’application TikTok.
 
-Ne vous attendez pas à utiliser Express pour concevoir l’ensemble de votre marque ; La force de cette application réside dans la création de clips rapides, éphémères et faciles à consommer. Le type de petites vidéos TikTok _aime._
+Ne vous attendez pas à utiliser Express pour concevoir l’ensemble de votre marque ; La force de cette application réside dans la création de clips rapides, éphémères et faciles à consommer. Le type de petites vidéos TikTok *aime.*
 
-> [@happy.tapis](https://www.tiktok.com/@happy.rugs "@happy.rugs")
-> 
-> [#un d](https://www.tiktok.com/tag/ad "ad") Adobe @CreativeCloudExpress facilite ma vie de propriétaire d’entreprise, d’artiste et de créateur. [#FacileAvecAdobeExpress](https://www.tiktok.com/tag/EasyWithAdobeExpress "EasyWithAdobeExpress") [#AdobePartner](https://www.tiktok.com/tag/adobepartner "adobepartner")
-> 
-> [♬ Trucs difficiles, trucs faciles – Rocky Paterra](https://www.tiktok.com/music/Tough-Stuff-Easy-Stuff-7068315777077610498 "♬ Tough Stuff, Easy Stuff - Rocky Paterra")
+> [@happy.tapis](https://www.tiktok.com/@happy.rugs)
+>
+> [#un d](https://www.tiktok.com/tag/ad) Adobe @CreativeCloudExpress facilite ma vie de propriétaire d’entreprise, d’artiste et de créateur. [#FacileAvecAdobeExpress](https://www.tiktok.com/tag/EasyWithAdobeExpress) [#AdobePartner](https://www.tiktok.com/tag/adobepartner)
+>
+> [♬ Trucs difficiles, trucs faciles – Rocky Paterra](https://www.tiktok.com/music/Tough-Stuff-Easy-Stuff-7068315777077610498)
 
 ### CopySmith
 
-Avez-vous, comme tant d’autres, grincer des dents à l’idée d’écrire une copie ? Ne vous inquiétez pas; il y a une application pour ça. Même si vous (comme nous) aimez écrire des légendes mais que vous en avez trop dans votre assiette, CopySmith pourrait être la réponse.
+Avez-vous, comme tant d’autres, grincer des dents à l’idée d’écrire une copie ? Ne vous inquiétez pas; il y a une application pour ça. Même si vous (comme nous) aimez écrire des légendes mais que vous en avez trop dans votre assiette, CopySmith pourrait être la réponse.
 
 CopySmith est une IA de rédaction qui génère des textes et du contenu pour vous. Avec quelques ajustements et modifications mineurs, il vous reste des sous-titres créés en deux fois moins de temps.
 

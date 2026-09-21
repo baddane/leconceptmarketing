@@ -1,0 +1,102 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getPosts, getCategories } from "../../lib/archive";
+
+const posts = await getPosts();
+const categories = await getCategories();
+---
+
+<BaseLayout
+  title="Recherche"
+  description="Rechercher parmi les articles archivés du Concept Marketing."
+  noindex
+  categories={categories}
+>
+  <section class="hero">
+    <div class="wrap">
+      <p class="breadcrumb"><a href="/">Accueil</a> › Recherche</p>
+      <h1>Recherche</h1>
+      <p>Filtrez les {posts.length} articles par titre, description ou catégorie.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap" style="max-width:820px">
+      <div class="search-box">
+        <input
+          id="q"
+          type="search"
+          placeholder="Ex. : référencement, bitcoin, ChatGPT…"
+          autocomplete="off"
+          aria-label="Rechercher un article"
+        />
+      </div>
+      <p class="search-status" id="status">Chargement de l’index…</p>
+      <ul class="search-results" id="results"></ul>
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  const input = document.getElementById("q") as HTMLInputElement;
+  const status = document.getElementById("status")!;
+  const list = document.getElementById("results")!;
+  let index: any[] = [];
+
+  const fold = (s: string) =>
+    s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+
+  function render(items: any[], query: string) {
+    list.innerHTML = "";
+    if (!query) {
+      status.textContent = `${index.length} articles indexés. Saisissez un terme pour filtrer.`;
+      return;
+    }
+    status.textContent = items.length
+      ? `${items.length} résultat${items.length > 1 ? "s" : ""} pour « ${query} »`
+      : `Aucun résultat pour « ${query} »`;
+    const frag = document.createDocumentFragment();
+    for (const item of items.slice(0, 60)) {
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = item.u;
+      a.textContent = item.t;
+      const p = document.createElement("p");
+      p.textContent = [item.y, item.c[0], item.d].filter(Boolean).join(" · ");
+      li.append(a, p);
+      frag.append(li);
+    }
+    list.append(frag);
+  }
+
+  function search() {
+    const query = input.value.trim();
+    const needles = fold(query).split(/\s+/).filter(Boolean);
+    if (!needles.length) return render([], "");
+    const scored = [];
+    for (const item of index) {
+      const title = fold(item.t);
+      const hay = `${title} ${fold(item.d)} ${fold(item.c.join(" "))}`;
+      if (!needles.every((n) => hay.includes(n))) continue;
+      scored.push({ item, score: needles.every((n) => title.includes(n)) ? 0 : 1 });
+    }
+    scored.sort((a, b) => a.score - b.score);
+    render(scored.map((s) => s.item), query);
+  }
+
+  fetch("/search.json")
+    .then((r) => r.json())
+    .then((data) => {
+      index = data;
+      render([], "");
+      input.addEventListener("input", search);
+      const initial = new URLSearchParams(location.search).get("q");
+      if (initial) {
+        input.value = initial;
+        search();
+      }
+    })
+    .catch(() => {
+      status.textContent = "Impossible de charger l’index de recherche.";
+    });
+</script>

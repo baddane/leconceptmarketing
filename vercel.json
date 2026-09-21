@@ -1,0 +1,1423 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "trailingSlash": true,
+  "cleanUrls": false,
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "23711"
+        }
+      ],
+      "destination": "/comment-google-suit-il-votre-position-sans-gps-et-comment-y-mettre-fin/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "24139"
+        }
+      ],
+      "destination": "/multi-agent-architecture-search-un-nouveau-cadre-dapprentissage-automatique-qui-optimise-les-systemes-multi-agents/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-10-templates-powerpoint-de-presentations-de-conferences-seminaires",
+      "destination": "/10-templates-powerpoint-de-presentations-de-conferences-seminaires/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-10-themes-wordpress-pour-creer-votre-boutique-en-ligne",
+      "destination": "/10-themes-wordpress-pour-creer-votre-boutique-en-ligne/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-12-conseils-pour-se-proteger-des-dangers-dinternet-en-ligne",
+      "destination": "/12-conseils-pour-se-proteger-des-dangers-dinternet-en-ligne/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-13-blogueuses-francaises-de-mode-que-vous-devriez-suivre",
+      "destination": "/13-blogueuses-francaises-de-mode-que-vous-devriez-suivre/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-5-etudes-de-cas-pour-comprendre-la-puissance-du-marketing-digitale",
+      "destination": "/5-etudes-de-cas-pour-comprendre-la-puissance-du-marketing-digitale/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-5-outils-indispensables-pour-tester-la-vitesse-de-votre-site-web",
+      "destination": "/5-outils-indispensables-pour-tester-la-vitesse-de-votre-site-web/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-5-presentation-powerpoint-theme-et-modele-powerpoint-pour-entreprise",
+      "destination": "/5-presentation-powerpoint-theme-et-modele-powerpoint-pour-entreprise/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-5-sites-incontournables-pour-apprendre-wordpress-en-francais",
+      "destination": "/5-sites-incontournables-pour-apprendre-wordpress-en-francais/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-5-themes-wordpress-gratuits-pour-creer-son-site-sans-rien-payer",
+      "destination": "/5-themes-wordpress-gratuits-pour-creer-son-site-sans-rien-payer/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-6-presentation-powerpoint-metaverse-metaverse-powerpoint",
+      "destination": "/6-presentation-powerpoint-metaverse-metaverse-powerpoint/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-8-extensions-chrome-gratuites-indispensables-pour-votre-seo",
+      "destination": "/8-extensions-chrome-gratuites-indispensables-pour-votre-seo/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-adam-mosseri-partage-son-point-de-vue-sur-ce-que-tiktok-fait-actuellement-de-mieux-quinstagram",
+      "destination": "/adam-mosseri-partage-son-point-de-vue-sur-ce-que-tiktok-fait-actuellement-de-mieux-quinstagram/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-algorithmes-de-google-2021-les-nouveaux-indicateurs-core-web-vitals",
+      "destination": "/algorithmes-de-google-2021-les-nouveaux-indicateurs-core-web-vitals/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-bannieres-google-ads-top-10-des-bannieres-immobiliere-pour-un-site-immobilier",
+      "destination": "/bannieres-google-ads-top-10-des-bannieres-immobiliere-pour-un-site-immobilier/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-ce-que-vous-devez-savoir-sur-les-crypto-monnaies",
+      "destination": "/ce-que-vous-devez-savoir-sur-les-crypto-monnaies/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-combien-gagnent-les-youtubers-calculateur-dargent-youtube",
+      "destination": "/combien-gagnent-les-youtubers-calculateur-dargent-youtube/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-accelerer-et-optimiser-votre-site-web-wordpress",
+      "destination": "/comment-accelerer-et-optimiser-votre-site-web-wordpress/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-ajouter-le-fichier-ads-txt-sur-votre-site-pour-wordpress",
+      "destination": "/comment-ajouter-le-fichier-ads-txt-sur-votre-site-pour-wordpress/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-choisir-une-agence-digitale",
+      "destination": "/comment-choisir-une-agence-digitale/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-choisir-une-bonne-agence-de-referencement-experte-et-fiable",
+      "destination": "/comment-choisir-une-bonne-agence-de-referencement-experte-et-fiable/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-configurer-le-controle-parental-whatsapp",
+      "destination": "/comment-configurer-le-controle-parental-whatsapp/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-creer-un-blog-rentable-qui-rapporte-2000-e-par-mois",
+      "destination": "/comment-creer-un-blog-rentable-qui-rapporte-2000-e-par-mois/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-creer-un-blog-rentable-qui-rapporte-a-partir-de-zero-en-2021",
+      "destination": "/comment-creer-un-blog-rentable-qui-rapporte-a-partir-de-zero-en-2021/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-creer-un-buyer-persona-operationnel-en-5-etapes",
+      "destination": "/comment-creer-un-buyer-persona-operationnel-en-5-etapes/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-creer-une-agence-de-marketing-digital-les-etapes-cles",
+      "destination": "/comment-creer-une-agence-de-marketing-digital-les-etapes-cles/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-creer-une-strategie-de-medias-sociaux-en-6-etapes",
+      "destination": "/comment-creer-une-strategie-de-medias-sociaux-en-6-etapes/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-creez-votre-propre-crypto-monnaie-comme-le-bitcoin-ou-le-litecoin",
+      "destination": "/comment-creez-votre-propre-crypto-monnaie-comme-le-bitcoin-ou-le-litecoin/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-gagner-de-largent-avec-amazon-voici-5-methodes-faciles",
+      "destination": "/comment-gagner-de-largent-avec-amazon-voici-5-methodes-faciles/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-gagner-de-largent-devenir-riche-grace-a-internet",
+      "destination": "/comment-gagner-de-largent-devenir-riche-grace-a-internet/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-gagner-de-largent-en-ligne-voici-15-idees-15-sites",
+      "destination": "/comment-gagner-de-largent-en-ligne-voici-15-idees-15-sites/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-generer-des-leads-qualifies-avec-linbound-marketing",
+      "destination": "/comment-generer-des-leads-qualifies-avec-linbound-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-gerer-votre-force-de-vente-en-2-etapes-essentielles",
+      "destination": "/comment-gerer-votre-force-de-vente-en-2-etapes-essentielles/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-le-coronavirus-affecte-lindustrie-du-marketing-digital",
+      "destination": "/comment-le-coronavirus-affecte-lindustrie-du-marketing-digital/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-lintelligence-artificielle-ia-transforme-lavenir-du-marketing-numerique",
+      "destination": "/comment-lintelligence-artificielle-ia-transforme-lavenir-du-marketing-numerique/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-proteger-la-vie-privee-de-vos-enfants-aux-dangers-dinternet",
+      "destination": "/comment-proteger-la-vie-privee-de-vos-enfants-aux-dangers-dinternet/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-realisez-une-campagne-street-marketing-en-8-etapes",
+      "destination": "/comment-realisez-une-campagne-street-marketing-en-8-etapes/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-se-classer-n1-sur-google-en-2020",
+      "destination": "/comment-se-classer-n1-sur-google-en-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-comment-vendre-la-cryptomonnaies-sur-binance",
+      "destination": "/comment-vendre-la-cryptomonnaies-sur-binance/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-coronavirus-airbnb-gele-ces-depenses-de-marketing-pour-economiser-800-millions-de-dollars",
+      "destination": "/coronavirus-airbnb-gele-ces-depenses-de-marketing-pour-economiser-800-millions-de-dollars/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-coronavirus-le-patron-damazon-jeff-bezos-diffuse-une-note-aux-employes-damazon",
+      "destination": "/coronavirus-le-patron-damazon-jeff-bezos-diffuse-une-note-aux-employes-damazon/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-crypto-monnaies-doge-grimpe-de-49",
+      "destination": "/crypto-monnaies-doge-grimpe-de-49/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-dogecoin-bondit-apres-un-tweet-delon-musk",
+      "destination": "/dogecoin-bondit-apres-un-tweet-delon-musk/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-facebook-analytics-cessera-detre-accessible-apres-le-30-juin-2021",
+      "destination": "/facebook-analytics-cessera-detre-accessible-apres-le-30-juin-2021/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-facebook-des-appels-video-jusqua-50-personnes-avec-messenger-rooms",
+      "destination": "/facebook-des-appels-video-jusqua-50-personnes-avec-messenger-rooms/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-fils-dariane-breadcrumbs-pour-le-seo-des-sites-web",
+      "destination": "/fils-dariane-breadcrumbs-pour-le-seo-des-sites-web/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-gagner-de-largent-via-internet-travail-a-domicile-en-ligne",
+      "destination": "/gagner-de-largent-via-internet-travail-a-domicile-en-ligne/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-google-lance-un-outil-gratuit-pour-la-creation-de-video-promotionnelle",
+      "destination": "/google-lance-un-outil-gratuit-pour-la-creation-de-video-promotionnelle/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-google-site-kit-le-guide-ultime-pour-maitriser-les-kpis-de-google",
+      "destination": "/google-site-kit-le-guide-ultime-pour-maitriser-les-kpis-de-google/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-google-web-stories-un-guide-pour-les-specialistes-du-digital-marketing",
+      "destination": "/google-web-stories-un-guide-pour-les-specialistes-du-digital-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-hebergement-web-comment-choisir-un-hebergeur-pour-mon-site-web",
+      "destination": "/hebergement-web-comment-choisir-un-hebergeur-pour-mon-site-web/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-hi-tech-les-5-nouveaux-marche-emergents-dapple",
+      "destination": "/hi-tech-les-5-nouveaux-marche-emergents-dapple/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-imprimante-3d-quelle-imprimante-3d-choisir-pour-son-agence-marketing",
+      "destination": "/imprimante-3d-quelle-imprimante-3d-choisir-pour-son-agence-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-instagram-et-facebook-renforcent-la-lutte-contre-les-fausses-informations-et-les-rumeurs-numeriques",
+      "destination": "/instagram-et-facebook-renforcent-la-lutte-contre-les-fausses-informations-et-les-rumeurs-numeriques/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-instagram-et-sa-limite-dage",
+      "destination": "/instagram-et-sa-limite-dage/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-instagram-pack-et-modeles-de-bannieres-promotionnelle",
+      "destination": "/instagram-pack-et-modeles-de-bannieres-promotionnelle/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-instagram-permet-aux-utilisateurs-depingler-les-commentaires",
+      "destination": "/instagram-permet-aux-utilisateurs-depingler-les-commentaires/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-instagram-publie-son-magazine-numerique-instagram-insider",
+      "destination": "/instagram-publie-son-magazine-numerique-instagram-insider/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-la-publicite-et-les-annonces-sur-tiktok-sont-desormais-operationnels",
+      "destination": "/la-publicite-et-les-annonces-sur-tiktok-sont-desormais-operationnels/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-la-transformation-numerique-des-entreprises-les-5-tendances-en-2020",
+      "destination": "/la-transformation-numerique-des-entreprises-les-5-tendances-en-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-classement-des-10-entreprises-high-tech-les-plus-valorisees-au-monde",
+      "destination": "/le-classement-des-10-entreprises-high-tech-les-plus-valorisees-au-monde/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-classement-top-10-des-meilleurs-sites-e-commerce-les-plus-populaires-dans-le-monde",
+      "destination": "/le-classement-top-10-des-meilleurs-sites-e-commerce-les-plus-populaires-dans-le-monde/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-contenu-derriere-les-captchas-est-invisible-pour-google",
+      "destination": "/le-contenu-derriere-les-captchas-est-invisible-pour-google/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-drop-servicing-quest-ce-que-cest-comment-se-lancer",
+      "destination": "/le-drop-servicing-quest-ce-que-cest-comment-se-lancer/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-marketing-digital-au-service-de-la-saint-valentin",
+      "destination": "/le-marketing-digital-au-service-de-la-saint-valentin/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-merchandising-vers-une-ere-de-digitalisation",
+      "destination": "/le-merchandising-vers-une-ere-de-digitalisation/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-role-des-reseaux-sociaux-dans-la-construction-de-marque",
+      "destination": "/le-role-des-reseaux-sociaux-dans-la-construction-de-marque/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-temps-passe-sur-les-medias-sociaux-tiktok-depasse-facebook",
+      "destination": "/le-temps-passe-sur-les-medias-sociaux-tiktok-depasse-facebook/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-top-10-des-outils-de-webmarketing-incontournables-pour-booster-votre-activite-de-web",
+      "destination": "/le-top-10-des-outils-de-webmarketing-incontournables-pour-booster-votre-activite-de-web/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-top-10-marques-digitales-francaises-les-plus-visibles-et-les-plus-valorisees-dans-le-monde",
+      "destination": "/le-top-10-marques-digitales-francaises-les-plus-visibles-et-les-plus-valorisees-dans-le-monde/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-top-5-des-pays-ou-le-commerce-est-le-plus-dynamique-au-monde",
+      "destination": "/le-top-5-des-pays-ou-le-commerce-est-le-plus-dynamique-au-monde/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-top-5-gros-influenceuses-et-blogueuses-francaises-sur-instagram-2019",
+      "destination": "/le-top-5-gros-influenceuses-et-blogueuses-francaises-sur-instagram-2019/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-top-8-des-meilleurs-moteurs-de-recherche-alternatifs-a-google",
+      "destination": "/le-top-8-des-meilleurs-moteurs-de-recherche-alternatifs-a-google/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-top-8-des-outils-de-visioconference-professionnels-gratuits",
+      "destination": "/le-top-8-des-outils-de-visioconference-professionnels-gratuits/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-le-top-8-des-pays-qui-ont-le-plus-developpe-lintelligence-artificielle",
+      "destination": "/le-top-8-des-pays-qui-ont-le-plus-developpe-lintelligence-artificielle/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-learnybox-notre-avis-complet-apres-3-mois-de-test",
+      "destination": "/learnybox-notre-avis-complet-apres-3-mois-de-test/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-10-meilleures-bannieres-publicitaires-web-pour-promouvoir-vos-produits",
+      "destination": "/les-10-meilleures-bannieres-publicitaires-web-pour-promouvoir-vos-produits/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-10-meilleurs-modeles-de-presentation-marketing-de-votre-entreprise",
+      "destination": "/les-10-meilleurs-modeles-de-presentation-marketing-de-votre-entreprise/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-10-meilleurs-themes-onepage-pour-les-agences-marketing",
+      "destination": "/les-10-meilleurs-themes-onepage-pour-les-agences-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-17-meilleures-extensions-gratuits-a-installer-durgence-pour-votre-woocommerce",
+      "destination": "/les-17-meilleures-extensions-gratuits-a-installer-durgence-pour-votre-woocommerce/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-4-meilleurs-logiciels-crm-marketing-en-2020",
+      "destination": "/les-4-meilleurs-logiciels-crm-marketing-en-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-5-meilleures-cameras-pour-faire-des-vlogs-marketing",
+      "destination": "/les-5-meilleures-cameras-pour-faire-des-vlogs-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-5-meilleures-sites-high-tech-pour-decouvrir-les-dernieres-tendances-technologiques",
+      "destination": "/les-5-meilleures-sites-high-tech-pour-decouvrir-les-dernieres-tendances-technologiques/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-5-tendances-du-marketing-digital-a-suivre-de-pres-en-2020",
+      "destination": "/les-5-tendances-du-marketing-digital-a-suivre-de-pres-en-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-6-meilleurs-articles-sur-le-marketing-digital-a-ne-pas-rater",
+      "destination": "/les-6-meilleurs-articles-sur-le-marketing-digital-a-ne-pas-rater/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-6-outils-indispensables-pour-le-marketing-daffiliation",
+      "destination": "/les-6-outils-indispensables-pour-le-marketing-daffiliation/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-7-meilleures-formations-en-ligne-et-gratuites-en-digital-marketing",
+      "destination": "/les-7-meilleures-formations-en-ligne-et-gratuites-en-digital-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-astuces-qui-marchent-pour-avoir-plus-dabonnes-sur-linkedin",
+      "destination": "/les-astuces-qui-marchent-pour-avoir-plus-dabonnes-sur-linkedin/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-entrepreneurs-du-web-les-plus-riches-et-les-plus-celebres-du-monde",
+      "destination": "/les-entrepreneurs-du-web-les-plus-riches-et-les-plus-celebres-du-monde/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-hashtags-les-plus-populaires-en-marketing-business-en-ligne",
+      "destination": "/les-hashtags-les-plus-populaires-en-marketing-business-en-ligne/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-meilleurs-plugins-gratuits-pour-loptimisation-de-votre-referencement",
+      "destination": "/les-meilleurs-plugins-gratuits-pour-loptimisation-de-votre-referencement/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-nouveautes-de-lapple-en-iphone-11-et-iphone-11-pro",
+      "destination": "/les-nouveautes-de-lapple-en-iphone-11-et-iphone-11-pro/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-revenus-publicitaires-de-facebook-ont-atteint-les-20-8-milliards",
+      "destination": "/les-revenus-publicitaires-de-facebook-ont-atteint-les-20-8-milliards/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-les-top-5-meilleurs-outils-danalyse-dinstagram-gratuits",
+      "destination": "/les-top-5-meilleurs-outils-danalyse-dinstagram-gratuits/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-lintelligence-artificielle-ia-definition-avantages-inconvenients",
+      "destination": "/lintelligence-artificielle-ia-definition-avantages-inconvenients/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-liste-des-top-20-milliardaires-du-monde-en-2021",
+      "destination": "/liste-des-top-20-milliardaires-du-monde-en-2021/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-maddyplay-une-plateforme-video-pour-les-professionnels",
+      "destination": "/maddyplay-une-plateforme-video-pour-les-professionnels/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-marketing-de-contenu-les-5-grandes-tendances-a-suivre-en-2020",
+      "destination": "/marketing-de-contenu-les-5-grandes-tendances-a-suivre-en-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-marketing-digital-les-6-meilleurs-livres-que-tous-marketeurs-devraient-avoir-lus",
+      "destination": "/marketing-digital-les-6-meilleurs-livres-que-tous-marketeurs-devraient-avoir-lus/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-nouveautes-concernant-les-dernieres-mises-a-jour-youtube-analytics",
+      "destination": "/nouveautes-concernant-les-dernieres-mises-a-jour-youtube-analytics/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-petit-tour-des-15-meilleurs-produits-et-services-en-ligne-de-google",
+      "destination": "/petit-tour-des-15-meilleurs-produits-et-services-en-ligne-de-google/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-pinterest-ajoute-un-nouvel-onglet-shopping-pour-faciliter-les-achats",
+      "destination": "/pinterest-ajoute-un-nouvel-onglet-shopping-pour-faciliter-les-achats/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-pourquoi-facebook-instagram-et-whatsapp-sont-tombes-en-panne",
+      "destination": "/pourquoi-facebook-instagram-et-whatsapp-sont-tombes-en-panne/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-quelle-est-la-difference-entre-le-texte-alternatif-de-limage-le-texte-du-titre-et-les-noms-de-fichier",
+      "destination": "/quelle-est-la-difference-entre-le-texte-alternatif-de-limage-le-texte-du-titre-et-les-noms-de-fichier/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-quelques-astuces-a-connaitre-pour-securiser-votre-compte-instagram",
+      "destination": "/quelques-astuces-a-connaitre-pour-securiser-votre-compte-instagram/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-quels-sont-les-20-meilleurs-sites-pour-obtenir-des-backlinks-gratuits",
+      "destination": "/quels-sont-les-20-meilleurs-sites-pour-obtenir-des-backlinks-gratuits/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-quest-ce-que-le-marketing-digital-utilite-points-cles-avantages",
+      "destination": "/quest-ce-que-le-marketing-digital-utilite-points-cles-avantages/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-seo-backlinks-comment-supprimer-les-mauvais-backlinks-qui-impactent-votre-site-web",
+      "destination": "/seo-backlinks-comment-supprimer-les-mauvais-backlinks-qui-impactent-votre-site-web/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-themes-wordpress-arabe-les-10-meilleurs-themes-rtl-gratuits",
+      "destination": "/themes-wordpress-arabe-les-10-meilleurs-themes-rtl-gratuits/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-tiktok-ajoute-loption-detude-dimpact-sur-les-marques-pour-les-annonceurs",
+      "destination": "/tiktok-ajoute-loption-detude-dimpact-sur-les-marques-pour-les-annonceurs/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-tiktok-et-ses-programmes-deducation-en-inde",
+      "destination": "/tiktok-et-ses-programmes-deducation-en-inde/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-tiktok-lance-une-campagne-de-recrutement-en-australie",
+      "destination": "/tiktok-lance-une-campagne-de-recrutement-en-australie/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-top-10-des-meilleurs-sites-dimmobilier-en-france-achat-vente-et-annonces",
+      "destination": "/top-10-des-meilleurs-sites-dimmobilier-en-france-achat-vente-et-annonces/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-top-10-des-meilleurs-sites-du-contenus-viraux-buzz-et-videos-virales",
+      "destination": "/top-10-des-meilleurs-sites-du-contenus-viraux-buzz-et-videos-virales/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-top-10-des-pdg-des-plus-grandes-entreprises-digitales-au-monde-en-2020",
+      "destination": "/top-10-des-pdg-des-plus-grandes-entreprises-digitales-au-monde-en-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-top-10-influenceurs-les-mieux-payes-au-monde-pour-chaque-post-publie",
+      "destination": "/top-10-influenceurs-les-mieux-payes-au-monde-pour-chaque-post-publie/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-top-20-des-sites-web-en-france-les-mieux-classes-et-les-plus-populaires",
+      "destination": "/top-20-des-sites-web-en-france-les-mieux-classes-et-les-plus-populaires/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-top-5-des-sites-de-photos-en-ligne-de-qualite-gratuites-et-libres-de-droits",
+      "destination": "/top-5-des-sites-de-photos-en-ligne-de-qualite-gratuites-et-libres-de-droits/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-top-5-des-sites-pour-gagner-de-largent-autant-que-graphistes-et-designers",
+      "destination": "/top-5-des-sites-pour-gagner-de-largent-autant-que-graphistes-et-designers/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-top-8-des-meilleurs-plateformes-pour-creer-votre-application-mobile",
+      "destination": "/top-8-des-meilleurs-plateformes-pour-creer-votre-application-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-top-8-entrepreneurs-qui-ont-fait-fortune-grace-a-la-technologie-numerique",
+      "destination": "/top-8-entrepreneurs-qui-ont-fait-fortune-grace-a-la-technologie-numerique/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-top-des-12-meilleures-ecoles-du-webmarketing-en-france",
+      "destination": "/top-des-12-meilleures-ecoles-du-webmarketing-en-france/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-trouver-sa-formation-en-ligne-le-programme-e-learning-n1-en-france",
+      "destination": "/trouver-sa-formation-en-ligne-le-programme-e-learning-n1-en-france/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-twitter-ajoute-le-bouton-sabonner-pour-inciter-les-inscriptions-a-la-newsletter",
+      "destination": "/twitter-ajoute-le-bouton-sabonner-pour-inciter-les-inscriptions-a-la-newsletter/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-twitter-le-guide-pratique-de-a-a-z-destine-aux-professionnels",
+      "destination": "/twitter-le-guide-pratique-de-a-a-z-destine-aux-professionnels/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-uber-3500-employes-apprennent-leur-licenciement-par-visio-conference",
+      "destination": "/uber-3500-employes-apprennent-leur-licenciement-par-visio-conference/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-vimeo-sest-associe-a-tiktok-marketing-partners",
+      "destination": "/vimeo-sest-associe-a-tiktok-marketing-partners/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-voici-les-5-milliardaires-francais-du-top-500-de-bloomberg-billionaires",
+      "destination": "/voici-les-5-milliardaires-francais-du-top-500-de-bloomberg-billionaires/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7-youtube-vient-dannoncer-une-nouvelle-option-pour-les-commentaires",
+      "destination": "/youtube-vient-dannoncer-une-nouvelle-option-pour-les-commentaires/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7les-5-meilleurs-pc-portables-proffesionels-pour-les-graphistes-designers",
+      "destination": "/les-5-meilleurs-pc-portables-proffesionels-pour-les-graphistes-designers/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B7une-mise-a-jour-woocommerce-affecte-des-millions-de-sites",
+      "destination": "/une-mise-a-jour-woocommerce-affecte-des-millions-de-sites/",
+      "permanent": true
+    },
+    {
+      "source": "/%E2%96%B8-astuces-pour-generer-du-trafic-et-faire-connaitre-votre-site-web",
+      "destination": "/astuces-pour-generer-du-trafic-et-faire-connaitre-votre-site-web/",
+      "permanent": true
+    },
+    {
+      "source": "/__trashed-2",
+      "destination": "/trashed-2/",
+      "permanent": true
+    },
+    {
+      "source": "/avis-du-theme-avada-%F0%9F%92%A5-le-produit-le-plus-puissant-de-tous-les-temps",
+      "destination": "/avis-du-theme-avada-le-produit-le-plus-puissant-de-tous-les-temps/",
+      "permanent": true
+    },
+    {
+      "source": "/avis-du-theme-avada-💥-le-produit-le-plus-puissant-de-tous-les-temps",
+      "destination": "/avis-du-theme-avada-le-produit-le-plus-puissant-de-tous-les-temps/",
+      "permanent": true
+    },
+    {
+      "source": "/cest-un-succes-la-facturation-client-atteint-un-volume-traite-de-500-000-et-est-desormais-entierement-gratuite-%F0%9F%8E%89",
+      "destination": "/cest-un-succes-la-facturation-client-atteint-un-volume-traite-de-500-000-et-est-desormais-entierement-gratuite/",
+      "permanent": true
+    },
+    {
+      "source": "/cest-un-succes-la-facturation-client-atteint-un-volume-traite-de-500-000-et-est-desormais-entierement-gratuite-🎉",
+      "destination": "/cest-un-succes-la-facturation-client-atteint-un-volume-traite-de-500-000-et-est-desormais-entierement-gratuite/",
+      "permanent": true
+    },
+    {
+      "source": "/comment-bien-ouvrir-un-compte-bancaire-dedie-quand-on-est-micro%E2%80%91entrepreneur",
+      "destination": "/comment-bien-ouvrir-un-compte-bancaire-dedie-quand-on-est-micro-entrepreneur/",
+      "permanent": true
+    },
+    {
+      "source": "/comment-bien-ouvrir-un-compte-bancaire-dedie-quand-on-est-micro‑entrepreneur",
+      "destination": "/comment-bien-ouvrir-un-compte-bancaire-dedie-quand-on-est-micro-entrepreneur/",
+      "permanent": true
+    },
+    {
+      "source": "/nft-services-les-10-meilleures-idees-daffaires-qui-vont-decoller%EF%BF%BC",
+      "destination": "/nft-services-les-10-meilleures-idees-daffaires-qui-vont-decoller/",
+      "permanent": true
+    },
+    {
+      "source": "/nft-services-les-10-meilleures-idees-daffaires-qui-vont-decoller￼",
+      "destination": "/nft-services-les-10-meilleures-idees-daffaires-qui-vont-decoller/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-10-templates-powerpoint-de-presentations-de-conferences-seminaires",
+      "destination": "/10-templates-powerpoint-de-presentations-de-conferences-seminaires/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-10-themes-wordpress-pour-creer-votre-boutique-en-ligne",
+      "destination": "/10-themes-wordpress-pour-creer-votre-boutique-en-ligne/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-12-conseils-pour-se-proteger-des-dangers-dinternet-en-ligne",
+      "destination": "/12-conseils-pour-se-proteger-des-dangers-dinternet-en-ligne/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-13-blogueuses-francaises-de-mode-que-vous-devriez-suivre",
+      "destination": "/13-blogueuses-francaises-de-mode-que-vous-devriez-suivre/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-5-etudes-de-cas-pour-comprendre-la-puissance-du-marketing-digitale",
+      "destination": "/5-etudes-de-cas-pour-comprendre-la-puissance-du-marketing-digitale/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-5-outils-indispensables-pour-tester-la-vitesse-de-votre-site-web",
+      "destination": "/5-outils-indispensables-pour-tester-la-vitesse-de-votre-site-web/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-5-presentation-powerpoint-theme-et-modele-powerpoint-pour-entreprise",
+      "destination": "/5-presentation-powerpoint-theme-et-modele-powerpoint-pour-entreprise/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-5-sites-incontournables-pour-apprendre-wordpress-en-francais",
+      "destination": "/5-sites-incontournables-pour-apprendre-wordpress-en-francais/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-5-themes-wordpress-gratuits-pour-creer-son-site-sans-rien-payer",
+      "destination": "/5-themes-wordpress-gratuits-pour-creer-son-site-sans-rien-payer/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-6-presentation-powerpoint-metaverse-metaverse-powerpoint",
+      "destination": "/6-presentation-powerpoint-metaverse-metaverse-powerpoint/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-8-extensions-chrome-gratuites-indispensables-pour-votre-seo",
+      "destination": "/8-extensions-chrome-gratuites-indispensables-pour-votre-seo/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-adam-mosseri-partage-son-point-de-vue-sur-ce-que-tiktok-fait-actuellement-de-mieux-quinstagram",
+      "destination": "/adam-mosseri-partage-son-point-de-vue-sur-ce-que-tiktok-fait-actuellement-de-mieux-quinstagram/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-algorithmes-de-google-2021-les-nouveaux-indicateurs-core-web-vitals",
+      "destination": "/algorithmes-de-google-2021-les-nouveaux-indicateurs-core-web-vitals/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-bannieres-google-ads-top-10-des-bannieres-immobiliere-pour-un-site-immobilier",
+      "destination": "/bannieres-google-ads-top-10-des-bannieres-immobiliere-pour-un-site-immobilier/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-ce-que-vous-devez-savoir-sur-les-crypto-monnaies",
+      "destination": "/ce-que-vous-devez-savoir-sur-les-crypto-monnaies/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-combien-gagnent-les-youtubers-calculateur-dargent-youtube",
+      "destination": "/combien-gagnent-les-youtubers-calculateur-dargent-youtube/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-accelerer-et-optimiser-votre-site-web-wordpress",
+      "destination": "/comment-accelerer-et-optimiser-votre-site-web-wordpress/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-ajouter-le-fichier-ads-txt-sur-votre-site-pour-wordpress",
+      "destination": "/comment-ajouter-le-fichier-ads-txt-sur-votre-site-pour-wordpress/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-choisir-une-agence-digitale",
+      "destination": "/comment-choisir-une-agence-digitale/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-choisir-une-bonne-agence-de-referencement-experte-et-fiable",
+      "destination": "/comment-choisir-une-bonne-agence-de-referencement-experte-et-fiable/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-configurer-le-controle-parental-whatsapp",
+      "destination": "/comment-configurer-le-controle-parental-whatsapp/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-creer-un-blog-rentable-qui-rapporte-2000-e-par-mois",
+      "destination": "/comment-creer-un-blog-rentable-qui-rapporte-2000-e-par-mois/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-creer-un-blog-rentable-qui-rapporte-a-partir-de-zero-en-2021",
+      "destination": "/comment-creer-un-blog-rentable-qui-rapporte-a-partir-de-zero-en-2021/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-creer-un-buyer-persona-operationnel-en-5-etapes",
+      "destination": "/comment-creer-un-buyer-persona-operationnel-en-5-etapes/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-creer-une-agence-de-marketing-digital-les-etapes-cles",
+      "destination": "/comment-creer-une-agence-de-marketing-digital-les-etapes-cles/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-creer-une-strategie-de-medias-sociaux-en-6-etapes",
+      "destination": "/comment-creer-une-strategie-de-medias-sociaux-en-6-etapes/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-creez-votre-propre-crypto-monnaie-comme-le-bitcoin-ou-le-litecoin",
+      "destination": "/comment-creez-votre-propre-crypto-monnaie-comme-le-bitcoin-ou-le-litecoin/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-gagner-de-largent-avec-amazon-voici-5-methodes-faciles",
+      "destination": "/comment-gagner-de-largent-avec-amazon-voici-5-methodes-faciles/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-gagner-de-largent-devenir-riche-grace-a-internet",
+      "destination": "/comment-gagner-de-largent-devenir-riche-grace-a-internet/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-gagner-de-largent-en-ligne-voici-15-idees-15-sites",
+      "destination": "/comment-gagner-de-largent-en-ligne-voici-15-idees-15-sites/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-generer-des-leads-qualifies-avec-linbound-marketing",
+      "destination": "/comment-generer-des-leads-qualifies-avec-linbound-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-gerer-votre-force-de-vente-en-2-etapes-essentielles",
+      "destination": "/comment-gerer-votre-force-de-vente-en-2-etapes-essentielles/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-le-coronavirus-affecte-lindustrie-du-marketing-digital",
+      "destination": "/comment-le-coronavirus-affecte-lindustrie-du-marketing-digital/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-lintelligence-artificielle-ia-transforme-lavenir-du-marketing-numerique",
+      "destination": "/comment-lintelligence-artificielle-ia-transforme-lavenir-du-marketing-numerique/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-proteger-la-vie-privee-de-vos-enfants-aux-dangers-dinternet",
+      "destination": "/comment-proteger-la-vie-privee-de-vos-enfants-aux-dangers-dinternet/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-realisez-une-campagne-street-marketing-en-8-etapes",
+      "destination": "/comment-realisez-une-campagne-street-marketing-en-8-etapes/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-se-classer-n1-sur-google-en-2020",
+      "destination": "/comment-se-classer-n1-sur-google-en-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-comment-vendre-la-cryptomonnaies-sur-binance",
+      "destination": "/comment-vendre-la-cryptomonnaies-sur-binance/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-coronavirus-airbnb-gele-ces-depenses-de-marketing-pour-economiser-800-millions-de-dollars",
+      "destination": "/coronavirus-airbnb-gele-ces-depenses-de-marketing-pour-economiser-800-millions-de-dollars/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-coronavirus-le-patron-damazon-jeff-bezos-diffuse-une-note-aux-employes-damazon",
+      "destination": "/coronavirus-le-patron-damazon-jeff-bezos-diffuse-une-note-aux-employes-damazon/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-crypto-monnaies-doge-grimpe-de-49",
+      "destination": "/crypto-monnaies-doge-grimpe-de-49/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-dogecoin-bondit-apres-un-tweet-delon-musk",
+      "destination": "/dogecoin-bondit-apres-un-tweet-delon-musk/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-facebook-analytics-cessera-detre-accessible-apres-le-30-juin-2021",
+      "destination": "/facebook-analytics-cessera-detre-accessible-apres-le-30-juin-2021/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-facebook-des-appels-video-jusqua-50-personnes-avec-messenger-rooms",
+      "destination": "/facebook-des-appels-video-jusqua-50-personnes-avec-messenger-rooms/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-fils-dariane-breadcrumbs-pour-le-seo-des-sites-web",
+      "destination": "/fils-dariane-breadcrumbs-pour-le-seo-des-sites-web/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-gagner-de-largent-via-internet-travail-a-domicile-en-ligne",
+      "destination": "/gagner-de-largent-via-internet-travail-a-domicile-en-ligne/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-google-lance-un-outil-gratuit-pour-la-creation-de-video-promotionnelle",
+      "destination": "/google-lance-un-outil-gratuit-pour-la-creation-de-video-promotionnelle/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-google-site-kit-le-guide-ultime-pour-maitriser-les-kpis-de-google",
+      "destination": "/google-site-kit-le-guide-ultime-pour-maitriser-les-kpis-de-google/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-google-web-stories-un-guide-pour-les-specialistes-du-digital-marketing",
+      "destination": "/google-web-stories-un-guide-pour-les-specialistes-du-digital-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-hebergement-web-comment-choisir-un-hebergeur-pour-mon-site-web",
+      "destination": "/hebergement-web-comment-choisir-un-hebergeur-pour-mon-site-web/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-hi-tech-les-5-nouveaux-marche-emergents-dapple",
+      "destination": "/hi-tech-les-5-nouveaux-marche-emergents-dapple/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-imprimante-3d-quelle-imprimante-3d-choisir-pour-son-agence-marketing",
+      "destination": "/imprimante-3d-quelle-imprimante-3d-choisir-pour-son-agence-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-instagram-et-facebook-renforcent-la-lutte-contre-les-fausses-informations-et-les-rumeurs-numeriques",
+      "destination": "/instagram-et-facebook-renforcent-la-lutte-contre-les-fausses-informations-et-les-rumeurs-numeriques/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-instagram-et-sa-limite-dage",
+      "destination": "/instagram-et-sa-limite-dage/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-instagram-pack-et-modeles-de-bannieres-promotionnelle",
+      "destination": "/instagram-pack-et-modeles-de-bannieres-promotionnelle/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-instagram-permet-aux-utilisateurs-depingler-les-commentaires",
+      "destination": "/instagram-permet-aux-utilisateurs-depingler-les-commentaires/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-instagram-publie-son-magazine-numerique-instagram-insider",
+      "destination": "/instagram-publie-son-magazine-numerique-instagram-insider/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-la-publicite-et-les-annonces-sur-tiktok-sont-desormais-operationnels",
+      "destination": "/la-publicite-et-les-annonces-sur-tiktok-sont-desormais-operationnels/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-la-transformation-numerique-des-entreprises-les-5-tendances-en-2020",
+      "destination": "/la-transformation-numerique-des-entreprises-les-5-tendances-en-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-classement-des-10-entreprises-high-tech-les-plus-valorisees-au-monde",
+      "destination": "/le-classement-des-10-entreprises-high-tech-les-plus-valorisees-au-monde/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-classement-top-10-des-meilleurs-sites-e-commerce-les-plus-populaires-dans-le-monde",
+      "destination": "/le-classement-top-10-des-meilleurs-sites-e-commerce-les-plus-populaires-dans-le-monde/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-contenu-derriere-les-captchas-est-invisible-pour-google",
+      "destination": "/le-contenu-derriere-les-captchas-est-invisible-pour-google/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-drop-servicing-quest-ce-que-cest-comment-se-lancer",
+      "destination": "/le-drop-servicing-quest-ce-que-cest-comment-se-lancer/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-marketing-digital-au-service-de-la-saint-valentin",
+      "destination": "/le-marketing-digital-au-service-de-la-saint-valentin/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-merchandising-vers-une-ere-de-digitalisation",
+      "destination": "/le-merchandising-vers-une-ere-de-digitalisation/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-role-des-reseaux-sociaux-dans-la-construction-de-marque",
+      "destination": "/le-role-des-reseaux-sociaux-dans-la-construction-de-marque/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-temps-passe-sur-les-medias-sociaux-tiktok-depasse-facebook",
+      "destination": "/le-temps-passe-sur-les-medias-sociaux-tiktok-depasse-facebook/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-top-10-des-outils-de-webmarketing-incontournables-pour-booster-votre-activite-de-web",
+      "destination": "/le-top-10-des-outils-de-webmarketing-incontournables-pour-booster-votre-activite-de-web/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-top-10-marques-digitales-francaises-les-plus-visibles-et-les-plus-valorisees-dans-le-monde",
+      "destination": "/le-top-10-marques-digitales-francaises-les-plus-visibles-et-les-plus-valorisees-dans-le-monde/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-top-5-des-pays-ou-le-commerce-est-le-plus-dynamique-au-monde",
+      "destination": "/le-top-5-des-pays-ou-le-commerce-est-le-plus-dynamique-au-monde/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-top-5-gros-influenceuses-et-blogueuses-francaises-sur-instagram-2019",
+      "destination": "/le-top-5-gros-influenceuses-et-blogueuses-francaises-sur-instagram-2019/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-top-8-des-meilleurs-moteurs-de-recherche-alternatifs-a-google",
+      "destination": "/le-top-8-des-meilleurs-moteurs-de-recherche-alternatifs-a-google/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-top-8-des-outils-de-visioconference-professionnels-gratuits",
+      "destination": "/le-top-8-des-outils-de-visioconference-professionnels-gratuits/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-le-top-8-des-pays-qui-ont-le-plus-developpe-lintelligence-artificielle",
+      "destination": "/le-top-8-des-pays-qui-ont-le-plus-developpe-lintelligence-artificielle/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-learnybox-notre-avis-complet-apres-3-mois-de-test",
+      "destination": "/learnybox-notre-avis-complet-apres-3-mois-de-test/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-10-meilleures-bannieres-publicitaires-web-pour-promouvoir-vos-produits",
+      "destination": "/les-10-meilleures-bannieres-publicitaires-web-pour-promouvoir-vos-produits/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-10-meilleurs-modeles-de-presentation-marketing-de-votre-entreprise",
+      "destination": "/les-10-meilleurs-modeles-de-presentation-marketing-de-votre-entreprise/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-10-meilleurs-themes-onepage-pour-les-agences-marketing",
+      "destination": "/les-10-meilleurs-themes-onepage-pour-les-agences-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-17-meilleures-extensions-gratuits-a-installer-durgence-pour-votre-woocommerce",
+      "destination": "/les-17-meilleures-extensions-gratuits-a-installer-durgence-pour-votre-woocommerce/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-4-meilleurs-logiciels-crm-marketing-en-2020",
+      "destination": "/les-4-meilleurs-logiciels-crm-marketing-en-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-5-meilleures-cameras-pour-faire-des-vlogs-marketing",
+      "destination": "/les-5-meilleures-cameras-pour-faire-des-vlogs-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-5-meilleures-sites-high-tech-pour-decouvrir-les-dernieres-tendances-technologiques",
+      "destination": "/les-5-meilleures-sites-high-tech-pour-decouvrir-les-dernieres-tendances-technologiques/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-5-tendances-du-marketing-digital-a-suivre-de-pres-en-2020",
+      "destination": "/les-5-tendances-du-marketing-digital-a-suivre-de-pres-en-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-6-meilleurs-articles-sur-le-marketing-digital-a-ne-pas-rater",
+      "destination": "/les-6-meilleurs-articles-sur-le-marketing-digital-a-ne-pas-rater/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-6-outils-indispensables-pour-le-marketing-daffiliation",
+      "destination": "/les-6-outils-indispensables-pour-le-marketing-daffiliation/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-7-meilleures-formations-en-ligne-et-gratuites-en-digital-marketing",
+      "destination": "/les-7-meilleures-formations-en-ligne-et-gratuites-en-digital-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-astuces-qui-marchent-pour-avoir-plus-dabonnes-sur-linkedin",
+      "destination": "/les-astuces-qui-marchent-pour-avoir-plus-dabonnes-sur-linkedin/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-entrepreneurs-du-web-les-plus-riches-et-les-plus-celebres-du-monde",
+      "destination": "/les-entrepreneurs-du-web-les-plus-riches-et-les-plus-celebres-du-monde/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-hashtags-les-plus-populaires-en-marketing-business-en-ligne",
+      "destination": "/les-hashtags-les-plus-populaires-en-marketing-business-en-ligne/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-meilleurs-plugins-gratuits-pour-loptimisation-de-votre-referencement",
+      "destination": "/les-meilleurs-plugins-gratuits-pour-loptimisation-de-votre-referencement/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-nouveautes-de-lapple-en-iphone-11-et-iphone-11-pro",
+      "destination": "/les-nouveautes-de-lapple-en-iphone-11-et-iphone-11-pro/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-revenus-publicitaires-de-facebook-ont-atteint-les-20-8-milliards",
+      "destination": "/les-revenus-publicitaires-de-facebook-ont-atteint-les-20-8-milliards/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-les-top-5-meilleurs-outils-danalyse-dinstagram-gratuits",
+      "destination": "/les-top-5-meilleurs-outils-danalyse-dinstagram-gratuits/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-lintelligence-artificielle-ia-definition-avantages-inconvenients",
+      "destination": "/lintelligence-artificielle-ia-definition-avantages-inconvenients/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-liste-des-top-20-milliardaires-du-monde-en-2021",
+      "destination": "/liste-des-top-20-milliardaires-du-monde-en-2021/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-maddyplay-une-plateforme-video-pour-les-professionnels",
+      "destination": "/maddyplay-une-plateforme-video-pour-les-professionnels/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-marketing-de-contenu-les-5-grandes-tendances-a-suivre-en-2020",
+      "destination": "/marketing-de-contenu-les-5-grandes-tendances-a-suivre-en-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-marketing-digital-les-6-meilleurs-livres-que-tous-marketeurs-devraient-avoir-lus",
+      "destination": "/marketing-digital-les-6-meilleurs-livres-que-tous-marketeurs-devraient-avoir-lus/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-nouveautes-concernant-les-dernieres-mises-a-jour-youtube-analytics",
+      "destination": "/nouveautes-concernant-les-dernieres-mises-a-jour-youtube-analytics/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-petit-tour-des-15-meilleurs-produits-et-services-en-ligne-de-google",
+      "destination": "/petit-tour-des-15-meilleurs-produits-et-services-en-ligne-de-google/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-pinterest-ajoute-un-nouvel-onglet-shopping-pour-faciliter-les-achats",
+      "destination": "/pinterest-ajoute-un-nouvel-onglet-shopping-pour-faciliter-les-achats/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-pourquoi-facebook-instagram-et-whatsapp-sont-tombes-en-panne",
+      "destination": "/pourquoi-facebook-instagram-et-whatsapp-sont-tombes-en-panne/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-quelle-est-la-difference-entre-le-texte-alternatif-de-limage-le-texte-du-titre-et-les-noms-de-fichier",
+      "destination": "/quelle-est-la-difference-entre-le-texte-alternatif-de-limage-le-texte-du-titre-et-les-noms-de-fichier/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-quelques-astuces-a-connaitre-pour-securiser-votre-compte-instagram",
+      "destination": "/quelques-astuces-a-connaitre-pour-securiser-votre-compte-instagram/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-quels-sont-les-20-meilleurs-sites-pour-obtenir-des-backlinks-gratuits",
+      "destination": "/quels-sont-les-20-meilleurs-sites-pour-obtenir-des-backlinks-gratuits/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-quest-ce-que-le-marketing-digital-utilite-points-cles-avantages",
+      "destination": "/quest-ce-que-le-marketing-digital-utilite-points-cles-avantages/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-seo-backlinks-comment-supprimer-les-mauvais-backlinks-qui-impactent-votre-site-web",
+      "destination": "/seo-backlinks-comment-supprimer-les-mauvais-backlinks-qui-impactent-votre-site-web/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-themes-wordpress-arabe-les-10-meilleurs-themes-rtl-gratuits",
+      "destination": "/themes-wordpress-arabe-les-10-meilleurs-themes-rtl-gratuits/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-tiktok-ajoute-loption-detude-dimpact-sur-les-marques-pour-les-annonceurs",
+      "destination": "/tiktok-ajoute-loption-detude-dimpact-sur-les-marques-pour-les-annonceurs/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-tiktok-et-ses-programmes-deducation-en-inde",
+      "destination": "/tiktok-et-ses-programmes-deducation-en-inde/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-tiktok-lance-une-campagne-de-recrutement-en-australie",
+      "destination": "/tiktok-lance-une-campagne-de-recrutement-en-australie/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-top-10-des-meilleurs-sites-dimmobilier-en-france-achat-vente-et-annonces",
+      "destination": "/top-10-des-meilleurs-sites-dimmobilier-en-france-achat-vente-et-annonces/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-top-10-des-meilleurs-sites-du-contenus-viraux-buzz-et-videos-virales",
+      "destination": "/top-10-des-meilleurs-sites-du-contenus-viraux-buzz-et-videos-virales/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-top-10-des-pdg-des-plus-grandes-entreprises-digitales-au-monde-en-2020",
+      "destination": "/top-10-des-pdg-des-plus-grandes-entreprises-digitales-au-monde-en-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-top-10-influenceurs-les-mieux-payes-au-monde-pour-chaque-post-publie",
+      "destination": "/top-10-influenceurs-les-mieux-payes-au-monde-pour-chaque-post-publie/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-top-20-des-sites-web-en-france-les-mieux-classes-et-les-plus-populaires",
+      "destination": "/top-20-des-sites-web-en-france-les-mieux-classes-et-les-plus-populaires/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-top-5-des-sites-de-photos-en-ligne-de-qualite-gratuites-et-libres-de-droits",
+      "destination": "/top-5-des-sites-de-photos-en-ligne-de-qualite-gratuites-et-libres-de-droits/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-top-5-des-sites-pour-gagner-de-largent-autant-que-graphistes-et-designers",
+      "destination": "/top-5-des-sites-pour-gagner-de-largent-autant-que-graphistes-et-designers/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-top-8-des-meilleurs-plateformes-pour-creer-votre-application-mobile",
+      "destination": "/top-8-des-meilleurs-plateformes-pour-creer-votre-application-mobile/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-top-8-entrepreneurs-qui-ont-fait-fortune-grace-a-la-technologie-numerique",
+      "destination": "/top-8-entrepreneurs-qui-ont-fait-fortune-grace-a-la-technologie-numerique/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-top-des-12-meilleures-ecoles-du-webmarketing-en-france",
+      "destination": "/top-des-12-meilleures-ecoles-du-webmarketing-en-france/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-trouver-sa-formation-en-ligne-le-programme-e-learning-n1-en-france",
+      "destination": "/trouver-sa-formation-en-ligne-le-programme-e-learning-n1-en-france/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-twitter-ajoute-le-bouton-sabonner-pour-inciter-les-inscriptions-a-la-newsletter",
+      "destination": "/twitter-ajoute-le-bouton-sabonner-pour-inciter-les-inscriptions-a-la-newsletter/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-twitter-le-guide-pratique-de-a-a-z-destine-aux-professionnels",
+      "destination": "/twitter-le-guide-pratique-de-a-a-z-destine-aux-professionnels/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-uber-3500-employes-apprennent-leur-licenciement-par-visio-conference",
+      "destination": "/uber-3500-employes-apprennent-leur-licenciement-par-visio-conference/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-vimeo-sest-associe-a-tiktok-marketing-partners",
+      "destination": "/vimeo-sest-associe-a-tiktok-marketing-partners/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-voici-les-5-milliardaires-francais-du-top-500-de-bloomberg-billionaires",
+      "destination": "/voici-les-5-milliardaires-francais-du-top-500-de-bloomberg-billionaires/",
+      "permanent": true
+    },
+    {
+      "source": "/▷-youtube-vient-dannoncer-une-nouvelle-option-pour-les-commentaires",
+      "destination": "/youtube-vient-dannoncer-une-nouvelle-option-pour-les-commentaires/",
+      "permanent": true
+    },
+    {
+      "source": "/▷les-5-meilleurs-pc-portables-proffesionels-pour-les-graphistes-designers",
+      "destination": "/les-5-meilleurs-pc-portables-proffesionels-pour-les-graphistes-designers/",
+      "permanent": true
+    },
+    {
+      "source": "/▷une-mise-a-jour-woocommerce-affecte-des-millions-de-sites",
+      "destination": "/une-mise-a-jour-woocommerce-affecte-des-millions-de-sites/",
+      "permanent": true
+    },
+    {
+      "source": "/▸-astuces-pour-generer-du-trafic-et-faire-connaitre-votre-site-web",
+      "destination": "/astuces-pour-generer-du-trafic-et-faire-connaitre-votre-site-web/",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/images/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/_astro/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        }
+      ]
+    }
+  ]
+}

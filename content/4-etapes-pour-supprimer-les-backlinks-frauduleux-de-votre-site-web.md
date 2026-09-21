@@ -1,24 +1,29 @@
 ---
 title: "Comment supprimer les backlinks frauduleux de votre site web"
 permalink: "/4-etapes-pour-supprimer-les-backlinks-frauduleux-de-votre-site-web/"
-date: "2022-02-15T07:00:00+00:00"
+legacy_permalinks: []
+type: "post"
+date: "2022-02-15T08:00:00+00:00"
+modified: ""
 author: "Sébastian Magni @ Responsable du contenu"
-categories: ["Actualité Web","Crypto-monnaies","Le Journal E-marketing","Meilleur du Web"]
-description: "Les propriétaires de sites web et les professionnels du référencement se donnent beaucoup de mal pour que leurs sites soient classés sur la première page d"
+categories: ["SEO"]
+tags: ["BACKLINKS","backlinks spammy","liens retours","référencement","SEO","supprimer les backlinks","supprimer les liens retours"]
+description: "4 étapes pour supprimer les backlinks frauduleux de votre site web - Bien que je pense que Google fait tout ce qui est en son pouvoir"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2022/02/bc.jpeg"
+source_url: "https://leconceptmarketing.com/4-etapes-pour-supprimer-les-backlinks-frauduleux-de-votre-site-web/"
 source_capture: "20220309084954"
 ---
 Les propriétaires de sites web et les professionnels du référencement se donnent beaucoup de mal pour que leurs sites soient classés sur la première page de Google et d’autres moteurs de recherche.
 
 Mais malheureusement, des concurrents peu scrupuleux ne se privent pas de lancer des attaques de référencement négatif contre les sites Web les mieux classés. Ces attaques ne sont plus aussi dangereuses qu’avant, mais si elles sont menées correctement, elles peuvent toujours avoir des conséquences négatives – et durables – sur le classement organique d’un site.
 
-![Comment supprimer les backlinks frauduleux de votre site web](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTAiIGhlaWdodD0iNzkiIHZpZXdCb3g9IjAgMCAxNTAgNzkiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)
+![Comment supprimer les backlinks frauduleux de votre site web](https://avatars.mds.yandex.net/i?id=f31e50e876c2ca32093128d3476873f9-4611905-images-thumbs&n=13&exp=1)
 
 [Le référencement](https://leconceptmarketing.com/quest-ce-que-le-referencement-le-guide-complet-du-seo/) négatif peut prendre plusieurs formes, mais il s’agit généralement d’une combinaison des tactiques suivantes :
 
--   Construction de backlinks spammy vers votre domaine
--   Suppression de vos [backlinks](https://leconceptmarketing.com/faut-il-acheter-des-backlinks-en-2022/) de qualité
--   Piratage du site Web
+- Construction de backlinks spammy vers votre domaine
+- Suppression de vos [backlinks](https://leconceptmarketing.com/faut-il-acheter-des-backlinks-en-2022/) de qualité
+- Piratage du site Web
 
 La construction de backlinks spammy (également appelés “mauvais” ou “toxiques” liens) vers un site web est la méthode la plus courante utilisée pour tenter de détrôner les sites les plus performants.
 
@@ -28,20 +33,18 @@ Néanmoins, il n’est pas inutile de nettoyer de temps en temps votre profil de
 
 Le processus de suppression des mauvais backlinks est relativement simple, même s’il prend du temps :
 
--   Comprendre ce qui rend un lien retour “toxique”.
--   Utilisez un outil pour identifier tous les mauvais liens pointant vers votre site Web.
--   Contactez le webmaster et demandez la suppression
--   Créez et envoyez un fichier de désaveu à Google pour ignorer ces liens.
+- Comprendre ce qui rend un lien retour “toxique”.
+- Utilisez un outil pour identifier tous les mauvais liens pointant vers votre site Web.
+- Contactez le webmaster et demandez la suppression
+- Créez et envoyez un fichier de désaveu à Google pour ignorer ces liens.
 
 **👉🏼 Lecture complémentaire : [Quelle plateforme de netlinking pour acheter des liens en 2022 ?](https://leconceptmarketing.com/quelle-plateforme-de-netlinking-pour-acheter-des-liens-en-2022/)**
 
-Table Des Matières
-
--   [1 1.Types de spam de liens que vous devez éviter](#1Types_de_spam_de_liens_que_vous_devez_eviter)
--   [2 2.Trouvez d’où viennent ces liens toxiques](#2Trouvez_d8217ou_viennent_ces_liens_toxiques)
--   [3 3.Demander le retrait du site Web](#3Demander_le_retrait_du_site_Web)
--   [4 4. Créer et soumettre un fichier de désaveu à Google](#4_Creer_et_soumettre_un_fichier_de_desaveu_a_Google)
--   [5 Backlinks spammy – toujours une menace en 2022](#Backlinks_spammy_8211_toujours_une_menace_en_2022)
+- 1 1.Types de spam de liens que vous devez éviter
+- 2 2.Trouvez d’où viennent ces liens toxiques
+- 3 3.Demander le retrait du site Web
+- 4 4. Créer et soumettre un fichier de désaveu à Google
+- 5 Backlinks spammy – toujours une menace en 2022
 
 ## 1.Types de spam de liens que vous devez éviter
 
@@ -49,14 +52,13 @@ Pratiquement tous les liens qui ne sont pas pertinents pour votre site Web entre
 
 Cela dit, il existe certains types de liens retour que vous ne voulez absolument pas relier à votre site Web :
 
--   Les liens provenant de domaines pénalisés
--   Liens provenant de répertoires de liens et de fermes de liens
--   Liens provenant de “mauvais quartiers” (pornographie, pharmacie, jeux d’argent en ligne)
--   Liens provenant de sites en langue étrangère
--   un grand nombre de liens provenant de sites Web sans rapport avec le vôtre
--   un grand nombre de liens de texte d’ancrage à correspondance exacte
+- Les liens provenant de domaines pénalisés
+- Liens provenant de répertoires de liens et de fermes de liens
+- Liens provenant de “mauvais quartiers” (pornographie, pharmacie, jeux d’argent en ligne)
+- Liens provenant de sites en langue étrangère
+- un grand nombre de liens provenant de sites Web sans rapport avec le vôtre
+- un grand nombre de liens de texte d’ancrage à correspondance exacte
 
-  
 Le danger des liens provenant de domaines pénalisés et de sites Web proposant du Viagra de contrefaçon est évident – ils sont un poison, et équivalent à la construction d’une maison juste à côté d’un dépotoir. Heureusement, Google sait qu’aucune personne cherchant à être bien classée ne construirait ces liens délibérément, et les ignore donc complètement.
 
 Les liens de texte d’ancrage à correspondance exacte et les liens provenant de sites étrangers sont une autre histoire. Du point de vue de Google, vous pourriez facilement les créer vous-même pour manipuler les classements. Cela pourrait déclencher une pénalité algorithmique ou une action manuelle, c’est pourquoi il est toujours bon d’essayer de s’en débarrasser dès qu’ils apparaissent.
@@ -77,7 +79,7 @@ Un fichier CSV téléchargeable vous permettra de trier et d’ordonner les donn
 
 Cela dit, les chances d’obtenir la suppression d’un lien retour de mauvaise qualité en demandant gentiment au webmaster fautif sont proches de zéro. Il s’agit toutefois d’une étape que Google vous demande de franchir avant de leur demander d’ignorer le lien, et vous devriez donc au moins essayer.
 
-Dans près de 90 % des cas, vous ne pourrez pas trouver les coordonnées de la personne qui a accès à ce site Web. La plupart d’entre eux n’ont même pas de page de contact générique permettant d’envoyer un courriel. Si c’est le cas, utilisez [**WHOIS Domain Lookup**](https://www.whois.com/whois) pour essayer de retrouver le propriétaire.
+Dans près de 90 % des cas, vous ne pourrez pas trouver les coordonnées de la personne qui a accès à ce site Web. La plupart d’entre eux n’ont même pas de page de contact générique permettant d’envoyer un courriel. Si c’est le cas, utilisez [**WHOIS Domain Lookup** ](https://www.whois.com/whois)pour essayer de retrouver le propriétaire.
 
 ![3 Ways to Find Out Who Registered a Domain - wikiHow](https://www.wikihow.com/images/thumb/f/f7/Find-Out-Who-Registered-a-Domain-Step-3-Version-3.jpg/v4-460px-Find-Out-Who-Registered-a-Domain-Step-3-Version-3.jpg.webp)
 
@@ -87,7 +89,7 @@ Si vous trouvez une adresse électronique utilisable, mais que vous n’avez pas
 
 Pour savoir quelle société héberge un site Web, utilisez [WhoIsHostingThis](https://digital.com/best-web-hosting/who-is/).
 
-## 4\. Créer et soumettre un fichier de désaveu à Google
+## 4. Créer et soumettre un fichier de désaveu à Google
 
 En fin de compte, il est fort probable que vous deviez vous tourner vers l’outil de désaveu de Google pour résoudre votre problème de spam de liens. Vous pouvez écouter Matt Cutts expliquer ce qu’il est et comment il fonctionne ici.
 
@@ -106,7 +108,3 @@ Bien que je pense que Google fait tout ce qui est en son pouvoir pour limiter l�
 C’est un travail assez petit lorsqu’il est fait régulièrement, et il pourrait vous éviter de gros maux de tête futurs.
 
 **À Lire Aussi :**
-
-![](https://leconceptmarketing.com/wp-content/uploads/2021/10/seb.jpg)
-
-**Sébastian Magni** est un Spécialiste du SEO et Inbound Marketing chez @[LCM](https://leconceptmarketing.com/)

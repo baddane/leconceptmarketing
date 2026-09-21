@@ -1,11 +1,16 @@
 ---
 title: "Attention aux faux PDF : une nouvelle arnaque redoutable à ne pas ouvrir"
 permalink: "/attention-aux-faux-pdf-une-nouvelle-arnaque-redoutable-a-ne-pas-ouvrir/"
+legacy_permalinks: []
+type: "post"
 date: "2025-07-04T14:00:00+00:00"
+modified: ""
 author: "Sébastian Magni @ Responsable du contenu"
-categories: ["Digital Marketing","Le Journal E-marketing","SEO","Réseaux Sociaux"]
-description: "Les arnaques par PDF piégés se généralisent. Découvrez comment ces documents frauduleux imitent les marques pour vous piéger par téléphone, et les réflexes à adopter pour s’en protéger."
+categories: ["High Tech"]
+tags: ["faux PDF","Les cybercriminels","SCAM"]
+description: "Les arnaques par PDF piégés se généralisent. Découvrez comment ces documents frauduleux imitent les marques pour vous piéger par téléphone, et les réflexes à adopter pour s’en protéger"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2025/07/hamada.webp"
+source_url: "https://leconceptmarketing.com/attention-aux-faux-pdf-une-nouvelle-arnaque-redoutable-a-ne-pas-ouvrir/"
 source_capture: "20250706181425"
 ---
 ## Une nouvelle forme de fraude en plein essor
@@ -16,21 +21,21 @@ Oubliez les anciens courriels de faux héritages ou les fautes d’orthographe g
 
 Les escrocs envoient un e-mail contenant un fichier PDF, présenté comme une facture, un reçu de paiement ou une notification urgente. Ce fichier contient souvent :
 
--   Le logo d’une entreprise connue (Microsoft, Adobe, banques, etc.)
--   Une facture ou un avis de prélèvement fictif
--   Un **numéro de téléphone à appeler immédiatement**
+- Le logo d’une entreprise connue (Microsoft, Adobe, banques, etc.)
+- Une facture ou un avis de prélèvement fictif
+- Un **numéro de téléphone à appeler immédiatement**
 
 Le but est clair : **vous faire paniquer et appeler sans vérifier**. De l’autre côté du fil, un faux conseiller tente ensuite de vous soutirer des informations personnelles ou bancaires.
 
 ## Des documents de plus en plus crédibles
 
-Selon un rapport de Cisco Talos Intelligence, les cybercriminels créent aujourd’hui des PDF bien rédigés, sans fautes, avec des visuels professionnels. Ils vont jusqu’à nommer le fichier de façon crédible (ex. : _Receipt\_Microsoft\_2025.pdf_). Cette montée en qualité rend l’arnaque **beaucoup plus difficile à identifier au premier coup d’œil**.
+Selon un rapport de Cisco Talos Intelligence, les cybercriminels créent aujourd’hui des PDF bien rédigés, sans fautes, avec des visuels professionnels. Ils vont jusqu’à nommer le fichier de façon crédible (ex. : *Receipt\_Microsoft\_2025.pdf*). Cette montée en qualité rend l’arnaque **beaucoup plus difficile à identifier au premier coup d’œil**.
 
 ## Pourquoi ces arnaques sont dangereuses
 
--   **Elles ciblent vos émotions** : peur d’un prélèvement injustifié ou d’une action légale.
--   **Elles paraissent authentiques** : logos, mise en page et contenus bien conçus.
--   **Elles vous piègent par téléphone** : le piège se referme dès que vous appelez le faux numéro.
+- **Elles ciblent vos émotions** : peur d’un prélèvement injustifié ou d’une action légale.
+- **Elles paraissent authentiques** : logos, mise en page et contenus bien conçus.
+- **Elles vous piègent par téléphone** : le piège se referme dès que vous appelez le faux numéro.
 
 ## Les bons réflexes pour se protéger
 
@@ -53,7 +58,3 @@ Les escrocs misent sur votre stress et votre précipitation. Prenez le temps de 
 ## Conclusion : méfiance et vigilance sont vos meilleurs outils
 
 Les arnaques par PDF représentent une **évolution redoutable du [phishing](https://www.cnil.fr/fr/cnil-direct/question/le-phishing-cest-quoi)**. Elles jouent sur la crédibilité visuelle et la peur de l’utilisateur. En adoptant une posture de **vigilance systématique** et en prenant le temps de vérifier les informations, vous réduisez considérablement vos risques d’exposition à ce type de menace.
-
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
-
-**Sébastian Magni** est un Spécialiste du SEO et Inbound Marketing chez @[LCM](https://leconceptmarketing.com/)

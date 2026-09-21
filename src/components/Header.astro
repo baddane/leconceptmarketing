@@ -1,0 +1,37 @@
+---
+import { SITE } from "../lib/site";
+
+const { pathname } = Astro.url;
+const links = [
+  { href: "/", label: "Accueil" },
+  { href: "/categories/", label: "Catégories" },
+  { href: "/archives/", label: "Archives" },
+  { href: "/recherche/", label: "Recherche" },
+  { href: "/a-propos/", label: "À propos" },
+];
+---
+
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    <a class="brand" href="/">
+      Le Concept Marketing<span class="brand__dot">.</span>
+      <span class="brand__tag">{SITE.tagline}</span>
+    </a>
+    <nav class="nav" aria-label="Navigation principale">
+      {links.map((l) => (
+        <a href={l.href} aria-current={pathname === l.href ? "page" : undefined}>{l.label}</a>
+      ))}
+      <button class="theme-toggle" type="button" data-theme-toggle aria-label="Changer de thème">◐</button>
+    </nav>
+  </div>
+</header>
+
+<script is:inline>
+  document.querySelector("[data-theme-toggle]")?.addEventListener("click", () => {
+    const root = document.documentElement;
+    const dark = getComputedStyle(root).colorScheme === "dark";
+    const next = dark ? "light" : "dark";
+    root.dataset.theme = next;
+    try { localStorage.setItem("theme", next); } catch {}
+  });
+</script>

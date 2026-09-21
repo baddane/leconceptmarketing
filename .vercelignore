@@ -1,0 +1,7 @@
+# Captures HTML brutes: source de verite du contenu, inutile au build.
+dump/
+tools/
+manifest.csv
+errors.log
+download_wayback.py
+run_download.bat

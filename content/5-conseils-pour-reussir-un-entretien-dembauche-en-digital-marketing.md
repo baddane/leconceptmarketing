@@ -1,11 +1,16 @@
 ---
-title: "5 conseils pour réussir un entretien d'embauche en digital marketing"
+title: "5 conseils pour réussir un entretien d’embauche en digital marketing"
 permalink: "/5-conseils-pour-reussir-un-entretien-dembauche-en-digital-marketing/"
-date: "2021-11-03T14:59:46+00:00"
-author: "Sylvere Gelien Responsable Webmarketing & Acquisitions // Marchés : France, Uk, USA, CA"
-categories: ["Actualité Web","Crypto-monnaies","Le Journal E-marketing","Meilleur du Web"]
-description: "Tout le monde connaît les principes de base de la préparation d'un entretien d'embauche : choisir une tenue propre et adaptée au niveau du poste, ne pas mett"
+legacy_permalinks: []
+type: "post"
+date: "2021-11-03T15:59:46+00:00"
+modified: ""
+author: "Sébastian Magni @ Responsable du contenu"
+categories: ["Meilleur du Web"]
+tags: ["conseils digital marketing entretien","entretien d'embauche","entretien de recrutement","entretien de recrutement digital marketing","entretien de stage digital marketing","entretien en visio digital","entretien marketing digital","marketing numérique","preparer entretien embauche","réussir un entretien","société digital marketing"]
+description: "Tout le monde connaît les principes de base de la préparation d'un entretien d'embauche : choisir une tenue propre et adaptée au niveau"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2021/11/entre.jpg"
+source_url: "https://leconceptmarketing.com/5-conseils-pour-reussir-un-entretien-dembauche-en-digital-marketing/"
 source_capture: "20211204011929"
 ---
 Tout le monde connaît les principes de base de la préparation d’un entretien d’embauche : choisir une tenue propre et adaptée au niveau du poste, ne pas mettre trop de parfum ou d’eau de Cologne et faire des recherches approfondies sur l’entreprise au préalable.
@@ -16,13 +21,11 @@ Nous avons récemment participés à des entretiens pour des postes de marketing
 
 Néanmoins, les erreurs commises par les candidats étaient suffisamment courantes pour que nous pensons pouvoir donner quelques conseils à quiconque souhaite se préparer à un entretien de marketing digital.
 
-Table Des Matières
-
--   [1 N’hésitez pas à critiquer le site web et les réseaux sociaux de l’entreprise.](#N8217hesitez_pas_a_critiquer_le_site_web_et_les_reseaux_sociaux_de_l8217entreprise)
--   [2 Avoir une présence en ligne](#Avoir_une_presence_en_ligne)
--   [3 C’est normal de ne pas tout savoir sur le digital](#C8217est_normal_de_ne_pas_tout_savoir_sur_le_digital)
--   [4 Limitez au maximum le jargon et les mots de tendance](#Limitez_au_maximum_le_jargon_et_les_mots_de_tendance)
--   [5 Soyez à l’aise avec l’analytique](#Soyez_a_l8217aise_avec_l8217analytique)
+- 1 N’hésitez pas à critiquer le site web et les réseaux sociaux de l’entreprise.
+- 2 Avoir une présence en ligne
+- 3 C’est normal de ne pas tout savoir sur le digital
+- 4 Limitez au maximum le jargon et les mots de tendance
+- 5 Soyez à l’aise avec l’analytique
 
 ## N’hésitez pas à critiquer le site web et les réseaux sociaux de l’entreprise.
 
@@ -71,7 +74,3 @@ Si vous n’avez pas eu l’occasion de travailler avec des outils d’analyse d
 **Vous avez des questions sur la préparation à un poste de marketing numérique ? N’hésitez pas à les poser dans les commentaires ci-dessous !**
 
 **À lire Aussi :**
-
-![](https://leconceptmarketing.com/wp-content/uploads/2021/10/sg.jpeg)
-
-**Sylvere Gelien** est un Consultant en Marketing Digital & Stratégie eCommerce chez @Search Engine Spot

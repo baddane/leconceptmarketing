@@ -1,27 +1,32 @@
 ---
 title: "Test de Asus ROG Ally : notre avis complet"
 permalink: "/asus-rog-ally-avis/"
+legacy_permalinks: []
+type: "post"
 date: "2023-11-08T10:49:00+00:00"
-author: "Sylvere Gelien Responsable Webmarketing & Acquisitions // Marchés : France, Uk, USA, CA"
-categories: ["Digital Marketing","Le Journal E-marketing","SEO","Réseaux Sociaux"]
-description: "Avantages :Écran 1080p 120Hz attrayantDesign élégant et construction solidePerformances régulières dans la plupart des scénarios de jeuF"
+modified: ""
+author: "Sébastian Magni @ Responsable du contenu"
+categories: ["Gaming et des jeux vidéo"]
+tags: ["Asus ROG Ally","Avis","le ROG Ally","Test de Asus ROG Ally"]
+description: "Après la Nintendo Switch et la Steam Deck de Valve, voici le ROG Ally (à partir de 599,99 $ ; 699,99 $ lors du test), la console portable à deux manettes et grand écran d'Asus"
 cover: "https://leconceptmarketing.com/wp-content/uploads/2023/10/image-41.png"
+source_url: "https://leconceptmarketing.com/asus-rog-ally-avis/"
 source_capture: "20231201110757"
 ---
 **Avantages :**
 
--   Écran 1080p 120Hz attrayant
--   Design élégant et construction solide
--   Performances régulières dans la plupart des scénarios de jeu
--   Fonctionne sous Windows 11
--   Autonomie décente en dehors des jeux
--   Le logiciel Asus change de mode et réaffecte les commandes à la volée
+- Écran 1080p 120Hz attrayant
+- Design élégant et construction solide
+- Performances régulières dans la plupart des scénarios de jeu
+- Fonctionne sous Windows 11
+- Autonomie décente en dehors des jeux
+- Le logiciel Asus change de mode et réaffecte les commandes à la volée
 
 **Inconvénients :**
 
--   De nombreux jeux requièrent des paramètres graphiques plus bas pour une performance fluide
--   Autonomie de la batterie très courte pendant les jeux
--   Certaines commandes sont difficiles à utiliser, en particulier pour naviguer dans Windows.
+- De nombreux jeux requièrent des paramètres graphiques plus bas pour une performance fluide
+- Autonomie de la batterie très courte pendant les jeux
+- Certaines commandes sont difficiles à utiliser, en particulier pour naviguer dans Windows.
 
 [![](https://leconceptmarketing.com/wp-content/uploads/2023/10/image-41-1024x530.png)](https://amzn.to/3rP6IA4)
 
@@ -37,7 +42,7 @@ Avant de nous plonger dans les spécifications et les caractéristiques, examino
 
 Mais j’aimerais au moins formuler la comparaison de cette manière : Les deux sont différents et aucun n’est objectivement meilleur que l’autre. J’ai trouvé de nombreux avantages à l’un par rapport à l’autre, mais aussi de nombreux inconvénients. Par exemple, Ally est basé sur Windows, ce qui ouvre des portes, mais limite la flexibilité ou l’accessibilité dans certains cas d’utilisation.
 
-Avant que vous ne vous insurgiez, sachez ceci : **[L’Ally](https://amzn.to/3FpxPoj)** n’est pas un “tueur de Steam Deck” immédiat, et nous n’avons pas besoin d’ouvrir un autre front dans la guerre des consoles. Mais c’est une alternative valable, en particulier sur certains marchés où Asus a une disponibilité et une popularité supérieures.
+Avant que vous ne vous insurgiez, sachez ceci : **[L’Ally ](https://amzn.to/3FpxPoj)**n’est pas un “tueur de Steam Deck” immédiat, et nous n’avons pas besoin d’ouvrir un autre front dans la guerre des consoles. Mais c’est une alternative valable, en particulier sur certains marchés où Asus a une disponibilité et une popularité supérieures.
 
 Bien entendu, j’ai comparé les deux appareils en termes de fonctionnalités et de performances, mais il faut garder à l’esprit que les options sont une chose positive.
 
@@ -55,7 +60,7 @@ Au début, les poignées paraissent peu solides, mais après quelques minutes d�
 
 Cela s’explique en partie par le poids, qui est légèrement inférieur à celui de la Steam Deck, bien qu’il soit nettement supérieur à celui de la Switch. Lors de l’événement de présentation, Asus a expliqué que l’un des objectifs de la phase de conception était un poids de 600 grammes, soit environ 1,32 livres.
 
-Le poids final de **[l’Ally](https://amzn.to/3rP6IA4)** est de 608 grammes, ce qui signifie que l’équipe s’est rapprochée de cet objectif (et s’est arrêtée là pour préserver les performances). La Steam Deck pèse environ 667 grammes, tandis que la Switch ne pèse que 399 grammes avec les Joycons.
+Le poids final de **[l’Ally ](https://amzn.to/3rP6IA4)**est de 608 grammes, ce qui signifie que l’équipe s’est rapprochée de cet objectif (et s’est arrêtée là pour préserver les performances). La Steam Deck pèse environ 667 grammes, tandis que la Switch ne pèse que 399 grammes avec les Joycons.
 
 ## Des amis familiers : Windows et les logiciels Asus s’associent :
 
@@ -88,7 +93,3 @@ Le mode bureau, quant à lui, transforme la manette de contrôle en une approxim
 Un autre logiciel d’Asus, Armoury Crate, permet d’éviter de naviguer dans Steam et dans les bibliothèques de jeux sur le bureau. Un bouton dédié à droite de l’écran permet d’ouvrir le menu Armoury Crate, qui comprend des options permettant de modifier les paramètres du système et de personnaliser la disposition et l’ordre du Command Center.
 
 → 🔥 **D’autres articles qui pourraient vous intéresser** :
-
-![](https://leconceptmarketing.com/wp-content/uploads/2021/10/sg.jpeg)
-
-**Sylvere Gelien** est un Consultant en Marketing Digital & Stratégie eCommerce chez @Search Engine Spot
