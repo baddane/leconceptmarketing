@@ -1,0 +1,227 @@
+---
+title: "Comment fonctionne ChatGPT ?"
+permalink: "/comment-fonctionne-chatgpt/"
+date: "2023-06-12T15:29:00+00:00"
+author: "Sébastian Magni @ Responsable du contenu"
+categories: ["Digital Marketing","Le Journal E-marketing","SEO","Réseaux Sociaux"]
+description: "ChatGPT est l&#039;un des nouveaux outils les plus brillants alimentés par l&#039;IA, mais les algorithmes qui travaillent en arrière-plan alimentent en fait toute une"
+cover: "https://leconceptmarketing.com/wp-content/uploads/2023/05/image-30.png"
+source_capture: "20230922182312"
+method: "regex"
+---
+Accueil  Le Journal E-marketing  Comment fonctionne ChatGPT ?
+
+- Le Journal E-marketing
+
+# Comment fonctionne ChatGPT ?
+Voici la réponse écrite par un humain sur le fonctionnement de ChatGPT.
+
+12 juin 2023110
+0
+
+Partager
+
+Facebook
+
+Twitter
+
+Pinterest
+
+WhatsApp
+
+Linkedin
+
+ReddIt
+
+Email
+
+Telegram
+
+ChatGPT est l’un des nouveaux outils les plus brillants alimentés par l’IA, mais les algorithmes qui travaillent en arrière-plan alimentent en fait toute une série d’applications et de services depuis 2020. Pour comprendre le fonctionnement de ChatGPT, nous devons donc commencer par parler du moteur linguistique sous-jacent qui l’alimente.
+Le GPT de ChatGPT est principalement le GPT-3, ou Generative Pre-trained Transformer 3, bien que le GPT-4 soit maintenant disponible pour les abonnés de ChatGPT Plus et sera probablement bientôt plus répandu. Les modèles GPT ont été développés par OpenAI (la société à l’origine de ChatGPT et du générateur d’images DALL-E 2), mais ils alimentent tout, des fonctions d’IA récemment publiées par Bing aux outils d’écriture tels que Jasper et Copy.ai.
+En fait, la plupart des générateurs de texte d’IA disponibles à l’heure actuelle utilisent le modèle GPT-3, et proposeront probablement le modèle GPT-4 dans une prochaine étape.
+ChatGPT a mis GPT-3 sous les feux de la rampe parce qu’il a rendu le processus d’interaction avec un générateur de texte IA simple et, surtout, gratuit pour tout le monde. De plus, il s’agit d’un chatbot, et les gens aiment les bons chatbots depuis SmarterChild.
+Si GPT-3 et GPT-4 sont actuellement les modèles de langage les plus populaires, la concurrence risque de s’intensifier au cours des prochaines années. Google, par exemple, vient de dévoiler Bard, son chatbot d’IA, qui est alimenté par son propre moteur de langage appelé Modèle de langage pour les applications de dialogue (LaMDA). Mais pour l’instant, l’offre d’OpenAI est la norme de facto de l’industrie. C’est tout simplement l’outil le plus facile à utiliser.
+👉🏼  Lecture complémentaire : L’intelligence artificielle peut-elle changer la façon dont nous négocions avec les crypto-monnaies ?
+La réponse à la question &#8220;comment fonctionne ChatGPT ?&#8221; est donc essentiellement la suivante : GPT-3 et GPT-4. Mais creusons un peu plus loin.
+
+## Qu’est-ce que ChatGPT ?
+ChatGPT est une application développée par OpenAI. En utilisant les modèles de langage GPT, elle peut répondre à vos questions, écrire des textes, rédiger des courriels, tenir une conversation, expliquer le code dans différents langages de programmation, traduire le langage naturel en code, et plus encore &#8211; ou du moins essayer de le faire &#8211; tout cela en se basant sur les messages en langage naturel que vous lui donnez. C’est un chatbot, mais un chatbot vraiment, vraiment bon.
+
+Bien qu’il soit intéressant de jouer avec ce système si, par exemple, vous voulez écrire un sonnet de Shakespeare sur votre animal de compagnie ou obtenir quelques idées de lignes d’objet pour des courriels de marketing, c’est également bon pour OpenAI. C’est un moyen d’obtenir beaucoup de données de la part d’utilisateurs réels et de servir de démo pour la puissance de GPT, qui pourrait autrement sembler un peu floue à moins que vous ne soyez profondément dans l’apprentissage de la machine.
+Pour l’instant, ChatGPT propose deux modèles GPT. Le modèle par défaut, GPT-3.5, est moins puissant mais accessible à tous gratuitement. Le modèle GPT-4, plus avancé, est réservé aux abonnés de ChatGPT Plus, et même eux ne reçoivent qu’un nombre limité de questions chaque jour.
+👉🏼 Lecture complémentaire :  ▷ Le classement Top 10 des meilleurs sites e-commerce les plus populaires dans le monde
+
+L’une des principales caractéristiques de ChatGPT est qu’il peut se souvenir de la conversation que vous avez avec lui. Cela signifie qu’il peut glaner du contexte à partir de ce que vous lui avez demandé précédemment et l’utiliser pour informer sa conversation avec vous. Vous pouvez également lui demander de retravailler ou de corriger un texte, et elle se référera à ce dont vous avez discuté auparavant. L’interaction avec l’IA ressemble ainsi à un véritable va-et-vient.
+Si vous voulez vraiment vous faire une idée, passez cinq minutes à jouer avec ChatGPT (c’est gratuit !), puis revenez lire son mode de fonctionnement.
+
+## Comment fonctionne ChatGPT ?
+Cet énorme ensemble de données a été utilisé pour former un réseau neuronal d’apprentissage profond […] modelé sur le cerveau humain, ce qui a permis à ChatGPT d’apprendre des modèles et des relations dans les données textuelles […] prédisant quel texte devrait suivre dans n’importe quelle phrase donnée.
+ChatGPT tente de comprendre votre demande et émet ensuite des chaînes de mots qui, selon lui, répondront le mieux à votre question, sur la base des données sur lesquelles il a été formé.
+Parlons un peu de cette formation. Il s’agit d’un processus au cours duquel l’IA naissante reçoit des règles de base, puis est mise en situation ou reçoit un grand nombre de données à traiter afin de développer ses propres algorithmes.
+Le GPT-3 a été entraîné sur environ 500 milliards de &#8220;tokens&#8221;, qui permettent à ses modèles de langage d’attribuer plus facilement un sens et de prédire un texte ultérieur plausible.
+De nombreux mots correspondent à un seul jeton, mais les mots plus longs ou plus complexes se décomposent souvent en plusieurs jetons. En moyenne, les tokens ont une longueur d’environ quatre caractères. OpenAI est restée discrète sur le fonctionnement interne de GPT-4, mais nous pouvons supposer qu’il a été entraîné sur le même ensemble de données, puisqu’il est encore plus puissant.
+👉🏼  Lecture complémentaire : Découvrez Midjourney AI Art : Combiner la puissance de l’IA et la créativité d’un artiste
+Tous les jetons proviennent d’un corpus massif de données écrites par des humains. Il s’agit de livres, d’articles et d’autres documents portant sur des sujets, des styles et des genres différents, ainsi que d’une quantité incroyable de contenu récupéré sur l’internet. En gros, il a été autorisé à parcourir la somme totale des connaissances humaines.
+Cet énorme ensemble de données a été utilisé pour former un réseau neuronal d’apprentissage profond &#8211; un algorithme complexe, à plusieurs niveaux et pondéré, modelé sur le cerveau humain &#8211; qui a permis à ChatGPT d’apprendre des modèles et des relations dans les données textuelles et d’exploiter la capacité de créer des réponses semblables à celles des humains en prédisant quel texte devrait suivre dans n’importe quelle phrase donnée.
+Mais en réalité, cela sous-estime grandement les choses. ChatGPT ne travaille pas au niveau de la phrase &#8211; il génère plutôt un texte de mots, de phrases et même de paragraphes ou de strophes qui pourraient suivre. Ce n’est pas le texte prédictif de votre téléphone qui devine le mot suivant, c’est une tentative de créer des réponses cohérentes à n’importe quelle question.
+👉🏼 Lecture complémentaire :  Qwant Junior : Un moteur de recherche 100% pour les enfants
+
+Afin d’améliorer encore la capacité de ChatGPT à répondre à une variété d’invites, il a été optimisé pour le dialogue à l’aide d’une technique appelée apprentissage par renforcement avec retour d’information humain (RLHF). Essentiellement, les humains ont créé un modèle de récompense avec des données de comparaison (où deux ou plusieurs réponses de modèles ont été classées par les formateurs de l’IA), afin que l’IA puisse apprendre quelle était la meilleure réponse.
+Revenons au réseau neuronal qu’il a formé. Grâce à tout cet entraînement, le réseau neuronal de GPT-3 dispose de 175 milliards de paramètres ou variables qui lui permettent de prendre une entrée &#8211; votre requête &#8211; puis, en fonction des valeurs et des pondérations qu’il attribue aux différents paramètres (et d’une petite part d’aléatoire), de produire ce qu’il pense correspondre le mieux à votre demande.
+OpenAI n’a pas précisé le nombre de paramètres de GPT-4, mais on peut supposer qu’il est supérieur à 175 milliards et inférieur aux 100 billions de paramètres évoqués précédemment. Quel que soit le nombre exact, plus de paramètres n’est pas automatiquement synonyme de meilleure qualité.
+L’augmentation de la puissance du GPT-4 est probablement due en partie au fait qu’il possède plus de paramètres que le GPT-3, mais une grande partie est probablement due aux améliorations apportées à la façon dont il a été entraîné.
+
+## Cracher des mots, pas des connaissances :
+Les concepteurs de ChatGPT sont les premiers à reconnaître qu’il peut produire des informations incorrectes (voire nuisibles), bien qu’ils s’efforcent d’y remédier.
+En voici un exemple. Lorsque j’ai demandé à ChatGPT utilisant GPT-3 et GPT-4 de répondre à &#8220;Harry Guinness est…&#8221; GPT-3 a d’abord répondu en demandant quel Harry Guinness. Excellente question &#8211; nous sommes littéralement deux ! J’ai donc répondu &#8220;Harry Guinness l’écrivain&#8221; (c’est moi). GPT-4 a tout de suite deviné qui j’étais, mais les deux réponses étaient fascinantes :
+GPT-3 : Harry Guinness est un écrivain et journaliste indépendant basé en Irlande. Il a écrit pour diverses publications, dont le New York Times, le Guardian, le Huffington Post et Popular Mechanics. Il couvre des sujets allant de la technologie et de la photographie aux voyages et à la culture.
+GPT-4 : Harry Guinness est un écrivain, photographe et expert en technologie irlandais. Il a écrit pour diverses publications, dont How-To Geek, Lifehacker et Tuts+. Son travail porte principalement sur la technologie, les tutoriels et les conseils, ainsi que sur la photographie et la retouche d’images. Guinness s’est forgé une réputation en créant des guides détaillés qui aident les lecteurs à comprendre des sujets complexes ou à résoudre des problèmes de manière simple.
+La première et la dernière ligne de GPT-3 sont tirées presque mot pour mot de mes différents sites web et biographies d’auteur sur le web (bien que je me présente normalement comme un écrivain et un photographe indépendant, et non comme un journaliste). En revanche, la liste des publications est pratiquement inventée. J’ai écrit pour le New York Times, mais pas pour le Guardian, le Huffington Post ou Popular Mechanics (j’écris régulièrement pour Popular Science, ce qui pourrait expliquer cette affirmation).
+👉🏼 Lecture complémentaire :  ▷ Top 8 des meilleurs plateformes pour créer votre application mobile
+
+GPT-4 fait bien la part des choses en ce qui concerne les photographes et énumère les publications pour lesquelles j’ai écrit, ce qui est impressionnant, même si ce ne sont pas celles dont je serais le plus fier. C’est un excellent exemple de la façon dont OpenAI a pu augmenter la précision de GPT-4 par rapport à GPT-3, même s’il n’offre pas toujours la réponse la plus correcte.
+Mais revenons à GPT-3, car son erreur fournit un exemple intéressant de ce qui se passe dans les coulisses de ChatGPT. En fait, il ne sait rien de moi. Il ne fait même pas de copier/coller à partir d’Internet et ne fait pas confiance à la source de l’information. Au lieu de cela, il prédit simplement une série de mots qui viendront ensuite en se basant sur les milliards de points de données dont il dispose.
+En voici un exemple : Le New York Times est beaucoup plus souvent regroupé avec le Guardian et le Huffington Post qu’avec les sites pour lesquels j’ai écrit, comme Wired, Outside, The Irish Times et, bien sûr, Zapier. Ainsi, lorsqu’il doit déterminer ce qui doit suivre le New York Times, il ne s’appuie pas sur les informations publiées à mon sujet, mais sur toutes les données d’entraînement qu’il possède sur cette liste de grandes publications. C’est très astucieux et cela semble plausible, mais ce n’est pas vrai.
+GPT-4 fait un bien meilleur travail et mentionne les publications, mais le reste de ce qu’il dit ne ressemble qu’à des phrases plausibles. Je ne pense pas qu’il ait une grande appréciation de ma réputation : il dit simplement le genre de choses que l’on dit dans une biographie. Elle dissimule beaucoup mieux son fonctionnement que GPT-3, bien qu’elle utilise en fait à peu près la même technique.
+Néanmoins, il est très impressionnant de voir à quel point GPT s’est déjà amélioré. Pour l’instant, GPT-4 est bloqué derrière un abonnement premium, de sorte que la plupart des contenus de ChatGPT que vous verrez s’appuieront sur GPT-3, mais cela pourrait changer dans les mois à venir. Qui sait ce que GPT-5 apportera.
+À Lire Aussi  :
+- La différence entre un formulaire W-8BEN et W-8BEN-E à des fins fiscales américaines
+- 10 façons de voyager gratuitement dans le monde (ou même être payé)
+- 3 façons pour les petites entreprises d’utiliser l’IA pour stimuler la croissance
+- Le Top des grandes startups françaises en 2023 selon le gouvernement français
+- Comment créer une culture de l’apprentissage dans les Startups ?
+
+Sylvere Gelien Responsable Webmarketing & Acquisitions // Marchés : France, Uk, USA, CA
+Sylvere Gelien est un Consultant en Marketing Digital & Stratégie eCommerce chez @Search Engine Spot
+
+- TAGS
+- chatgpt
+
+Partager
+
+Facebook
+
+Twitter
+
+Pinterest
+
+WhatsApp
+
+Linkedin
+
+ReddIt
+
+Email
+
+Telegram
+
+Article précédentQui a créé le Chat GPT &#8211; et qui possède OpenAI ?
+
+Article suivantComment créer un site web pour les  commandes en ligne
+
+Sylvere Gelien Responsable Webmarketing & Acquisitions // Marchés : France, Uk, USA, CA
+
+#### ARTICLES CONNEXESDU MÊME AUTEUR
+
+### One Piece Live-Action Avis : Une lueur d’espoir pour les adaptations d’anime !
+
+### Guide Complet pour Choisir le Meilleur Casino en Ligne!
+
+### Les 5 meilleures séries coréennes à regarder sur Netflix cet automne
+
+### Explorez les jeux en ligne attirant le plus de joueurs sur les meilleures plateformes
+
+### Booking.com vs Hotels.com : Quel est le meilleur site de réservation pour votre prochain voyage ?
+
+### Comment la technologie peut-elle aider les artistes à gagner de l’argent grâce à leur public en ligne ?
+
+0
+0
+votes
+Évaluation de l'article
+
+ S’abonner
+
+ Connexion
+
+Notification pour
+
+nouveaux commentaires de suivinouvelles réponses à mes commentaires
+
+Label
+
+{}
+[+]
+
+Nom*
+
+E-mail*
+
+Site web
+
+&#916;
+
+Label
+
+{}
+[+]
+
+Nom*
+
+E-mail*
+
+Site web
+
+&#916;
+
+0 Commentaires
+
+ Commentaires en ligne
+Afficher tous les commentaires
+
+Rejoignez l'élite des experts d'internet
+
+Bénéficiez de conseils, des documents exclusifs et  des informations non divulguées...
+
+Nous respectons votre vie privée.
+
+#### Ne Manquez Pas
+
+### Comment débloquer la limitation des tentatives de connexion dans WordPress
+
+Sébastian Magni @ Responsable du contenu -                 10 avril 2023                0
+
+Vous n'arrivez pas à vous connecter à votre site web parce que vous avez atteint le nombre maximum de tentatives de connexion infructueuses ?Si...
+
+### 5 meilleurs outils WordPress de génération de code QR pour 2023
+
+17 mars 2023
+
+### 5 Plugins ChatGPT pour WordPress que vous devriez découvrir
+
+14 mars 2023
+
+### Comment débloquer Robots.txt et supprimer &#8221; noindex &#8221; sur WordPress ?
+
+2 janvier 2023
+
+### Avis du thème Avada | Le produit le plus puissant de...
+
+15 septembre 2022
+
+#### Articles récents
+-
+Réseau de blogs privés : Qu’est-ce qu’un PBN et comment en créer un ?
+-
+Comment élever des pandas dans Minecraft
+-
+La différence entre un formulaire W-8BEN et W-8BEN-E à des fins fiscales américaines
+-
+One Piece Live-Action Avis : Une lueur d’espoir pour les adaptations d’anime !
+-
+Guide Complet pour Choisir le Meilleur Casino en Ligne!
+-
+Quels sont les mots-clés et les niches restreints par la politique de Google Ads ?
+-
+Comment méga-évoluer et obtenir de la méga-énergie dans Pokémon Go ?

@@ -1,0 +1,214 @@
+---
+title: "Les diffuseurs en direct YouTube peuvent rediriger les spectateurs vers d’autres chaînes"
+permalink: "/les-diffuseurs-en-direct-youtube-peuvent-rediriger-les-spectateurs-vers-dautres-chaines/"
+date: "2022-05-09T21:31:33+00:00"
+author: "Sébastian Magni @ Responsable du contenu"
+categories: ["Actualité Web","Crypto-monnaies","Le Journal E-marketing","Meilleur du Web"]
+description: "YouTube déploie des redirections en direct sur plusieurs canaux, une nouvelle fonctionnalité qui permet aux streamers d&#039;envoyer des téléspectateurs en direc"
+cover: "https://leconceptmarketing.com/wp-content/uploads/2022/05/youtube-live-redirect-6272acbfb32ee-sej.png"
+source_capture: "20220521214619"
+method: "regex"
+---
+Accueil  Espace Réseaux Sociaux  Les diffuseurs en direct YouTube peuvent rediriger les spectateurs vers d’autres chaînes
+
+- Espace Réseaux Sociaux
+- Réseaux sociaux
+
+# Les diffuseurs en direct YouTube peuvent rediriger les spectateurs vers d’autres chaînes
+
+9 mai 202232
+0
+
+Partager
+
+Facebook
+
+Twitter
+
+Pinterest
+
+WhatsApp
+
+Linkedin
+
+ReddIt
+
+Email
+
+Telegram
+
+YouTube déploie des redirections en direct sur plusieurs canaux, une nouvelle fonctionnalité qui permet aux streamers d’envoyer des téléspectateurs en direct vers d’autres canaux.
+Les redirections en direct cross-canal sont fonctionnellement similaires aux raids Twitch, ce qui permet à un créateur d’envoyer son public vers un autre flux lorsque le sien se termine.
+Les redirections en direct sur YouTube ont une distinction importante en ce sens qu’elles offrent une protection supplémentaire aux streamers.
+Sur Twitch, les créateurs peuvent &#8220;attaquer&#8221; un autre flux sans pratiquement aucune restriction.  Cela a conduit des personnes à utiliser la fonction de raid à des fins malveillantes, telles que l’envoi d’audiences vers d’autres flux pour lancer des abus sur le créateur.
+YouTube a mis en place des protections pour éviter que cela ne se produise avec les redirections en direct sur plusieurs canaux, ce qui fait de cette fonctionnalité un ajout bienvenu à la plate-forme.
+En savoir plus sur les redirections en direct cross-canal et comment les utiliser.
+Table Des Mati&egrave;res
+- 1 Que sont les redirections en direct multicanal YouTube ?
+- 2 Comment configurer Activer les redirections en direct sur YouTube
+- 3 Comment rediriger vos spectateurs YouTube en direct
+
+## Que sont les redirections en direct multicanal YouTube ?
+Les redirections en direct vous permettent d’envoyer les téléspectateurs vers un flux en direct de votre choix dès que le vôtre se termine.
+👉🏼 Lecture complémentaire :  L'accord Twitter de Musk "temporairement suspendu"
+
+Supposons que votre ami ou collègue diffuse et que vous souhaitiez envoyer vos téléspectateurs sur sa chaîne pour les aider à se développer.  Avec les redirections en direct YouTube, vous pouvez le faire.
+Une fois votre diffusion en direct terminée, la fonction de lecture automatique de YouTube déplacera vos téléspectateurs vers la vapeur de votre choix.
+En plus d’aider l’autre streamer, les redirections en direct peuvent également aider votre public à découvrir de nouvelles chaînes et à continuer à regarder plus de contenu en direct sur YouTube.
+Disponibles pour les chaînes comptant plus de 1 000 abonnés, les redirections en direct nécessitent l’approbation d’autres créateurs avant que vous puissiez envoyer votre audience vers leur flux.
+De même, vous devrez donner votre approbation avant que d’autres chaînes puissent envoyer leur audience vers votre flux.
+Vous pouvez configurer des redirections en direct dans YouTube Studio pour les diffusions en direct programmées ou à la fin de votre diffusion dans la salle de contrôle en direct.
+
+## Comment configurer Activer les redirections en direct sur YouTube
+Activez les redirections en direct YouTube en suivant les étapes ci-dessous :
+- Se connecter à Studio YouTube
+- Aller à Réglages
+- Cliquer sur Communauté
+- En dessous de Redirections en directentrez les canaux spécifiques que vous souhaitez autoriser à rediriger vers le vôtre
+- Une fois que vous avez terminé, cliquez sur Sauver
+👉🏼 Lecture complémentaire :  ▷ le Top 5 gros influenceuses et blogueuses françaises sur Instagram 2019
+
+Au cours du processus de configuration, vous pouvez également choisir d’autoriser les redirections en direct à partir de tout chaînes auxquelles vous êtes abonné.
+Lorsque vos paramètres seront mis à jour, ces créateurs seront autorisés à rediriger leurs téléspectateurs vers l’un de vos flux en direct à venir ou en cours.
+
+## Comment rediriger vos spectateurs YouTube en direct
+Lorsque vous êtes sur le point de terminer votre diffusion, vous choisissez la chaîne vers laquelle envoyer vos téléspectateurs.
+Cela peut être configuré à partir de la salle de contrôle en direct de YouTube sur le bureau.
+Une fois dans la salle de contrôle en direct, suivez les étapes ci-dessous :
+- Cliquez sur Modifier
+- Sélectionner Personnalisation
+- En dessous de RéorienterCliquez sur Ajouter.
+- Recherchez et sélectionnez le flux vers lequel vos spectateurs seront redirigés
+À la fin de votre diffusion en direct, vous verrez une confirmation indiquant où vos téléspectateurs seront redirigés.
+Notez que si les spectateurs ont désactivé la lecture automatique, ils ne seront pas automatiquement redirigés.
+Cependant, une invite s’affichera à l’écran demandant aux téléspectateurs s’ils souhaitent être redirigés, et ils peuvent choisir de dire oui.
+Les redirections en direct seront disponibles pour tous les créateurs éligibles d’ici la fin de cette semaine.
+👉🏼 Lecture complémentaire :  Les Top 5 Meilleurs Outils d'Analyse d'Instagram Gratuits
+
+La source: Youtube
+Image en vedette : aslysun/Shutterstock
+
+Soléne Laupez Rédactrice de contenu réseaux sociaux
+Soléne Laupez Social Media Manager  chez @LCM
+
+Partager
+
+Facebook
+
+Twitter
+
+Pinterest
+
+WhatsApp
+
+Linkedin
+
+ReddIt
+
+Email
+
+Telegram
+
+Article précédentConvergence dans le métaverse
+
+Article suivantLes mineurs d’Ethereum dépassent les revenus des mineurs de Bitcoin de 224 millions de dollars
+
+#### ARTICLES CONNEXESDU MÊME AUTEUR
+
+### 10 tactiques qui fonctionnent réellement
+
+### TikTok lance une fonctionnalité de crédit de créateur
+
+### Les liens les plus consultés de Facebook dominés par le spam
+
+### TikTok lance Branded Mission, une nouvelle façon de crowdsourcer la création
+
+### Tendances actuelles du marché pour les industries des PME à la croissance la plus rapide
+
+### Le nouvel outil TikTok présente des informations utiles pour les spécialistes du marketing
+
+0
+0
+votes
+Évaluation de l'article
+
+ S’abonner
+
+ Connexion
+
+Notification pour
+
+nouveaux commentaires de suivinouvelles réponses à mes commentaires
+
+Label
+
+{}
+[+]
+
+Nom*
+
+E-mail*
+
+Site web
+
+Label
+
+{}
+[+]
+
+Nom*
+
+E-mail*
+
+Site web
+
+0 Commentaires
+
+ Commentaires en ligne
+Afficher tous les commentaires
+
+Rejoignez l'élite des experts d'internet
+
+Bénéficiez de conseils, des documents exclusifs et  des informations non divulguées...
+
+Nous respectons votre vie privée.
+
+#### Ne Manquez Pas
+
+### Comment accepter Bitcoin sur WordPress &#8211; Votre guide étape par étape
+
+Sébastian Magni @ Responsable du contenu -                 20 avril 20222
+
+Bien que le bitcoin soit imprévisible, sa valeur et son utilisation grand public n'ont cessé d'augmenter, à la grande satisfaction de ceux...
+
+### Comment Ajouter Correctement Google AdSense à votre site WordPress
+
+7 avril 2022
+
+### Comment protéger un site WordPress contre les pirates informatiques ?
+
+25 mars 2022
+
+### Qu’est-ce qu’une Landing Page et Comment Fonctionne-t-elle ?
+
+23 février 2022
+
+### Divi d’Elegant Themes &#8211; Qu’est-ce que Divi et combien coûte-t-il ?
+
+22 février 2022
+
+#### Articles récents
+-
+10 tactiques qui fonctionnent réellement
+-
+L’adresse Bitcoin transfère 2 457 BTC de Coinbase
+-
+TikTok lance une fonctionnalité de crédit de créateur
+-
+Les nouveaux NFT compensent les émissions du marché.  Le prix est de 17 millions de dollars.
+-
+Les liens les plus consultés de Facebook dominés par le spam
+-
+TikTok lance Branded Mission, une nouvelle façon de crowdsourcer la création
+-
+Comment choisir la meilleure agence de conception de site internet ?
