@@ -83,23 +83,23 @@ Nous appellerons le projet complete-blog-php. Dans le répertoire de votre serve
 </head>
 <body>
 	<!-- container - wraps whole page -->
-	<div class="container">
+	
 		<!-- navbar -->
-		<div class="navbar">
-			<div class="logo_div">
-				<a href="index.php"><h1>LifeBlog</h1></a>
+		
+			
+				<h1>LifeBlog</h1></a>
 			</div>
 			<ul>
-			  <li><a class="active" href="index.php">Home</a></li>
-			  <li><a href="#news">News</a></li>
-			  <li><a href="#contact">Contact</a></li>
-			  <li><a href="#about">About</a></li>
+			  <li>Home</a></li>
+			  <li>News</a></li>
+			  <li>Contact</a></li>
+			  <li>About</a></li>
 			</ul>
 		</div>
 		<!-- // navbar -->
 
 		<!-- Page content -->
-		<div class="content">
+		
 			<h2 class="content-title">Recent Articles</h2>
 			<hr>
 			<!-- more content still to come here ... -->
@@ -107,8 +107,8 @@ Nous appellerons le projet complete-blog-php. Dans le répertoire de votre serve
 		<!-- // Page content -->
 
 		<!-- footer -->
-		<div class="footer">
-			<p>MyViewers &copy; <?php echo date('Y'); ?></p>
+		
+			MyViewers &copy; <?php echo date('Y'); ?></p>
 		</div>
 		<!-- // footer -->
 
@@ -280,15 +280,15 @@ Notez que la ligne qui suit immédiatement cette ligne include est la balise . N
 Dans votre fichier index.php, sélectionnez et coupez le code de la barre de navigation à l’endroit indiqué par un commentaire et collez-le dans navbar.php dans le dossier includes. Voici le fichier navbar.php après collage :
 
 ```
-<div class="navbar">
-	<div class="logo_div">
-		<a href="index.php"><h1>LifeBlog</h1></a>
+
+	
+		<h1>LifeBlog</h1></a>
 	</div>
 	<ul>
-	  <li><a class="active" href="index.php">Home</a></li>
-	  <li><a href="#news">News</a></li>
-	  <li><a href="#contact">Contact</a></li>
-	  <li><a href="#about">About</a></li>
+	  <li>Home</a></li>
+	  <li>News</a></li>
+	  <li>Contact</a></li>
+	  <li>About</a></li>
 	</ul>
 </div>
 ```
@@ -304,8 +304,8 @@ Pour ce qui est du pied de page, sélectionnez et coupez le code de la balise d�
 jusqu’à la dernière ligne de la page, et collez-le dans le fichier footer.php nouvellement créé. Voici le fichier footer.php après le collage :
 
 ```
-<div class="footer">
-			<p>MyViewers &copy; <?php echo date('Y'); ?></p>
+
+			MyViewers &copy; <?php echo date('Y'); ?></p>
 		</div>
 	</div>
 	<!-- // container -->
@@ -328,12 +328,12 @@ Après cette réorganisation, notre fichier index.php ressemble à ceci :
 </head>
 <body>
 	<!-- container - wraps whole page -->
-	<div class="container">
+	
 		<!-- navbar -->
 		<?php include('includes/navbar.php') ?>
 
 		<!-- Page content -->
-		<div class="content">
+		
 			<h2 class="content-title">Recent Articles</h2>
 			<hr>
 			<!-- more content still to come here ... -->
@@ -349,18 +349,18 @@ Si vous rechargez la page, aucun changement ne sera observé.
 Ajoutons maintenant une bannière sur la page d’accueil, juste en dessous de la barre de navigation. Créez un nouveau fichier nommé banner.php dans votre dossier complete-blog-php/includes et collez-y ce code :
 
 ```
-<div class="banner">
-	<div class="welcome_msg">
+
+	
 		<h1>Today's Inspiration</h1>
 		<p>
 		    One day your life <br>
 		    will flash before your eyes. <br>
 		    Make sure it's worth watching. <br>
-			<span>~ Gerard Way</span>
+			<span>~ Gerard Way
 		</p>
-		<a href="register.php" class="btn">Join us!</a>
+		Join us!</a>
 	</div>
-	<div class="login_div">
+	
 		<form action="index.php" method="post" >
 			<h2>Login</h2>
 			<input type="text" name="username" placeholder="Username">
@@ -488,7 +488,7 @@ Maintenant, incluons le fichier config.php nouvellement créé comme toute premi
 </head>
 <body>
 	<!-- container - wraps whole page -->
-	<div class="container">
+	
 		<!-- navbar -->
 		<?php include( ROOT_PATH . '/includes/navbar.php') ?>
 		<!-- // navbar -->
@@ -498,7 +498,7 @@ Maintenant, incluons le fichier config.php nouvellement créé comme toute premi
 		<!-- // banner -->
 
 		<!-- Page content -->
-		<div class="content">
+		
 			<h2 class="content-title">Recent Articles</h2>
 			<hr>
 			<!-- more content still to come here ... -->

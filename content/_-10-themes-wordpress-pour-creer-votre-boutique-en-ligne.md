@@ -35,7 +35,7 @@ En effet, si vous souhaitez créer votre propre boutique en ligne ? Cette sélec
 **SNS BiaMuc** est une référence des thèmes e-commerce pour WordPress. Ce thème doit notamment son succès au fait qu’il s’intègre parfaitement avec WooCommerce et ses diverses extensions, avec les caractéristiques principales suivantes :
 
 - Couleur des nuanciers pour produit variable
-- Pages incluses&nbsp;: 404 page, Contactez-nous, politique de retour …
+- Pages incluses : 404 page, Contactez-nous, politique de retour …
 - WPML pris en charge
 - SEO convivial
 - Plus de 600 de Police Google

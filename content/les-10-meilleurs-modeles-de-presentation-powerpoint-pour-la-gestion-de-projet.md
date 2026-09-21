@@ -34,9 +34,9 @@ Lors de la création du modèle de présentation Agile Project Management, nous 
 - Police Web gratuites utilisées et recommandées
 - Sur la base des diapositives principales
 - Espace réservé à l’image
-- Rapport d’écran large 16&nbsp;: 9 (il correspondra exactement à la résolution de votre écran 1920 × 1080&nbsp;!)
-- Il suffit de glisser-déposer&nbsp;!
-- Facilement modifiable&nbsp;!
+- Rapport d’écran large 16 : 9 (il correspondra exactement à la résolution de votre écran 1920 × 1080 !)
+- Il suffit de glisser-déposer !
+- Facilement modifiable !
 
 **FICHIERS INCLUS**
 
@@ -52,7 +52,7 @@ Lors de la création du modèle de présentation Agile Project Management, nous 
 **FONCTIONNALITÉS**
 
 - 30 diapositives
-- Rapport hauteur/largeur 16&nbsp;: 9
+- Rapport hauteur/largeur 16 : 9
 - Haute résolution 1920 x 1080 pixels
 - Fabriqué avec Slidemaster (il suffit de glisser-déposer votre image)
 - Facile à personnaliser et entièrement modifiable
@@ -70,7 +70,7 @@ FONCTIONNALITÉS
 - 30 diapositives au total
 - Fichiers PPTX et PPT
 - Tous les éléments, couleurs, formes et graphiques peuvent être modifiés et édités facilement
-- Format de diapositives grand écran HD 16&nbsp;: 9 (1920 × 1080 pixels).
+- Format de diapositives grand écran HD 16 : 9 (1920 × 1080 pixels).
 
 FICHIERS INCLUS
 
@@ -86,7 +86,7 @@ FICHIERS INCLUS
 - 60 Modèle de diapositives uniques
 - Fichiers .PPT et .PPTX (prend en charge toutes les versions PowerPoint)
 - 5 couleurs prédéfinies (.XML)
-- Facile à modifier&nbsp;! 2 Cliquez pour personnaliser
+- Facile à modifier ! 2 Cliquez pour personnaliser
 - Formes et tableaux modifiables uniquement
 - Animation complète/Aucune
 - Retina prêt
@@ -154,7 +154,7 @@ Gestion de projet marketing (PowerPoint) est un modèle de graphique impressionn
 
 2- **90** thèmes de couleurs
 
-3- Pack d’Icones ( **3000** icônes&nbsp;!)
+3- Pack d’Icones ( **3000** icônes !)
 
 Un seul clic pour changer les couleurs et recolorer automatiquement Contenu entièrement et facilement modifiable
 
@@ -162,7 +162,7 @@ Un seul clic pour changer les couleurs et recolorer automatiquement Contenu enti
 
 [![](https://leconceptmarketing.com/wp-content/uploads/2023/11/image-15-1024x683.png)](1.envato.market/Gm1Yd6)
 
-**[Gestion de projet – Modèle PowerPoint 2 ](http://1.envato.market/Gm1Yd6)** Il s’agit d’un modèle de présentation prêt à l’emploi et facile à modifier à diverses fins, telles que&nbsp;: entreprise, entreprise, service de nettoyage, studio, organisation, institution, Réalisations, projet et autres.
+**[Gestion de projet – Modèle PowerPoint 2 ](http://1.envato.market/Gm1Yd6)** Il s’agit d’un modèle de présentation prêt à l’emploi et facile à modifier à diverses fins, telles que : entreprise, entreprise, service de nettoyage, studio, organisation, institution, Réalisations, projet et autres.
 
 CARACTÉRISTIQUES GÉNÉRALES
 
@@ -171,7 +171,7 @@ CARACTÉRISTIQUES GÉNÉRALES
 - Espaces réservés aux images
 - Facile à changer les couleurs, texte, photos, formes et autres éléments entièrement modifiables
 - Diapositives personnalisées uniques
-- Taille&nbsp;: ratio 16:9
+- Taille : ratio 16:9
 - Police gratuites d’occasion
 
 FICHIERS INCLUS
@@ -182,7 +182,7 @@ FICHIERS INCLUS
 
 [![](https://leconceptmarketing.com/wp-content/uploads/2023/11/image-16-1024x683.png)](1.envato.market/OrEL3K)
 
-**[Rekaby ](http://1.envato.market/OrEL3K)**– Le modèle Powerpoint de gestion de projet a un design professionnel, ultramoderne et unique, où chaque diapositive est créée avec amour et attention aux détails. Rekaby – Le modèle Powerpoint de gestion de projet est un modèle Powerpoint créatif qui peut être utilisé pour tout type de présentation&nbsp;: entreprise, Réalisations, entreprise, image de marque, publicité, etc.
+**[Rekaby ](http://1.envato.market/OrEL3K)**– Le modèle Powerpoint de gestion de projet a un design professionnel, ultramoderne et unique, où chaque diapositive est créée avec amour et attention aux détails. Rekaby – Le modèle Powerpoint de gestion de projet est un modèle Powerpoint créatif qui peut être utilisé pour tout type de présentation : entreprise, Réalisations, entreprise, image de marque, publicité, etc.
 
 **Caractéristiques de la présentation**
 

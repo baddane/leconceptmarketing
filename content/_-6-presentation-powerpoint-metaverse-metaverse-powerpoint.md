@@ -38,23 +38,23 @@ source_capture: "20220516110744"
 
 Présentation de **[Metaverse – Le modèle Powerpoint NFT](http://1.envato.market/qnvgVg)** a un design professionnel, ultra-moderne et unique, où chaque diapositive est créée avec amour et attention aux détails.
 
-**POINTS FORTS&nbsp;:**
+**POINTS FORTS :**
 
-- Diapositives totales&nbsp;: 15 diapositives
+- Diapositives totales : 15 diapositives
 - Convient pour Powerpoint
-- Tous les graphiques sont redimensionnables et modifiables&nbsp;!
+- Tous les graphiques sont redimensionnables et modifiables !
 - Police Web gratuites utilisées et recommandées
 - Sur la base des diapositives principales
-- Rapport d’écran large 16&nbsp;: 9 (1920 × 1080px)
+- Rapport d’écran large 16 : 9 (1920 × 1080px)
 - Espace réservé à l’image
-- Il suffit de glisser-déposer&nbsp;!
+- Il suffit de glisser-déposer !
 
-**FICHIERS INCLUS&nbsp;:**
+**FICHIERS INCLUS :**
 
 - Présentation des fichiers PowerPoint .PPT et .PPTX
 - Fichier de documentation
 
-**Remarque&nbsp;: Toutes les images de la démo sont uniquement à des fins de prévisualisation et ne sont pas réellement incluses dans les fichiers**
+**Remarque : Toutes les images de la démo sont uniquement à des fins de prévisualisation et ne sont pas réellement incluses dans les fichiers**
 
 ## 3. [Metaverse Powerpoint Presentation](http://1.envato.market/2reK2A)
 
@@ -62,7 +62,7 @@ Présentation de **[Metaverse – Le modèle Powerpoint NFT](http://1.envato.mar
 
 **[Metaverse Powerpoint Presentation](http://1.envato.market/2reK2A)** Modèle est un guide métaverse et un manuel pour les présentations de l’entreprise. Avec des concepts de conception simples, propres et professionnels. pour un modèle de présentation de livre manuel de marque de haute qualité.
 
-**Caractéristiques&nbsp;:**
+**Caractéristiques :**
 
 - Modèles PowerPoint
 - 30 toboggans uniques
@@ -71,7 +71,7 @@ Présentation de **[Metaverse – Le modèle Powerpoint NFT](http://1.envato.mar
 - Fichier du guide d’aide
 - Animation et transition
 
-Remarque&nbsp;: Les images utilisées dans ce modèle ne sont pas incluses.
+Remarque : Les images utilisées dans ce modèle ne sont pas incluses.
 
 ## 4. **[Metaverse Powerpoint Presentation](http://1.envato.market/e42RQQ)** :
 
@@ -90,9 +90,9 @@ Essayez-le et gagnez beaucoup de temps.
 - Police Web gratuites utilisées et recommandées
 - Sur la base des diapositives principales
 - Espaces réservés aux images
-- Il suffit de glisser-déposer&nbsp;!
-- Facilement modifiable&nbsp;!
-- Rapport d’écran large 16&nbsp;: 9 (il correspondra exactement à la résolution de votre écran 1920 × 1080&nbsp;!)
+- Il suffit de glisser-déposer !
+- Facilement modifiable !
+- Rapport d’écran large 16 : 9 (il correspondra exactement à la résolution de votre écran 1920 × 1080 !)
 
 **FICHIERS INCLUS**
 

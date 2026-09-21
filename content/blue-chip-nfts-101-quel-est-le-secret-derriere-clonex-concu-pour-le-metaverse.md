@@ -17,7 +17,7 @@ Le secret derrière CloneX est Takashi Murakami et l’équipe RTFKT, c’est la
 
 L’objectif de la collection CloneX basée sur Ethereum est assez simple, servir d’avatars dans le métaverse. Ces NFT ne sont pas simplement des images de profil. Grâce au prochain coffre-fort Clone, les détenteurs de CloneX auront accès aux fichiers 3D de l’avatar. L’idée est que ces chiffres fonctionneront dans n’importe quel métaverse. De plus, RTFKT a exprimé ses propres ambitions métavers.
 
-En tout cas, Benoit Pagotto, co-fondateur de RTFKT Studios[metaverse](https://www.forbes.com/sites/cathyhackl/2021/11/29/the-evolution-of-a-<a%20href=)-brand-rtkfts-clonex-drops-today/”> dit Forbes:
+En tout cas, Benoit Pagotto, co-fondateur de RTFKT Studios[metaverse](https://www.forbes.com/sites/cathyhackl/2021/11/29/the-evolution-of-a- dit Forbes:
 
 > «Nous envisageons un nouveau type de relation entre les propriétaires et les créateurs 3D qui créeront du contenu sur mesure pour les avatars, reproduisant ce que nous avons vu avec les modèles 3D Fortnite déchirés par les créateurs de mélangeurs, créant du contenu pour les streamers Twitch et YouTubers. C’est un écosystème complet, construit en direct, et les avatars ne sont que la pointe de l’iceberg.
 

@@ -164,7 +164,7 @@ Essayez les concours de photos sur [Instagram](https://www.instagram.com/?hl=fr)
 
 Cet ensemble d’icônes est adapté à vos besoins de conception, en particulier pour le restaurant, le café, le café, la cuisine, la nourriture et aussi pour les affaires.
 
-Cet ensemble d’icônes inlcudes 6 Style Prêt à l’emploi&nbsp;:
+Cet ensemble d’icônes inlcudes 6 Style Prêt à l’emploi :
 
 1. Ligne (Plan)
 2. Couleur linéaire (ligne de couleur)

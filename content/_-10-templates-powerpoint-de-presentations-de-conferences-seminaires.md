@@ -68,12 +68,12 @@ NB : Tous les éléments de ce Modèle sont modifiables à partir d’une forme 
 
 [![Cover Image For Conférencier public - Modèle Powerpoint](https://elements-cover-images-0.imgix.net/c79f8cfc-e82e-4228-ab68-6b3b0846ed8b?auto=compress%2Cformat&fit=max&w=710&s=cce0af7e59b0a0a1456d636ff2244c83)](1.envato.market/kxarn)
 
-**Caractéristiques&nbsp;:**
+**Caractéristiques :**
 
 - Entièrement modifiable
 - 30+ diapositives
 - 3 couleurs préfabriquées (bleu, or, rouge)
-- 16&nbsp;: 9 Format d’écran large
+- 16 : 9 Format d’écran large
 - Basé sur les diapositives maîtres
 - Utilisation de la police Web gratuite
 
@@ -83,18 +83,18 @@ NB : Tous les éléments de ce Modèle sont modifiables à partir d’une forme 
 
 ![Cover Image For Modèle de présentation PowerPoint de conférence](https://elements-cover-images-0.imgix.net/282a0a4a-45d3-4300-b44d-4267c3048fd7?auto=compress%2Cformat&fit=max&w=710&s=da75ddf9c400dd961ff76ebacf1aeda5)
 
-**Caractéristiques principales&nbsp;:**
+**Caractéristiques principales :**
 
-- Plus de 50 diapositives uniques qui attirent les regards&nbsp;;
-- Compatible avec Microsoft PowerPoint&nbsp;;
-- Full HD/16:9/1920 x 1080px&nbsp;;
-- Thèmes de couleurs utilisés — Changer toutes les couleurs en 1 clic&nbsp;;
-- Modèles de diapositives prêts&nbsp;;
-- Pixel parfait design progressif&nbsp;;
-- Diapositives entièrement animées&nbsp;;
-- Document bien organisé et facile à changer&nbsp;;
-- Images libres et Police utilisées&nbsp;;
-- Soutien amical&nbsp;;
+- Plus de 50 diapositives uniques qui attirent les regards ;
+- Compatible avec Microsoft PowerPoint ;
+- Full HD/16:9/1920 x 1080px ;
+- Thèmes de couleurs utilisés — Changer toutes les couleurs en 1 clic ;
+- Modèles de diapositives prêts ;
+- Pixel parfait design progressif ;
+- Diapositives entièrement animées ;
+- Document bien organisé et facile à changer ;
+- Images libres et Police utilisées ;
+- Soutien amical ;
 - Mises à jour gratuites.
 
 NB : Tous les éléments de ce Modèle sont modifiables à partir d’une forme PowerPoint …
@@ -103,7 +103,7 @@ NB : Tous les éléments de ce Modèle sont modifiables à partir d’une forme 
 
 [![Cover Image For Motif - Motivational Speaker Powerpoint Template](https://elements-cover-images-0.imgix.net/29b808ef-ab9b-4498-b487-132a3b1497e0?auto=compress%2Cformat&fit=max&w=710&s=23bcb2e1227c646ff3eec1d4619513ce)](1.envato.market/zJeLM)
 
-**Caractéristiques principales&nbsp;:**
+**Caractéristiques principales :**
 
 - Entièrement modifiable
 - 30+ diapositives
@@ -115,7 +115,7 @@ Tous les éléments de ce Modèle sont modifiables à partir d’une forme Power
 
 [![Cover Image For Vice - Modèle Business Powerpoint](https://elements-cover-images-0.imgix.net/03ac9657-48f7-4f74-9959-d379569f0f4f?auto=compress%2Cformat&fit=max&w=710&s=a8dbd79a71ab29f28970c3b8e68efd93)](1.envato.market/QkNVo)
 
-****Caractéristiques principales&nbsp;:****
+****Caractéristiques principales :****
 
 - **32 Diapositives Uniques** Facile à utiliser.
 - Format grand écran 16:9
@@ -140,12 +140,12 @@ Tous les éléments de ce Modèle sont modifiables à partir d’une forme Power
 
 [![Cover Image For Modèle PowerPoint pour conférences et événements professionnels](https://elements-cover-images-0.imgix.net/d5d87684-530c-4003-8df3-64504f02e7fe?auto=compress%2Cformat&fit=max&w=710&s=85bc453ea7d1319be2e7aac514f67845)](1.envato.market/QkNRY)
 
-**Caractéristiques principales&nbsp;:**
+**Caractéristiques principales :**
 
 - Modèle 50 Diapositives uniques
 - 5 fichiers XML préfabriqués en couleurs (16x9HD)
 - .PPT, fichiers .PPTX (Prise en charge de toutes les versions PowerPoint)
-- Facile à éditer&nbsp;! 2 Cliquez pour personnaliser
+- Facile à éditer ! 2 Cliquez pour personnaliser
 - Uniquement les formes et les tableaux modifiables
 - Plein/ Pas d’animation
 - Retina prête
@@ -158,12 +158,12 @@ Tous les éléments de ce Modèle sont modifiables à partir d’une forme Power
 
 [![Cover Image For Conférencier public - Modèle Powerpoint](https://elements-cover-images-0.imgix.net/c79f8cfc-e82e-4228-ab68-6b3b0846ed8b?auto=compress%2Cformat&fit=max&w=710&s=cce0af7e59b0a0a1456d636ff2244c83)](1.envato.market/kxarn)
 
-**Caractéristiques&nbsp;:**
+**Caractéristiques :**
 
 - Entièrement modifiable
 - 30+ diapositives
 - 3 couleurs préfabriquées (bleu, or, rouge)
-- 16&nbsp;: 9 Format d’écran large
+- 16 : 9 Format d’écran large
 - Basé sur les diapositives maîtres
 - Utilisation de la police Web gratuite
 
@@ -173,10 +173,10 @@ Tous les éléments de ce Modèle sont modifiables à partir d’une forme Power
 
 [![Cover Image For DEVELOVER - Modèle PowerPoint Business](https://elements-cover-images-0.imgix.net/f7d5008d-45e7-4467-9a69-8e6513da5c67?auto=compress%2Cformat&fit=max&w=710&s=37287ac4a50399bd743d881b704398e8)](1.envato.market/kxa7M)
 
-**Caractéristiques principales&nbsp;:**
+**Caractéristiques principales :**
 
 - PPTX Fichier
-- 16&nbsp;: 9 Rapport d’aspect
+- 16 : 9 Rapport d’aspect
 - Haute résolution 1920×1080 Pixel
 - Fabriqué avec Slidemaster (il suffit de glisser et de déposer votre image)
 - Facile à personnaliser et entièrement modifiable

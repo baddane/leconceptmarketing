@@ -41,9 +41,9 @@ Il s’agit d’un modèle de prospectus de vente Joyeux Noël. Ce modèle de f�
 
 ## 4. [Vente de Noël – Bannières Web Google Ads](http://1.envato.market/9WOYMj)
 
-**Bannières publicitaires sur le Web Sale de Noël** Bannières de vente de Noël mignonnes et attrayantes attireront des millions de clients pour votre magasin&nbsp;! Fond bleu délicat, décor minimaliste avec des nuages et de la neige, rabais lumineux.
+**Bannières publicitaires sur le Web Sale de Noël** Bannières de vente de Noël mignonnes et attrayantes attireront des millions de clients pour votre magasin ! Fond bleu délicat, décor minimaliste avec des nuages et de la neige, rabais lumineux.
 
-La vente de Noël est un grand mouvement de marketing. Obtenez beaucoup d’acheteurs avec les bannière Google Ads&nbsp;!
+La vente de Noël est un grand mouvement de marketing. Obtenez beaucoup d’acheteurs avec les bannière Google Ads !
 
 ## 5. [bannière enroulée de Noël](http://1.envato.market/P04DrN)
 
@@ -51,10 +51,10 @@ Ce modèle est adapté à n’importe quelle fin de projet. Très facile à util
 
 **Fonctionnalités**
 
-- Taille&nbsp;: Taille (80 x 200 cm) + Sleed
-- Résolution&nbsp;: 300 dpi
-- Mode couleur&nbsp;: CMJN
-- Fichier de travail&nbsp;: Indesign CS 4, Indesign CS 5, Indesign CS 6.
+- Taille : Taille (80 x 200 cm) + Sleed
+- Résolution : 300 dpi
+- Mode couleur : CMJN
+- Fichier de travail : Indesign CS 4, Indesign CS 5, Indesign CS 6.
 - Facilement personnalisable (texte, couleur et image)
 - Prêt pour l’impression
 - Aperçu Pdf
@@ -69,7 +69,7 @@ Bannières de réseaux sociaux de Noël faites pour vos souhaits de Noël via vo
 
 ## 7. [Noël bleu | bannière enroulée](http://1.envato.market/9WOYM0)
 
-Voici **Noël bleu | Bannières enroulées** -, obtenez-le maintenant&nbsp;! . des conceptions propres et modernes pour, x bannières, bannières, rollups, et plus encore. garder vos clients intéressés. Cheers…&nbsp;:)
+Voici **Noël bleu | Bannières enroulées** -, obtenez-le maintenant ! . des conceptions propres et modernes pour, x bannières, bannières, rollups, et plus encore. garder vos clients intéressés. Cheers… :)
 
 ## [8. Bannières Joyeux Noël](http://1.envato.market/P04DrX)
 

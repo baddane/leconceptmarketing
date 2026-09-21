@@ -102,16 +102,16 @@ Toutes les images de la démo sont fournies à titre d’aperçu uniquement et n
 
 Ceci est \***[Medical Powerpoint Template](http://1.envato.market/R5ab5y)**\*, moderne, élégant, minimal et professionnel. et Powerpoint est adapté à tous les types de présentations d’entreprise et d’autres exigences de présentation. Il est entièrement modifiable, personnalisable et facile à utiliser. Ce Powerpoint peut également être utilisé pour des applications polyvalentes
 
-**Fichiers inclus&nbsp;:**
+**Fichiers inclus :**
 
 - 32Diapositive unique
 - Fichiers PPT
 - Fichiers PPTX
 - Fichiers PDF
-- Taille&nbsp;: 16:9 Ratio
+- Taille : 16:9 Ratio
 - Fichier Aide
 
-**Caractéristiques&nbsp;:**
+**Caractéristiques :**
 
 - Facile à changer de couleur
 - Entièrement modifiable (texte, Photos, forme et autres éléments)
@@ -119,7 +119,7 @@ Ceci est \***[Medical Powerpoint Template](http://1.envato.market/R5ab5y)**\*, m
 - Diapositives propres et modernes
 - Police gratuites intégrées
 
-**Note&nbsp;:**
+**Note :**
 
 - Toutes les images ne sont pas incluses
 
@@ -140,7 +140,7 @@ Ceci est \***[Medical Powerpoint Template](http://1.envato.market/R5ab5y)**\*, m
 - Basé sur les diapositives maîtres
 - illustrations parfaites au pixel
 
-**Qu’ est-ce qui est inclus&nbsp;?**
+**Qu’ est-ce qui est inclus ?**
 
 - 5 Fichiers PPTX
 - 5 écran panoramique PPTX
@@ -153,7 +153,7 @@ Ceci est \***[Medical Powerpoint Template](http://1.envato.market/R5ab5y)**\*, m
 
 **Pharmaco – Modèle de présentation PowerPoint médicale**
 
-**[Le modèle Pharmaco](http://1.envato.market/AWajWD)** peut être utilisé à diverses fins, telles que&nbsp;: médical, santé, clinique, profil de l’entreprise, éducation, proposition de projet, conseil, gestion, assurance, démarrage, marketing numérique, médecine, covid, virus, technologie et peut également être utilisé pour le Réalisations personnel. Ce modèle de présentation contient des mises en page modernes, élégantes, créatives, professionnelles et uniques.
+**[Le modèle Pharmaco](http://1.envato.market/AWajWD)** peut être utilisé à diverses fins, telles que : médical, santé, clinique, profil de l’entreprise, éducation, proposition de projet, conseil, gestion, assurance, démarrage, marketing numérique, médecine, covid, virus, technologie et peut également être utilisé pour le Réalisations personnel. Ce modèle de présentation contient des mises en page modernes, élégantes, créatives, professionnelles et uniques.
 
 **CARACTÉRISTIQUES**
 
@@ -162,8 +162,8 @@ Ceci est \***[Medical Powerpoint Template](http://1.envato.market/R5ab5y)**\*, m
 - Police Web gratuites utilisées et recommandées
 - Basé sur les diapositives principales
 - Espace réservé à l’image
-- Il suffit de glisser-déposer&nbsp;!
-- Facilement modifiable&nbsp;!
+- Il suffit de glisser-déposer !
+- Facilement modifiable !
 - Rapport d’écran large 16:9
 
 **FICHIERS INCLUS**
@@ -175,7 +175,7 @@ Ceci est \***[Medical Powerpoint Template](http://1.envato.market/R5ab5y)**\*, m
 
 ![](https://leconceptmarketing.com/wp-content/uploads/2023/10/image-35-1024x683.png)
 
-**[Le modèle Powerpoint Medusa](http://1.envato.market/nLbyLa)** – Medical a un design professionnel, ultramoderne et unique, où chaque diapositive est créée avec amour et attention aux détails. Medusa – Medical Powerpoint Template est un modèle Powerpoint créatif qui peut être utilisé pour tout type de présentation&nbsp;: entreprise, Réalisations, entreprise, image de marque, publicité, etc.
+**[Le modèle Powerpoint Medusa](http://1.envato.market/nLbyLa)** – Medical a un design professionnel, ultramoderne et unique, où chaque diapositive est créée avec amour et attention aux détails. Medusa – Medical Powerpoint Template est un modèle Powerpoint créatif qui peut être utilisé pour tout type de présentation : entreprise, Réalisations, entreprise, image de marque, publicité, etc.
 
 **Caractéristiques de la présentation**
 
@@ -205,15 +205,15 @@ Ceci est \***[Medical Powerpoint Template](http://1.envato.market/R5ab5y)**\*, m
 
 [![](https://leconceptmarketing.com/wp-content/uploads/2023/10/image-36-1024x683.png)](http://1.envato.market/4PKEGG)
 
-**[Medicea](http://1.envato.market/4PKEGG)** est un Modèle de présentation simple, propre, moderne et professionnel. Parfait pour tout type d’entreprise médicale et de santé, telle que&nbsp;: hôpital, clinique, médecin, pharmacie, médecine, chirurgie, etc.
+**[Medicea](http://1.envato.market/4PKEGG)** est un Modèle de présentation simple, propre, moderne et professionnel. Parfait pour tout type d’entreprise médicale et de santé, telle que : hôpital, clinique, médecin, pharmacie, médecine, chirurgie, etc.
 
 - 33 diapositives au total
 - Graphiques redimensionnables et modifiables
-- Des Police 100&nbsp;% gratuites
+- Des Police 100 % gratuites
 - Disposition de l’écran large 16:9
 - Espace réservé à l’image par glisser-déposer
 
-**Fichiers inclus&nbsp;:**
+**Fichiers inclus :**
 
 - Fichier Powerpoint .PPTX
 - Fichier d’aide (README\_INFO.txt et HELPFILE.pdf)
@@ -224,7 +224,7 @@ Ceci est \***[Medical Powerpoint Template](http://1.envato.market/R5ab5y)**\*, m
 
 [![](https://leconceptmarketing.com/wp-content/uploads/2023/10/image-37-1024x682.png)](1.envato.market/nLby4R)
 
-**[Annuel](http://1.envato.market/nLby4R) – Modèle de présentation** est un modèle de présentation minimaliste, créatif, unique pour l’entreprise Commercial ou un usage personnel, l’industrie créative, les affaires et bien plus encore. Si vous êtes à la recherche d’un design unique et différent avec présentation professionnelle obtenez cette présentation maintenant&nbsp;!
+**[Annuel](http://1.envato.market/nLby4R) – Modèle de présentation** est un modèle de présentation minimaliste, créatif, unique pour l’entreprise Commercial ou un usage personnel, l’industrie créative, les affaires et bien plus encore. Si vous êtes à la recherche d’un design unique et différent avec présentation professionnelle obtenez cette présentation maintenant !
 
 **INCLUS DANS LE FICHIER PRINCIPAL**
 

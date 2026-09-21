@@ -173,6 +173,73 @@ JUNK_LINE = re.compile(
 
 HEADING_BOLD = re.compile(r"^(#{1,6})\s*\*\*(.+?)\*\*\s*$")
 
+# WordPress inserait des <br> a l'interieur des <script>: la balise se refermait
+# trop tot et la suite du code se retrouvait en texte dans les <p> suivants.
+SCRIPT_LEFTOVER = re.compile(
+    r"googletagmanager|dataLayer|gtm\.start|fbq\(|connect\.facebook\.net|"
+    r"CookiesEuBanner|adsbygoogle|googlesyndication|platform\.twitter\.com/widgets|"
+    r"document\.createElement|getElementsByTagName|insertBefore\(|_stq|"
+    r"\(function\(w,\s*d,\s*s|window\.addEventListener\(|new Date\(\)\.getTime\(\)",
+    re.I)
+
+
+# Balises restees en texte a cause du balisage casse de l'export WordPress.
+# On ne retire que celles qui portent des attributs ou qui sont collees au
+# texte: un article peut citer <div> ou <IFRAME> a dessein, entoure d'espaces.
+TAG_WITH_ATTRS = re.compile(r"</?(?:div|span|a|br|p|section|figure|table|td|tr|ul|li|img|iframe)\b[^>]*=[^>]*>", re.I)
+TAG_GLUED = re.compile(r"(?<=\w)</?(?:div|span|p|br)\s*/?>|</?(?:div|span|p|br)\s*/?>(?=\w)", re.I)
+
+
+def drop_stray_markup(text):
+    text = TAG_WITH_ATTRS.sub("", text)
+    return TAG_GLUED.sub("", text)
+
+
+def unescape_outside_code(text):
+    """Decode les entites HTML restees litterales, sauf dans les extraits de
+    code ou elles peuvent etre le sujet meme de l'article."""
+    parts, fenced = [], False
+    for block in text.split("\n\n"):
+        fences = block.count("```")
+        if fenced or fences:
+            fenced ^= fences % 2 == 1
+            parts.append(block)
+            continue
+        parts.append(html.unescape(block))
+    return "\n\n".join(parts)
+
+
+# Un appel de fonction suivi de ; ou {, ou une ligne de fermeture seule.
+CODE_STATEMENT = re.compile(
+    r"[\w$.\]]\s*\([^()]{0,160}\)\s*[;{]|^\s*[}\])]{1,4}\s*[;,)]?\s*$", re.M)
+# Le francais met une espace avant le point-virgule, donc "(SEO) ;" ressemble a
+# du code: on n'ecarte un bloc que s'il ne contient presque pas de mots francais.
+FRENCH_WORDS = re.compile(
+    r"\b(le|la|les|de|des|du|un|une|et|est|pour|dans|vous|nous|que|qui|sur|avec"
+    r"|plus|par|ce|cette|au|aux|en|sont|ne|pas|son|ses|votre|vos|il|elle|on)\b", re.I)
+
+
+def looks_injected(block):
+    if not CODE_STATEMENT.search(block):
+        return False
+    return len(FRENCH_WORDS.findall(block)) < 3 and len(block.split()) < 40
+
+
+def drop_script_leftovers(text):
+    """Retire les blocs de code injecte, sans toucher aux extraits de code
+    des tutoriels, qui eux sont balises comme tels."""
+    kept, fenced = [], False
+    for block in text.split("\n\n"):
+        fences = block.count("```")
+        if fenced or fences:
+            fenced ^= fences % 2 == 1
+            kept.append(block)
+            continue
+        if SCRIPT_LEFTOVER.search(block) or looks_injected(block):
+            continue
+        kept.append(block)
+    return "\n\n".join(kept)
+
 
 def tidy(text):
     lines = []
@@ -188,6 +255,9 @@ def tidy(text):
         lines.append(line)
     text = "\n".join(lines)
     text = re.sub(r"\n{3,}", "\n\n", text)
+    text = drop_script_leftovers(text)
+    text = drop_stray_markup(text)
+    text = unescape_outside_code(text)
     text = text.replace(" ", " ").replace("​", "")
     text = "".join(ch for ch in text if ch >= " " or ch in "\n\t")
     return text.strip()

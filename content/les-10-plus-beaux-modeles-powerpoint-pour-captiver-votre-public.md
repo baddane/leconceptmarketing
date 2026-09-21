@@ -26,7 +26,7 @@ En outre, cela permet d’attirer l’attention des spectateurs. Cela peut vous 
 ****CARACTÉRISTIQUES** :**
 
 - Entièrement modifiable dans Powerpoint (formes, Icônes, maquette, etc.)
-- Dispositions d’écran 4:3 et 16:9 (FULL HD&nbsp;!)
+- Dispositions d’écran 4:3 et 16:9 (FULL HD !)
 - Animation de transition entre diapositives
 - Plus de 40 diapositives uniques pour chaque Thème (+diapositives principales)
 - 4 Thèmes prédéfinis (colorié-clair, coloré-foncé, orange, vert)
@@ -84,7 +84,7 @@ En outre, cela permet d’attirer l’attention des spectateurs. Cela peut vous 
 
 **CARACTÉRISTIQUES** :
 
-- Total de diapositives&nbsp;: 20 diapositives uniques
+- Total de diapositives : 20 diapositives uniques
 - Graphiques redimensionnables et modifiables
 - Polices Web gratuites utilisées et recommandées
 - Design épuré, moderne et polyvalent pouvant être utilisé pour tout type de présentation
@@ -92,8 +92,8 @@ En outre, cela permet d’attirer l’attention des spectateurs. Cela peut vous 
 - Basé sur Master Slides
 - Format d’écran large 16:9
 - Espace réservé à l’image
-- Il suffit de glisser-déposer&nbsp;!
-- Facilement modifiable&nbsp;!
+- Il suffit de glisser-déposer !
+- Facilement modifiable !
 - Polices gratuites
 
 [**Découvrir ce modèle**](http://1.envato.market/q43aK5)
@@ -139,7 +139,7 @@ En outre, cela permet d’attirer l’attention des spectateurs. Cela peut vous 
 
 ****CARACTÉRISTIQUES** :**
 
-- Total de diapositives&nbsp;: 20 diapositives uniques
+- Total de diapositives : 20 diapositives uniques
 - Graphiques redimensionnables et modifiables
 - Polices Web gratuites utilisées et recommandées
 - Design épuré, moderne et polyvalent pouvant être utilisé pour tout type de présentation

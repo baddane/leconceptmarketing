@@ -118,9 +118,9 @@ Peut-être pourrez-vous vendre davantage de vos produits sur TikTok !
 
 ## #5 : Services de gestion
 
-<div><br class=”Apple-interchange-newline”>La cinquième façon de gagner de l’argent avec TikTok est d’offrir des services de gestion aux créateurs de l’application. Certains créateurs sur TikTok ont des millions de followers et parfois cela arrive très vite et du jour au lendemain pour ce créateur.
+La cinquième façon de gagner de l’argent avec TikTok est d’offrir des services de gestion aux créateurs de l’application. Certains créateurs sur TikTok ont des millions de followers et parfois cela arrive très vite et du jour au lendemain pour ce créateur.
 
-C’est comme si une entreprise leur tombait dessus.</div>La cinquième façon de gagner de l’argent avec TikTok est d’offrir des services de gestion aux créateurs de l’application.
+C’est comme si une entreprise leur tombait dessus.La cinquième façon de gagner de l’argent avec TikTok est d’offrir des services de gestion aux créateurs de l’application.
 
 Vous pourriez intervenir et proposer des services pour les aider dans leur [stratégie de contenu](https://leconceptmarketing.com/comment-rediger-un-contenu-adapte-au-referencement-du-debutant-au-seo-avance/), leur stratégie créative, voire gérer les offres et les transactions qui leur sont proposées.
 

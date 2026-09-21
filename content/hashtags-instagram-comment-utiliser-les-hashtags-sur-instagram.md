@@ -299,7 +299,7 @@ Vous pouvez également placer vos hashtags dans le premier commentaire du post a
 
 Bien que vous puissiez expérimenter avec les hashtags les plus populaires qui sont pertinents pour votre post, vous devriez rechercher des hashtags plus spécifiques.
 
-Vous pouvez utiliser un mélange de hashtags populaires, de hashtags de marque et de hashtags plus spécifiques et plus longs.</div>Instagram vous permet d’ajouter jusqu’à 30 hashtags pour chaque publication.
+Vous pouvez utiliser un mélange de hashtags populaires, de hashtags de marque et de hashtags plus spécifiques et plus longs.Instagram vous permet d’ajouter jusqu’à 30 hashtags pour chaque publication.
 
 Il n’est pas nécessaire de compter – ils vous préviennent généralement lorsque vous atteignez 31 hashtags.
 

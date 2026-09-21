@@ -34,7 +34,7 @@ Razion – Modèle de présentation Powerpoint d’entreprise pour votre entrepr
 - Plus de 30 diapositives uniques
 - Fichiers PPTX et PPT
 - Tous les éléments, couleurs, formes et graphiques peuvent être modifiés et modifiés facilement
-- HD 16&nbsp;: 9 format de diapositive grand écran (1920×1080 pixels).
+- HD 16 : 9 format de diapositive grand écran (1920×1080 pixels).
 
 **FICHIERS INCLUS**
 
@@ -45,13 +45,13 @@ Razion – Modèle de présentation Powerpoint d’entreprise pour votre entrepr
 
 [![](https://leconceptmarketing.com/wp-content/uploads/2021/03/Entreprise.jpg)](1.envato.market/155Zx9)
 
-Ce modèle de présentation peut être utilisé à des fins diverses, telles que&nbsp;: Agence créative, Profil de l’entreprise, Corporate and Business, Réalisations, Pitch Deck, Startup, et peut également être utilisé pour le Réalisations personnel.
+Ce modèle de présentation peut être utilisé à des fins diverses, telles que : Agence créative, Profil de l’entreprise, Corporate and Business, Réalisations, Pitch Deck, Startup, et peut également être utilisé pour le Réalisations personnel.
 
 **FONCTIONNALITÉS**
 
 - Ratio d’écran large 16:9
 - Modèle de couleurs modifiable facile
-- Total des diapositives&nbsp;: 46 diapositives créatives
+- Total des diapositives : 46 diapositives créatives
 - Numéro de diapo actif
 - Tous les Graphiques redimensionnables et modifiables
 - Police web gratuites utilisées et recommandées
@@ -60,8 +60,8 @@ Ce modèle de présentation peut être utilisé à des fins diverses, telles que
 - Graphique de données inclus
 - Infographies modifiables
 - Espace réservé à l’image
-- Juste glisser-déposer&nbsp;!
-- Facilement modifiable&nbsp;!
+- Juste glisser-déposer !
+- Facilement modifiable !
 
 **FICHIERS INCLUS**
 
@@ -77,7 +77,7 @@ Modèle de présentation professionnel pour polyvalent. Construit en 16:9 (HD). 
 **FONCTIONNALITÉS**
 
 - 30+ diapositives
-- 16&nbsp;: 9 Rapport d’aspect
+- 16 : 9 Rapport d’aspect
 - Pixel haute résolution 1920×1080
 - Fabriqué avec Slidemaster (glisser-déposer simplement votre image)
 - Facile à personnaliser et entièrement modifiable
@@ -93,7 +93,7 @@ Modèle professionnel pour présentation polyvalente. Construit en 16:9 (HD). Pr
 **FONCTIONNALITÉS**
 
 - 30+ diapositives
-- 16&nbsp;: 9 Rapport d’aspect
+- 16 : 9 Rapport d’aspect
 - Pixel haute résolution 1920×1080
 - Fabriqué avec Slidemaster (glisser-déposer simplement votre image)
 - Facile à personnaliser et entièrement modifiable
