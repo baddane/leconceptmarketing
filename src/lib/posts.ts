@@ -1,5 +1,23 @@
 import { getCollection, type CollectionEntry } from "astro:content";
 import { permalinkSlug, readingTime, slugify } from "./site";
+import { resolveImage } from "./images.mjs";
+
+const BODY_IMAGE = /!\[[^\]]*\]\((https?:\/\/[^)\s]+)\)/g;
+
+/**
+ * Vignette de l'article : sa couverture si elle a pu etre rapatriee, sinon la
+ * premiere illustration disponible dans le corps. Renvoie null quand aucune
+ * image n'est servable, la carte retombe alors sur son degrade.
+ */
+function thumbnail(entry: CollectionEntry<"blog">): string | null {
+  const cover: string | null = resolveImage(entry.data.cover);
+  if (cover) return cover;
+  for (const match of (entry.body ?? "").matchAll(BODY_IMAGE)) {
+    const resolved: string | null = resolveImage(match[1]);
+    if (resolved) return resolved;
+  }
+  return null;
+}
 
 export interface Post {
   slug: string;
@@ -7,6 +25,7 @@ export interface Post {
   entry: CollectionEntry<"blog">;
   data: CollectionEntry<"blog">["data"];
   minutes: number;
+  image: string | null;
 }
 
 function toItem(entry: CollectionEntry<"blog">): Post {
@@ -17,6 +36,7 @@ function toItem(entry: CollectionEntry<"blog">): Post {
     entry,
     data: entry.data,
     minutes: readingTime(entry.body ?? ""),
+    image: thumbnail(entry),
   };
 }
 

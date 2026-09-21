@@ -1,9 +1,7 @@
 ---
-import { resolveImage } from "../lib/images.mjs";
-
-interface Props { src?: string; alt: string; seed: string }
-const { src = "", alt, seed } = Astro.props;
-const resolved = resolveImage(src);
+interface Props { src?: string | null; alt: string; seed: string }
+const { src = null, alt, seed } = Astro.props;
+const resolved = src;
 
 // Teinte stable dérivée du slug : deux articles gardent toujours la même vignette.
 let hash = 0;
