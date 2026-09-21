@@ -1,29 +1,47 @@
 ---
-import { SITE } from "../lib/site";
+import { SITE, MENU, slugify } from "../lib/site";
 
 const { pathname } = Astro.url;
-const links = [
-  { href: "/", label: "Accueil" },
-  { href: "/categories/", label: "Catégories" },
-  { href: "/archives/", label: "Archives" },
-  { href: "/recherche/", label: "Recherche" },
-  { href: "/a-propos/", label: "À propos" },
-];
+const href = (category?: string) => (category ? `/category/${slugify(category)}/` : "/");
+const isActive = (path: string) => pathname === path;
 ---
 
 <header class="site-header">
-  <div class="wrap site-header__inner">
+  <div class="wrap site-header__top">
     <a class="brand" href="/">
-      Le Concept Marketing<span class="brand__dot">.</span>
+      <span class="brand__name">Le Concept Marketing<span class="brand__dot">.</span></span>
       <span class="brand__tag">{SITE.tagline}</span>
     </a>
-    <nav class="nav" aria-label="Navigation principale">
-      {links.map((l) => (
-        <a href={l.href} aria-current={pathname === l.href ? "page" : undefined}>{l.label}</a>
-      ))}
-      <button class="theme-toggle" type="button" data-theme-toggle aria-label="Changer de thème">◐</button>
-    </nav>
+    <a class="header-search" href="/recherche/" aria-label="Rechercher un article">
+      <span aria-hidden="true">⌕</span> <span class="header-search__label">Rechercher</span>
+    </a>
   </div>
+
+  <nav class="mainnav" aria-label="Navigation principale">
+    <ul class="mainnav__list wrap">
+      {MENU.map((item) => {
+        const url = href(item.category);
+        return (
+          <li class={item.children ? "has-sub" : undefined}>
+            <a href={url} aria-current={isActive(url) ? "page" : undefined}>
+              {item.label}
+              {item.children && <span class="caret" aria-hidden="true">▾</span>}
+            </a>
+            {item.children && (
+              <ul class="submenu">
+                {item.children.map((child) => (
+                  <li><a href={href(child.category)}>{child.label}</a></li>
+                ))}
+              </ul>
+            )}
+          </li>
+        );
+      })}
+      <li class="mainnav__end">
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Changer de thème">◐</button>
+      </li>
+    </ul>
+  </nav>
 </header>
 
 <script is:inline>

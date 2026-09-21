@@ -1,18 +1,18 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { getCategories } from "../lib/archive";
+import { getCategories } from "../lib/posts";
 const categories = await getCategories();
 ---
 
-<BaseLayout title="Page introuvable" description="Cette page n’existe pas ou n’a pas pu être archivée." noindex categories={categories}>
+<BaseLayout title="Page introuvable" description="La page demandée est introuvable." noindex categories={categories}>
   <section class="section">
     <div class="wrap empty-state">
       <h1 style="font-size:3rem;margin:0 0 8px">404</h1>
-      <p>Cette page n’existe pas, ou elle n’a pas pu être récupérée depuis les archives.</p>
+      <p>La page que vous cherchez n’existe pas ou a été déplacée.</p>
       <p style="margin-top:22px">
         <a class="chip" href="/">Retour à l’accueil</a>
         <a class="chip" href="/recherche/">Rechercher un article</a>
-        <a class="chip" href="/archives/">Parcourir les archives</a>
+        <a class="chip" href="/sitemap/">Parcourir le sitemap</a>
       </p>
     </div>
   </section>

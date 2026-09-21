@@ -1,9 +1,11 @@
-# Le Concept Marketing — archive statique
+# Le Concept Marketing
 
-Site statique [Astro](https://astro.build) qui restitue le contenu éditorial de
-`leconceptmarketing.com`. Le WordPress d'origine a perdu ses publications et sa
-médiathèque : ce dépôt reconstruit le site à partir des captures publiques de
-l'Internet Archive.
+Blog statique [Astro](https://astro.build) : marketing digital, SEO, réseaux
+sociaux, e-commerce, crypto et IA. 1 110 articles répartis dans 38 rubriques.
+
+Le contenu provient du WordPress d'origine, qui avait perdu ses publications et
+sa médiathèque ; il est reconstitué à partir des captures publiques du site et
+régénérable à tout moment via `tools/`.
 
 ## Démarrer
 
@@ -35,7 +37,7 @@ l'extraction.
 
 | Chemin | Rôle |
 | --- | --- |
-| `dump/` | Captures HTML brutes de l'Internet Archive. **Source de vérité**, jamais éditée, exclue du déploiement. |
+| `dump/` | Captures HTML brutes du site d'origine. **Source de vérité**, jamais éditée, exclue du déploiement. |
 | `content/` | Markdown généré depuis `dump/`. Une page par fichier, frontmatter YAML. |
 | `public/images/` | Illustrations rapatriées + `manifest.json` (table URL d'origine → fichier local). |
 | `src/` | Le site Astro. |
@@ -91,7 +93,18 @@ que les images apparaissent.
 
 - **Permaliens d'origine conservés**, pour préserver liens entrants et
   référencement ; les anciennes formes d'URL sont redirigées en 301.
-- **Liens internes recâblés au build** (`src/lib/rehype-archive.mjs`) : un lien
+- **Menu et pied de page repris de l'arborescence d'origine** : rubriques de
+  tête et sous-rubriques identiques.
+- **Sitemaps découpés par type** comme sur le site d'origine :
+  `/sitemap_index.xml` pointe vers `post-sitemap.xml`, `page-sitemap.xml` et
+  `category-sitemap.xml`, chacun avec `lastmod`. Une version lisible est servie
+  à `/sitemap/`.
+- **Liens sortants qualifiés** : un lien éditorial reste suivi, un lien
+  d'affiliation reçoit `rel="sponsored nofollow"` (réseaux et paramètres de
+  tracking détectés dans `src/lib/rehype-content.mjs`).
+- **Données structurées** : `BlogPosting`, `BreadcrumbList` sur les articles,
+  `WebSite` + `SearchAction` sur l'accueil.
+- **Liens internes recâblés au build** (`src/lib/rehype-content.mjs`) : un lien
   vers une page archivée devient relatif, un lien vers une page jamais capturée
   est dégradé en texte plutôt que laissé mort. Les liens externes reçoivent
   `rel="nofollow noopener noreferrer"`.
@@ -100,5 +113,5 @@ que les images apparaissent.
   un index JSON servi à `/search.json`.
 
 > Astro met en cache le rendu Markdown. Après une modification de
-> `src/lib/rehype-archive.mjs`, supprimez `.astro/` avant de rebuilder, sinon
+> `src/lib/rehype-content.mjs`, supprimez `.astro/` avant de rebuilder, sinon
 > les pages sont resservies telles quelles.

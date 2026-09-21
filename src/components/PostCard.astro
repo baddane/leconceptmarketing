@@ -1,9 +1,9 @@
 ---
 import Thumb from "./Thumb.astro";
 import { formatDate, slugify } from "../lib/site";
-import type { ArchiveItem } from "../lib/archive";
+import type { Post } from "../lib/posts";
 
-interface Props { post: ArchiveItem }
+interface Props { post: Post }
 const { post } = Astro.props;
 const d = post.data;
 const category = d.categories[0];

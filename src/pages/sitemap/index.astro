@@ -1,0 +1,72 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getPosts, getCategories } from "../../lib/posts";
+import { formatDate } from "../../lib/site";
+
+const posts = await getPosts();
+const categories = await getCategories();
+
+// Un bloc par rubrique, articles du plus recent au plus ancien : c'est le plan
+// du site que les moteurs et les lecteurs suivent pour tout atteindre.
+const byCategory = categories.map((category) => ({
+  category,
+  items: posts.filter((p) => p.data.categories.includes(category.name)),
+}));
+const uncategorised = posts.filter((p) => p.data.categories.length === 0);
+---
+
+<BaseLayout
+  title="Sitemap"
+  description={`Plan du site : les ${posts.length} articles du Concept Marketing, classés par rubrique.`}
+  categories={categories}
+>
+  <section class="hero">
+    <div class="wrap">
+      <p class="breadcrumb"><a href="/">Accueil</a> › Sitemap</p>
+      <h1>Sitemap</h1>
+      <p>{posts.length} articles classés dans {categories.length} rubriques.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <nav class="tag-cloud" style="margin-bottom:34px" aria-label="Accès rapide aux rubriques">
+        {categories.map((c) => <a class="chip" href={`#${c.slug}`}>{c.name} <span style="opacity:.65">{c.count}</span></a>)}
+      </nav>
+
+      {byCategory.map(({ category, items }) => (
+        <div id={category.slug} style="margin-bottom:42px">
+          <div class="section__head">
+            <h2><a href={`/category/${category.slug}/`} style="text-decoration:none">{category.name}</a></h2>
+            <span class="chip chip--plain">{items.length}</span>
+          </div>
+          <ul class="sitemap-list">
+            {items.map((post) => (
+              <li>
+                <a href={post.href}>{post.data.title}</a>
+                {post.data.date && (
+                  <time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
+                )}
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+
+      {uncategorised.length > 0 && (
+        <div style="margin-bottom:42px">
+          <div class="section__head"><h2>Autres articles</h2></div>
+          <ul class="sitemap-list">
+            {uncategorised.map((post) => (
+              <li><a href={post.href}>{post.data.title}</a></li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      <p class="breadcrumb" style="margin-top:30px">
+        Version XML pour les moteurs : <a href="/sitemap_index.xml">sitemap_index.xml</a>
+      </p>
+    </div>
+  </section>
+</BaseLayout>

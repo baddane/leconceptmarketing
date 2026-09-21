@@ -9,3 +9,6 @@ dist/
 # Caches de reprise du rapatriement d'images (regenerables)
 public/images/.cdx-index.json
 public/images/.failed.json
+
+# Caches Python des outils
+tools/__pycache__/

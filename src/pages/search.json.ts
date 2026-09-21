@@ -1,5 +1,5 @@
 import type { APIRoute } from "astro";
-import { getPosts } from "../lib/archive";
+import { getPosts } from "../lib/posts";
 
 /** Index client leger : titre, extrait et categories suffisent au filtrage. */
 export const GET: APIRoute = async () => {

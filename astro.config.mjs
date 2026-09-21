@@ -1,14 +1,12 @@
 import { defineConfig } from "astro/config";
-import sitemap from "@astrojs/sitemap";
-import rehypeArchive from "./src/lib/rehype-archive.mjs";
+import rehypeContent from "./src/lib/rehype-content.mjs";
 
 export default defineConfig({
   site: "https://leconceptmarketing.com",
   trailingSlash: "always",
   build: { format: "directory" },
   markdown: {
-    rehypePlugins: [rehypeArchive],
+    rehypePlugins: [rehypeContent],
     shikiConfig: { theme: "github-dark", wrap: true },
   },
-  integrations: [sitemap({ filter: (page) => !page.includes("/recherche/") })],
 });

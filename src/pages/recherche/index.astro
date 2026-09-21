@@ -1,6 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { getPosts, getCategories } from "../../lib/archive";
+import { getPosts, getCategories } from "../../lib/posts";
 
 const posts = await getPosts();
 const categories = await getCategories();
@@ -8,7 +8,7 @@ const categories = await getCategories();
 
 <BaseLayout
   title="Recherche"
-  description="Rechercher parmi les articles archivés du Concept Marketing."
+  description="Rechercher un article sur Le Concept Marketing."
   noindex
   categories={categories}
 >
@@ -16,7 +16,7 @@ const categories = await getCategories();
     <div class="wrap">
       <p class="breadcrumb"><a href="/">Accueil</a> › Recherche</p>
       <h1>Recherche</h1>
-      <p>Filtrez les {posts.length} articles par titre, description ou catégorie.</p>
+      <p>Filtrez les {posts.length} articles par titre, description ou rubrique.</p>
     </div>
   </section>
 

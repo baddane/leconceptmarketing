@@ -26,15 +26,38 @@ function knownSlugs() {
 const SLUGS = knownSlugs();
 const INTERNAL = /^https?:\/\/(www\.)?leconceptmarketing\.com(\/.*)?$/i;
 
+// Reseaux d'affiliation et parametres de tracking rencontres dans les articles.
+// Ces liens sont remuneres : Google demande rel="sponsored".
+const AFFILIATE_HOSTS =
+  /(^|\.)(amzn\.to|tidd\.ly|envato\.market|pxf\.io|sjv\.io|prf\.hn|go2cloud\.org|shareasale\.com|awin1\.com|clickbank\.net|1tpe\.net|digistore24\.com|jvzoo\.com|warriorplus\.com|gumroad\.com|do\.co)$/i;
+const AFFILIATE_SUBDOMAIN = /^(partners?|affiliates?|go|track|click)\./i;
+const AFFILIATE_QUERY =
+  /[?&](tag|aff|aff_id|affiliate|ref|refcode|referral|partner|irclickid|a_aid|sscid|utm_medium=affiliate)=/i;
+const AFFILIATE_PATH = /\/(aff|affiliate|partners?|recommends|go)\//i;
+
+function isSponsored(url) {
+  try {
+    const parsed = new URL(url);
+    return (
+      AFFILIATE_HOSTS.test(parsed.hostname) ||
+      AFFILIATE_SUBDOMAIN.test(parsed.hostname) ||
+      AFFILIATE_QUERY.test(parsed.search) ||
+      AFFILIATE_PATH.test(parsed.pathname)
+    );
+  } catch {
+    return false;
+  }
+}
+
 function placeholder(alt) {
-  const label = alt && alt.trim() ? alt.trim() : "Illustration non archivée";
+  const label = alt && alt.trim() ? alt.trim() : "Image indisponible";
   return {
     type: "element",
     tagName: "span",
-    properties: { className: ["archive-image", "archive-image--missing"], role: "img", "aria-label": label },
+    properties: { className: ["media", "media--missing"], role: "img", "aria-label": label },
     children: [
-      { type: "element", tagName: "span", properties: { className: ["archive-image__icon"], "aria-hidden": "true" }, children: [{ type: "text", value: "▨" }] },
-      { type: "element", tagName: "span", properties: { className: ["archive-image__label"] }, children: [{ type: "text", value: label }] },
+      { type: "element", tagName: "span", properties: { className: ["media__icon"], "aria-hidden": "true" }, children: [{ type: "text", value: "▨" }] },
+      { type: "element", tagName: "span", properties: { className: ["media__label"] }, children: [{ type: "text", value: label }] },
     ],
   };
 }
@@ -46,7 +69,7 @@ function handleImage(node) {
   node.properties.src = resolved;
   node.properties.loading = "lazy";
   node.properties.decoding = "async";
-  node.properties.className = ["archive-image__img"];
+  node.properties.className = ["media__img"];
   return node;
 }
 
@@ -76,7 +99,11 @@ function handleLink(node) {
 
   if (/^https?:\/\//i.test(href)) {
     node.properties.target = "_blank";
-    node.properties.rel = "nofollow noopener noreferrer";
+    // Un lien editorial reste suivi : c'est le maillage sortant naturel que
+    // Google attend. Seuls les liens remuneres sont marques sponsored.
+    node.properties.rel = isSponsored(href)
+      ? "sponsored nofollow noopener noreferrer"
+      : "noopener noreferrer";
   }
   return node;
 }
@@ -104,7 +131,7 @@ function walk(node) {
   node.children = out;
 }
 
-/** Recable images et liens internes des articles archives. */
-export default function rehypeArchive() {
+/** Recable images, liens internes et attributs rel des articles. */
+export default function rehypeContent() {
   return (tree) => walk(tree);
 }

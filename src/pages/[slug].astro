@@ -3,7 +3,7 @@ import type { GetStaticPaths } from "astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import PostCard from "../components/PostCard.astro";
 import { render } from "astro:content";
-import { getAll, getPosts, getCategories, type ArchiveItem } from "../lib/archive";
+import { getAll, getPosts, getCategories, type Post } from "../lib/posts";
 import { resolveImage } from "../lib/images.mjs";
 import { formatDate, slugify, SITE } from "../lib/site";
 
@@ -12,7 +12,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return all.map((item) => ({ params: { slug: item.slug }, props: { item } }));
 };
 
-interface Props { item: ArchiveItem }
+interface Props { item: Post }
 const { item } = Astro.props as Props;
 const d = item.data;
 const { Content } = await render(item.entry);
@@ -34,7 +34,29 @@ const sameCategory = posts.filter(
 );
 const related = [...sameCategory, ...posts.filter((p) => p.slug !== item.slug)]
   .filter((p, i, arr) => arr.findIndex((x) => x.slug === p.slug) === i)
-  .slice(0, 3);
+  .slice(0, 6);
+
+const crumbs = [
+  { name: "Accueil", item: new URL("/", Astro.site ?? SITE.url).href },
+  ...(d.categories[0]
+    ? [{
+        name: d.categories[0],
+        item: new URL(`/category/${slugify(d.categories[0])}/`, Astro.site ?? SITE.url).href,
+      }]
+    : []),
+  { name: d.title, item: new URL(item.href, Astro.site ?? SITE.url).href },
+];
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: crumbs.map((crumb, index) => ({
+    "@type": "ListItem",
+    position: index + 1,
+    name: crumb.name,
+    item: crumb.item,
+  })),
+};
 
 const schema = {
   "@context": "https://schema.org",
@@ -59,6 +81,7 @@ const schema = {
   categories={categories}
 >
   <script type="application/ld+json" set:html={JSON.stringify(schema)} slot="head" />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} slot="head" />
 
   <article class="article">
     <div class="wrap">
@@ -98,14 +121,6 @@ const schema = {
           </p>
         )}
 
-        <p class="notice" style="margin-top:2.4em">
-          <span aria-hidden="true">🗃️</span>
-          <span>
-            Page reconstruite à partir d’une capture archivée
-            {d.source_capture && <> du {d.source_capture.slice(6, 8)}/{d.source_capture.slice(4, 6)}/{d.source_capture.slice(0, 4)}</>}.
-            Certaines illustrations d’origine n’ont pas pu être récupérées.
-          </span>
-        </p>
       </div>
     </div>
   </article>

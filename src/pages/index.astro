@@ -2,7 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import PostCard from "../components/PostCard.astro";
 import Pagination from "../components/Pagination.astro";
-import { getPosts, getCategories } from "../lib/archive";
+import { getPosts, getCategories } from "../lib/posts";
 import { SITE } from "../lib/site";
 
 const posts = await getPosts();
@@ -11,19 +11,29 @@ const perPage = SITE.postsPerPage;
 const lastPage = Math.max(1, Math.ceil(posts.length / perPage));
 const pageItems = posts.slice(0, perPage);
 const page = { currentPage: 1, lastPage };
-const years = new Set(posts.map((p) => p.data.date?.getUTCFullYear()).filter(Boolean));
+// Donnees structurees attendues par Google sur une page d'accueil de blog.
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: SITE.title,
+  url: SITE.url,
+  description: SITE.description,
+  inLanguage: "fr-FR",
+  potentialAction: {
+    "@type": "SearchAction",
+    target: { "@type": "EntryPoint", urlTemplate: `${SITE.url}/recherche/?q={search_term_string}` },
+    "query-input": "required name=search_term_string",
+  },
+};
 ---
 
 <BaseLayout title={SITE.title} categories={categories}>
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} slot="head" />
+
   <section class="hero">
     <div class="wrap">
-      <h1>{SITE.title}</h1>
+      <h1>{SITE.tagline}</h1>
       <p>{SITE.description}</p>
-      <div class="hero__meta">
-        <span class="chip chip--plain">{posts.length} articles</span>
-        <span class="chip chip--plain">{categories.length} catégories</span>
-        <span class="chip chip--plain">{years.size} années d’archives</span>
-      </div>
     </div>
   </section>
 
@@ -31,7 +41,7 @@ const years = new Set(posts.map((p) => p.data.date?.getUTCFullYear()).filter(Boo
     <div class="wrap">
       <div class="section__head">
         <h2>Derniers articles</h2>
-        <a href="/archives/">Tout parcourir →</a>
+        <a href="/sitemap/">Tout parcourir →</a>
       </div>
       <div class="grid">
         {pageItems.map((post) => <PostCard post={post} />)}

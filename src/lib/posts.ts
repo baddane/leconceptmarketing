@@ -1,15 +1,15 @@
 import { getCollection, type CollectionEntry } from "astro:content";
 import { permalinkSlug, readingTime, slugify } from "./site";
 
-export interface ArchiveItem {
+export interface Post {
   slug: string;
   href: string;
-  entry: CollectionEntry<"archive">;
-  data: CollectionEntry<"archive">["data"];
+  entry: CollectionEntry<"blog">;
+  data: CollectionEntry<"blog">["data"];
   minutes: number;
 }
 
-function toItem(entry: CollectionEntry<"archive">): ArchiveItem {
+function toItem(entry: CollectionEntry<"blog">): Post {
   const slug = permalinkSlug(entry.data.permalink, entry.id);
   return {
     slug,
@@ -20,12 +20,12 @@ function toItem(entry: CollectionEntry<"archive">): ArchiveItem {
   };
 }
 
-let cache: ArchiveItem[] | null = null;
+let cache: Post[] | null = null;
 
-/** Toutes les entrees de l'archive, articles et pages confondus. */
-export async function getAll(): Promise<ArchiveItem[]> {
+/** Toutes les entrees du site, articles et pages confondus. */
+export async function getAll(): Promise<Post[]> {
   if (!cache) {
-    const entries = await getCollection("archive");
+    const entries = await getCollection("blog");
     const seen = new Set<string>();
     cache = entries
       .map(toItem)
@@ -36,7 +36,7 @@ export async function getAll(): Promise<ArchiveItem[]> {
 }
 
 /** Articles datés, du plus recent au plus ancien. */
-export async function getPosts(): Promise<ArchiveItem[]> {
+export async function getPosts(): Promise<Post[]> {
   const all = await getAll();
   return all
     .filter((i) => i.data.type === "post")
