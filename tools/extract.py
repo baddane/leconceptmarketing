@@ -137,7 +137,7 @@ def absolutize(url, base):
     return url
 
 
-def body_markdown(soup, slug):
+def body_markdown(soup):
     node = (soup.select_one(".td-post-content")
             or soup.select_one(".td-page-content")
             or soup.select_one(".amp-wp-article-content")
@@ -158,7 +158,7 @@ def body_markdown(soup, slug):
         parent = tag.find_parent("a") or tag
         parent.decompose()
     text = md(node)
-    return tidy(text, slug)
+    return tidy(text)
 
 
 JUNK_LINE = re.compile(
@@ -174,7 +174,7 @@ JUNK_LINE = re.compile(
 HEADING_BOLD = re.compile(r"^(#{1,6})\s*\*\*(.+?)\*\*\s*$")
 
 
-def tidy(text, slug):
+def tidy(text):
     lines = []
     for line in text.split("\n"):
         line = line.rstrip()
@@ -226,7 +226,7 @@ def extract(path, manifest):
     article = graph.get("Article") or graph.get("BlogPosting") or graph.get("NewsArticle") or {}
     webpage = graph.get("WebPage") or graph.get("ItemPage") or {}
 
-    body = body_markdown(soup, slug)
+    body = body_markdown(soup)
     if len(body) < 200:
         return None, "skip:empty-body"
 

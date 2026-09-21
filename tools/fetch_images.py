@@ -92,14 +92,36 @@ def cdx_prefixes(urls):
     return [p for p, _ in sorted(counts.items(), key=lambda kv: -kv[1])]
 
 
-def cdx_query(prefix, attempts=3):
+class Throttle:
+    """L'archive limite le debit : on espace les departs de requete, quel que
+    soit le nombre de fils, sinon elle repond 503 en rafale."""
+
+    def __init__(self, interval):
+        self.interval = interval
+        self.lock = threading.Lock()
+        self.last = 0.0
+
+    def wait(self):
+        with self.lock:
+            pause = self.interval - (time.monotonic() - self.last)
+            if pause > 0:
+                time.sleep(pause)
+            self.last = time.monotonic()
+
+
+CDX_THROTTLE = Throttle(2.5)
+REPLAY_THROTTLE = Throttle(0.35)
+
+
+def cdx_query(prefix, attempts=4):
     """Une requete CDX par dossier : la requete globale est tronquee cote serveur."""
     target = "leconceptmarketing.com%s/*" % prefix
     url = ("https://web.archive.org/cdx/search/cdx?url=" + urllib.parse.quote(target, safe="")
            + "&output=json&fl=original,timestamp,statuscode&collapse=urlkey&limit=50000")
-    delay = 5
+    delay = 15
     for attempt in range(attempts):
         try:
+            CDX_THROTTLE.wait()
             body, _ = fetch(url, timeout=90)
             rows = json.loads(body.decode("utf-8", "replace"))
             return {key(o): ts for o, ts, code in rows[1:] if code == "200"}
@@ -107,11 +129,11 @@ def cdx_query(prefix, attempts=3):
             if attempt == attempts - 1:
                 raise
             time.sleep(delay)
-            delay = min(delay * 2, 30)
+            delay = min(delay * 2, 120)
     return {}
 
 
-def build_cdx_index(urls, refresh=False, workers=3):
+def build_cdx_index(urls, refresh=False, workers=2):
     """Index original -> timestamp, construit dossier par dossier et mis en cache.
 
     Les requetes partent par petits lots : l'Internet Archive repond lentement et
@@ -215,6 +237,7 @@ def main():
         for ts, original in tries:
             replay = "https://web.archive.org/web/%sim_/%s" % (ts, original)
             try:
+                REPLAY_THROTTLE.wait()
                 data, ctype = fetch(replay)
             except Exception as exc:
                 return k, None, str(exc)[:120]
