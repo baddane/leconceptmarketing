@@ -81,6 +81,13 @@ function handleLink(node) {
   return node;
 }
 
+// Le titre de la page est deja un <h1>: ceux qui viennent du corps de
+// l'article d'origine sont retrogrades pour garder une hierarchie valide.
+function demoteHeading(node) {
+  if (node.tagName === "h1") node.tagName = "h2";
+  return node;
+}
+
 function walk(node) {
   if (!node.children) return;
   const out = [];
@@ -89,6 +96,7 @@ function walk(node) {
     if (child.type === "element") {
       if (child.tagName === "img") next = handleImage(child);
       else if (child.tagName === "a") next = handleLink(child);
+      else if (child.tagName === "h1") next = demoteHeading(child);
       walk(next);
     }
     out.push(next);

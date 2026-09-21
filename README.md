@@ -95,5 +95,10 @@ que les images apparaissent.
   vers une page archivée devient relatif, un lien vers une page jamais capturée
   est dégradé en texte plutôt que laissé mort. Les liens externes reçoivent
   `rel="nofollow noopener noreferrer"`.
+- **Titres du corps rétrogradés** : le titre de la page est le seul `<h1>`.
 - **Aucun JavaScript côté client** en dehors de la page de recherche, qui filtre
   un index JSON servi à `/search.json`.
+
+> Astro met en cache le rendu Markdown. Après une modification de
+> `src/lib/rehype-archive.mjs`, supprimez `.astro/` avant de rebuilder, sinon
+> les pages sont resservies telles quelles.
