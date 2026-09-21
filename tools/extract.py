@@ -396,6 +396,11 @@ def write_vercel_config(pages):
     redirects.sort(key=lambda r: (r["source"], r["destination"]))
     config = {
         "$schema": "https://openapi.vercel.sh/vercel.json",
+        # Explicite plutot qu'auto-detecte: le projet Vercel peut avoir ete cree
+        # avant l'ajout du site et rester sur un preset vide.
+        "framework": "astro",
+        "buildCommand": "astro build",
+        "outputDirectory": "dist",
         "trailingSlash": True,
         "cleanUrls": False,
         "redirects": redirects,
