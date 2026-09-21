@@ -216,6 +216,8 @@ def main():
     ap.add_argument("--limit", type=int, help="nombre maximum d'images a traiter")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--refresh-index", action="store_true")
+    ap.add_argument("--skip-index", action="store_true",
+                    help="telecharge avec l'index deja en cache, sans interroger l'archive")
     ap.add_argument("--workers", type=int, default=4,
                     help="telechargements simultanes")
     ap.add_argument("--retry-failed", action="store_true")
@@ -242,7 +244,8 @@ def main():
 
     os.makedirs(IMAGES, exist_ok=True)
     try:
-        index = build_cdx_index(urls, args.refresh_index)
+        index = (load(INDEX, {}).get("entries", {}) if args.skip_index
+                 else build_cdx_index(urls, args.refresh_index))
     except Exception as exc:
         print("ERREUR: index CDX indisponible (%s)." % exc)
         print("L'Internet Archive est peut-etre hors ligne: relancez plus tard.")
