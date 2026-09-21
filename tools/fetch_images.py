@@ -174,16 +174,41 @@ def build_cdx_index(urls, refresh=False, workers=2):
     return index
 
 
-def candidates(url, index):
-    """Timestamps a essayer, en retombant sur l'image non redimensionnee."""
-    out = []
+# En dessous de cette largeur la vignette archivee est trop degradee pour
+# remplacer l'illustration d'origine : mieux vaut l'emplacement neutre.
+MIN_WIDTH = 200
+
+
+def dimensions(k):
+    """(largeur, hauteur) lue dans le suffixe WordPress; l'original passe devant."""
+    m = re.search(r"-(\d{2,5})x(\d{2,5})(?=\.[a-z0-9]+$)", k, re.I)
+    return (int(m.group(1)), int(m.group(2))) if m else (10 ** 6, 10 ** 6)
+
+
+def build_variants(index):
+    """Nom de base -> toutes ses declinaisons archivees.
+
+    L'archive a surtout capture les vignettes generees pour les pages de
+    rubrique, rarement l'image pleine taille inseree dans l'article. Une
+    declinaison de la meme image reste la bonne illustration.
+    """
+    by_base = {}
+    for k in index:
+        by_base.setdefault(SIZE_SUFFIX.sub("", k), []).append(k)
+    return by_base
+
+
+def candidates(url, index, variants):
+    """Captures a essayer, de la plus proche a la plus degradee."""
+    tries = []
     k = key(url)
     if k in index:
-        out.append((index[k], "https://" + k))
-    base = SIZE_SUFFIX.sub("", k)
-    if base != k and base in index:
-        out.append((index[base], "https://" + base))
-    return out
+        tries.append((index[k], "https://" + k))
+    for alt in sorted(variants.get(SIZE_SUFFIX.sub("", k), []), key=dimensions, reverse=True):
+        if alt == k or dimensions(alt)[0] < MIN_WIDTH:
+            continue
+        tries.append((index[alt], "https://" + alt))
+    return tries[:3]
 
 
 def main():
@@ -225,13 +250,14 @@ def main():
 
     if args.limit:
         todo = todo[:args.limit]
+    variants = build_variants(index)
 
     counts = {"ok": 0, "miss": 0, "err": 0}
     lock = threading.Lock()
 
     def restore(item):
         k, url = item
-        tries = candidates(url, index)
+        tries = candidates(url, index, variants)
         if not tries:
             return k, None, "aucune capture"
         for ts, original in tries:
