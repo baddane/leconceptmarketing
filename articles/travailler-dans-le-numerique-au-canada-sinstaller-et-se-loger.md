@@ -25,7 +25,7 @@ Deux points méritent attention pour les métiers du web :
 
 **La reconnaissance de l'expérience.** Le secteur du numérique valorise le portfolio autant que le diplôme, mais les grilles d'immigration raisonnent en années d'expérience documentées et en intitulés de poste normalisés. Faire correspondre « consultant SEO freelance depuis six ans » à une catégorie officielle demande de la préparation.
 
-**Le cas du travail à distance.** Continuer à facturer des clients européens depuis le Canada est possible, mais change votre situation : à partir du moment où vous y résidez, vos revenus mondiaux entrent généralement dans le champ de l'impôt canadien. La bonne question à trancher avant le départ est celle de votre résidence fiscale, et de ce que votre pays d'origine continuera d'attendre de vous — un point à faire vérifier par un [conseiller fiscal spécialisé en expatriation](https://www.leconseillerfiscal.com/), les conventions bilatérales ne produisant pas les mêmes effets selon les pays.
+**Le cas du travail à distance.** Continuer à facturer des clients européens depuis le Canada est possible, mais change votre situation : à partir du moment où vous y résidez, vos revenus mondiaux entrent généralement dans le champ de l'impôt canadien. La bonne question à trancher avant le départ est celle de votre résidence fiscale, et de ce que votre pays d'origine continuera d'attendre de vous — un point à faire trancher par un [spécialiste de la fiscalité des expatriés](https://www.leconseillerfiscal.com/), les conventions bilatérales ne produisant pas les mêmes effets selon les pays.
 
 ## Ce qui l'est moins : exister financièrement
 

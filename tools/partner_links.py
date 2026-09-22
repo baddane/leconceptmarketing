@@ -18,8 +18,18 @@ Usage:
 import argparse, json, os, re, sys
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CONTENT = os.path.join(HERE, "content")
+# content/ est regenere depuis dump/, articles/ est ecrit a la main : les liens
+# du premier doivent etre rejoues, ceux du second sont seulement verifies.
+SOURCE_DIRS = [os.path.join(HERE, "content"), os.path.join(HERE, "articles")]
 CONFIG = os.path.join(os.path.dirname(os.path.abspath(__file__)), "partner_links.json")
+
+
+def locate(slug):
+    for directory in SOURCE_DIRS:
+        path = os.path.join(directory, slug + ".md")
+        if os.path.exists(path):
+            return path
+    return None
 
 
 def split_front_matter(text):
@@ -55,8 +65,8 @@ def find_anchor(body, anchor):
 
 
 def apply(entry, check=False):
-    path = os.path.join(CONTENT, entry["slug"] + ".md")
-    if not os.path.exists(path):
+    path = locate(entry["slug"])
+    if path is None:
         return "article introuvable", None
 
     text = open(path, encoding="utf-8").read()
@@ -93,6 +103,17 @@ def main():
 
     for status, n in sorted(counts.items()):
         print("  %-22s %d" % (status, n))
+
+    # Reutiliser la meme expression exacte d'un article a l'autre est le signal
+    # que Google traite comme un schema de liens, bien avant le nombre de liens.
+    used = {}
+    for entry in config["links"]:
+        used.setdefault(entry["anchors"][0].lower(), []).append(entry["slug"])
+    repeated = {a: s for a, s in used.items() if len(s) > 2}
+    if repeated:
+        print("\nAncres repetees plus de deux fois, a varier :")
+        for anchor, slugs in sorted(repeated.items()):
+            print("   %-42s %d articles" % (anchor, len(slugs)))
     for url, items in sorted(by_site.items()):
         print("\n%s : %d liens" % (url, len(items)))
         for slug, anchor in items:
