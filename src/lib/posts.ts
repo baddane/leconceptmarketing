@@ -4,16 +4,34 @@ import { resolveImage } from "./images.mjs";
 
 const BODY_IMAGE = /!\[[^\]]*\]\((https?:\/\/[^)\s]+)\)/g;
 
+// Une image qui revient dans plusieurs articles est un encart maison ou une
+// banniere d'affiliation, pas l'illustration de l'article: elle ne doit jamais
+// servir de vignette, meme si c'est la seule image disponible.
+const SHARED_IMAGE_THRESHOLD = 3;
+
+function bodyImages(entry: CollectionEntry<"blog">): string[] {
+  return [...(entry.body ?? "").matchAll(BODY_IMAGE)].map((match) => match[1]);
+}
+
+function countImageUse(entries: CollectionEntry<"blog">[]): Map<string, number> {
+  const counts = new Map<string, number>();
+  for (const entry of entries) {
+    const urls = new Set(bodyImages(entry));
+    if (entry.data.cover) urls.add(entry.data.cover);
+    for (const url of urls) counts.set(url, (counts.get(url) ?? 0) + 1);
+  }
+  return counts;
+}
+
 /**
- * Vignette de l'article : sa couverture si elle a pu etre rapatriee, sinon la
- * premiere illustration disponible dans le corps. Renvoie null quand aucune
- * image n'est servable, la carte retombe alors sur son degrade.
+ * Vignette de l'article : sa couverture, sinon la premiere illustration du
+ * corps qui lui soit propre. Renvoie null quand rien n'est servable, la carte
+ * compose alors sa couverture a partir du titre.
  */
-function thumbnail(entry: CollectionEntry<"blog">): string | null {
-  const cover: string | null = resolveImage(entry.data.cover);
-  if (cover) return cover;
-  for (const match of (entry.body ?? "").matchAll(BODY_IMAGE)) {
-    const resolved: string | null = resolveImage(match[1]);
+function thumbnail(entry: CollectionEntry<"blog">, counts: Map<string, number>): string | null {
+  for (const url of [entry.data.cover, ...bodyImages(entry)]) {
+    if (!url || (counts.get(url) ?? 0) >= SHARED_IMAGE_THRESHOLD) continue;
+    const resolved: string | null = resolveImage(url);
     if (resolved) return resolved;
   }
   return null;
@@ -28,7 +46,7 @@ export interface Post {
   image: string | null;
 }
 
-function toItem(entry: CollectionEntry<"blog">): Post {
+function toItem(entry: CollectionEntry<"blog">, counts: Map<string, number>): Post {
   const slug = permalinkSlug(entry.data.permalink, entry.id);
   return {
     slug,
@@ -36,7 +54,7 @@ function toItem(entry: CollectionEntry<"blog">): Post {
     entry,
     data: entry.data,
     minutes: readingTime(entry.body ?? ""),
-    image: thumbnail(entry),
+    image: thumbnail(entry, counts),
   };
 }
 
@@ -46,9 +64,10 @@ let cache: Post[] | null = null;
 export async function getAll(): Promise<Post[]> {
   if (!cache) {
     const entries = await getCollection("blog");
+    const counts = countImageUse(entries);
     const seen = new Set<string>();
     cache = entries
-      .map(toItem)
+      .map((entry) => toItem(entry, counts))
       // Deux captures peuvent partager un permalien : on garde la premiere.
       .filter((item) => !seen.has(item.slug) && seen.add(item.slug));
   }
