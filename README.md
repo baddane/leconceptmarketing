@@ -20,6 +20,18 @@ Node 18+ et Python 3.9+ (pour les outils de contenu uniquement).
 
 ## Déploiement Vercel
 
+> **Le dépôt de travail n'est pas celui qui déploie.**
+>
+> Les commits arrivent ici, sur `baddane/leconceptmarketing`. Vercel déploie
+> depuis le fork `Gloriasmit/leconceptmarketing`.
+>
+> **Un push ne met donc pas le site à jour.** Pour déclencher le déploiement,
+> ouvrez le fork sur GitHub et cliquez **« Sync fork » → « Update branch »**.
+>
+> La synchronisation reste une avance rapide tant que personne ne commite
+> directement sur le fork. Si cela arrive, le bouton ne suffit plus et il faut
+> passer par une pull request.
+
 Le projet est détecté automatiquement comme un site Astro : `astro build`,
 sortie dans `dist/`, aucune variable d'environnement requise.
 
