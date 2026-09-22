@@ -38,7 +38,8 @@ l'extraction.
 | Chemin | Rôle |
 | --- | --- |
 | `dump/` | Captures HTML brutes du site d'origine. **Source de vérité**, jamais éditée, exclue du déploiement. |
-| `content/` | Markdown généré depuis `dump/`. Une page par fichier, frontmatter YAML. |
+| `content/` | Markdown généré depuis `dump/`. Une page par fichier, frontmatter YAML. **Régénéré : ne rien y écrire à la main.** |
+| `articles/` | Articles écrits pour le site, au même format. Les outils n'y touchent jamais. |
 | `public/images/` | Illustrations rapatriées + `manifest.json` (table URL d'origine → fichier local). |
 | `src/` | Le site Astro. |
 | `tools/` | Scripts de reconstruction du contenu. |
@@ -66,6 +67,18 @@ Ce que fait le script :
 
 Sont ignorés : archives de catégories et d'auteurs (le site les regénère),
 doublons AMP, et les pages sans corps de texte exploitable.
+
+### Écrire un nouvel article
+
+Créez un fichier dans **`articles/`**, jamais dans `content/` : ce dernier est
+reconstruit depuis `dump/` et tout fichier qui n'en provient pas y est supprimé.
+
+Reprenez le frontmatter d'un article existant. Seuls `title` et `permalink` sont
+obligatoires ; `date` détermine la place dans le fil, et `categories` doit
+reprendre un libellé existant pour que l'article apparaisse dans la bonne
+rubrique. Les liens internes s'écrivent en absolu
+(`https://leconceptmarketing.com/mon-article/`) : ils sont convertis en liens
+relatifs au build, et signalés s'ils pointent dans le vide.
 
 ### 2. Liens partenaires — `python3 tools/partner_links.py`
 

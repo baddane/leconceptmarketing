@@ -2,23 +2,27 @@ import fs from "node:fs";
 import path from "node:path";
 import { resolveImage } from "./images.mjs";
 
-const CONTENT_DIR = path.join(process.cwd(), "content");
+// Les deux sources d'articles : l'archive regeneree et les articles ecrits
+// pour le site. Omettre la seconde ferait passer ses liens pour des liens morts.
+const SOURCE_DIRS = ["content", "articles"].map((d) => path.join(process.cwd(), d));
 
-/** Permaliens presents dans l'archive : sert a distinguer lien interne vivant et lien mort. */
+/** Permaliens publies : sert a distinguer lien interne vivant et lien mort. */
 function knownSlugs() {
   const slugs = new Set();
-  let files = [];
-  try {
-    files = fs.readdirSync(CONTENT_DIR).filter((f) => f.endsWith(".md"));
-  } catch {
-    return slugs;
-  }
-  for (const file of files) {
-    const head = fs.readFileSync(path.join(CONTENT_DIR, file), "utf8").slice(0, 2048);
-    const match = head.match(/^permalink: "(.*)"$/m);
-    const permalink = match ? match[1] : `/${file.slice(0, -3)}/`;
-    const parts = permalink.split("/").filter(Boolean);
-    if (parts.length) slugs.add(parts[parts.length - 1]);
+  for (const dir of SOURCE_DIRS) {
+    let files = [];
+    try {
+      files = fs.readdirSync(dir).filter((f) => f.endsWith(".md"));
+    } catch {
+      continue;
+    }
+    for (const file of files) {
+      const head = fs.readFileSync(path.join(dir, file), "utf8").slice(0, 2048);
+      const match = head.match(/^permalink: "(.*)"$/m);
+      const permalink = match ? match[1] : `/${file.slice(0, -3)}/`;
+      const parts = permalink.split("/").filter(Boolean);
+      if (parts.length) slugs.add(parts[parts.length - 1]);
+    }
   }
   return slugs;
 }

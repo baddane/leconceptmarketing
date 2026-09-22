@@ -2,7 +2,10 @@ import { defineCollection, z } from "astro:content";
 import { glob } from "astro/loaders";
 
 const blog = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: "./content" }),
+  // content/ est regenere depuis dump/ par tools/extract.py, qui efface tout
+  // fichier n'en provenant pas. Les articles ecrits pour le site vivent donc
+  // dans articles/, que les outils ne touchent jamais.
+  loader: glob({ pattern: ["content/*.md", "articles/*.md"], base: "." }),
   schema: z.object({
     title: z.string(),
     permalink: z.string(),
