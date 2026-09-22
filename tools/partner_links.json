@@ -1,0 +1,61 @@
+{
+  "_comment": [
+    "Liens vers les sites partenaires, rejoues par tools/partner_links.py apres chaque extraction.",
+    "Regles suivies pour cette liste :",
+    "  - un seul lien par article, uniquement la ou le sujet de l'article recoupe",
+    "    vraiment celui du site cible ;",
+    "  - l'ancre est une expression deja ecrite par l'auteur, verifiee dans le texte ;",
+    "    rien n'est ajoute a l'article ;",
+    "  - ancres variees : repeter la meme expression exacte d'un article a l'autre est",
+    "    precisement ce que Google traite comme un schema de liens.",
+    "leconseillerfiscal.fr redirige en 301 vers leconseillerfiscal.com : les deux",
+    "adresses menent au meme site, seule la forme canonique est utilisee ici."
+  ],
+  "links": [
+    {
+      "slug": "la-difference-entre-un-formulaire-w-8ben-et-w-8ben-e-a-des-fins-fiscales-americaines",
+      "url": "https://www.leconseillerfiscal.com/",
+      "anchors": ["conventions fiscales"]
+    },
+    {
+      "slug": "comment-creer-une-llc-americaine-en-7-etapes-guide-2023",
+      "url": "https://www.leconseillerfiscal.com/",
+      "anchors": ["conseiller fiscal"]
+    },
+    {
+      "slug": "comment-investir-votre-argent-comment-ca-marche",
+      "url": "https://www.leconseillerfiscal.com/",
+      "anchors": ["répercussions fiscales"]
+    },
+    {
+      "slug": "comment-investir-de-largent-commencer-a-investir",
+      "url": "https://www.leconseillerfiscal.com/",
+      "anchors": ["Avantages fiscaux", "avantages fiscaux"]
+    },
+    {
+      "slug": "comment-bien-ouvrir-un-compte-bancaire-dedie-quand-on-est-micro_entrepreneur",
+      "url": "https://www.leconseillerfiscal.com/",
+      "anchors": ["déclarations fiscales"]
+    },
+    {
+      "slug": "comment-gagner-de-largent-avec-onlyfans-en-belgique-guide-complet-pour-les-createurs",
+      "url": "https://www.leconseillerfiscal.com/",
+      "anchors": ["obligations fiscales"]
+    },
+    {
+      "slug": "10-elements-a-prendre-en-compte-lors-du-choix-dun-cabinet-dexpertise-comptable",
+      "url": "https://www.leconseillerfiscal.com/",
+      "anchors": ["déclaration d’impôts", "conseils fiscaux"]
+    },
+    {
+      "slug": "la-proptech-huspy-leve-59-millions-de-dollars-pour-setendre-en-europe",
+      "url": "https://www.guide-hypotheque.ca/",
+      "anchors": ["prêt hypothécaire en ligne"]
+    },
+    {
+      "slug": "comment-tirer-profit-de-linflation-ou-investir-en-2023",
+      "url": "https://www.guide-hypotheque.ca/",
+      "anchors": ["prêts hypothécaires", "L’immobilier d’investissement"]
+    }
+  ]
+}

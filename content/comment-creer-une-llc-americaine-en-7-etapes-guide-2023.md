@@ -21,7 +21,7 @@ La création d’une société à responsabilité limitée (LLC ) est l’une de
 
 Une société à responsabilité limitée, ou LLC, est un type d’entité juridique que les propriétaires d’entreprises américaines peuvent choisir pour l’exploitation de leur entreprise. La création d’une SARL protège les biens personnels d’un individu ou d’un groupe en cas de problèmes juridiques ou de faillite.
 
-Elle offre également des options fiscales flexibles, car toutes les entreprises ne fonctionnent pas de la même manière. Certaines peuvent choisir d’être imposées comme des entreprises individuelles, tandis que d’autres peuvent être imposées comme des sociétés. Consultez un conseiller fiscal pour déterminer la meilleure option pour votre SARL.
+Elle offre également des options fiscales flexibles, car toutes les entreprises ne fonctionnent pas de la même manière. Certaines peuvent choisir d’être imposées comme des entreprises individuelles, tandis que d’autres peuvent être imposées comme des sociétés. Consultez un [conseiller fiscal](https://www.leconseillerfiscal.com/) pour déterminer la meilleure option pour votre SARL.
 
 ## Comment créer une LLC ?
 

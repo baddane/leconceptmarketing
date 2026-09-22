@@ -17,7 +17,7 @@ Si vous avez déjà eu affaire à des formulaires fiscaux américains, en partic
 
 ![](https://leconceptmarketing.com/wp-content/uploads/2023/09/image-5.png)
 
-Ces formulaires sont nécessaires pour que les personnes étrangères puissent bénéficier des avantages des conventions fiscales et certifier leur statut d’étranger au regard de la législation fiscale américaine. Ces formulaires sont nécessaires pour que les personnes étrangères puissent bénéficier des avantages des conventions fiscales et certifier leur statut d’étranger au regard de la législation fiscale américaine.
+Ces formulaires sont nécessaires pour que les personnes étrangères puissent bénéficier des avantages des [conventions fiscales](https://www.leconseillerfiscal.com/) et certifier leur statut d’étranger au regard de la législation fiscale américaine. Ces formulaires sont nécessaires pour que les personnes étrangères puissent bénéficier des avantages des conventions fiscales et certifier leur statut d’étranger au regard de la législation fiscale américaine.
 
 **Mais quelle est la différence entre les deux ? Voyons cela de plus près.**
 

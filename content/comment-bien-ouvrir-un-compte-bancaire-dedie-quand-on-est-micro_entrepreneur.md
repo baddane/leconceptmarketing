@@ -54,7 +54,7 @@ Séparer vos finances évite les erreurs de comptabilité simplifie la déclarat
 
 Ouvrir un compte bancaire dédié en tant que micro‑entrepreneur n’est pas seulement une obligation légale dès que votre chiffre d’affaires dépasse un certain seuil ; c’est avant tout une démarche stratégique pour mieux gérer votre activité, séparer clairement vos finances personnelles et professionnelles, et renforcer votre crédibilité.
 
-En anticipant cette étape, vous simplifiez vos démarches administratives, facilitez vos déclarations fiscales et gagnez en professionnalisme. Que vous soyez freelance, artisan ou prestataire de services, un compte dédié reste un outil essentiel pour structurer votre micro‑entreprise en toute sérénité.
+En anticipant cette étape, vous simplifiez vos démarches administratives, facilitez vos [déclarations fiscales](https://www.leconseillerfiscal.com/) et gagnez en professionnalisme. Que vous soyez freelance, artisan ou prestataire de services, un compte dédié reste un outil essentiel pour structurer votre micro‑entreprise en toute sérénité.
 
 ## FAQ
 

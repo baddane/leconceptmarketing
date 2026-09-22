@@ -58,7 +58,7 @@ Si vous avez besoin de services complets de tenue de livres, recherchez un cabin
 
 ## 6.Disponibilité :
 
-Certains clients se contentent de rencontrer leur cabinet comptable une fois par an pour la déclaration d’impôts. D’autres clients ont des questions fréquentes sur leur entreprise qui nécessitent des réponses rapides. Renseignez-vous pour savoir si votre comptable peut être joint par téléphone ou si vous devez prendre rendez-vous pour venir au bureau et parler en personne.
+Certains clients se contentent de rencontrer leur cabinet comptable une fois par an pour la [déclaration d’impôts](https://www.leconseillerfiscal.com/). D’autres clients ont des questions fréquentes sur leur entreprise qui nécessitent des réponses rapides. Renseignez-vous pour savoir si votre comptable peut être joint par téléphone ou si vous devez prendre rendez-vous pour venir au bureau et parler en personne.
 
 ## 7.Connexion personnelle :
 

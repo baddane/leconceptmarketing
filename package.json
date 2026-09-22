@@ -9,7 +9,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "check": "astro check",
-    "content:extract": "python3 tools/extract.py",
+    "content:extract": "python3 tools/extract.py && python3 tools/partner_links.py",
+    "content:links": "python3 tools/partner_links.py",
     "content:images": "python3 tools/fetch_images.py"
   },
   "dependencies": {

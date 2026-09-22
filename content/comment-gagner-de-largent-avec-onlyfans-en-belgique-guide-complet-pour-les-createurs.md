@@ -17,7 +17,7 @@ source_capture: "20251011103701"
 
 Lancé en 2016, **[OnlyFans](https://onlyfans.com/onlyfans)** s’est d’abord positionné comme une plateforme pour les artistes souhaitant partager du contenu exclusif avec leurs fans. Mais depuis 2018, le site a pris une tournure très différente, notamment dans le domaine du contenu pour adultes. Aujourd’hui, **plus de 2 millions de créateurs** y publient du contenu rémunéré à destination de plus de 120 millions d’utilisateurs payants.
 
-Que vous soyez influenceur, modèle ou simple particulier, il est possible de **monétiser efficacement son contenu sur OnlyFans**, à condition de comprendre les mécanismes de revenus, les obligations fiscales, et la réglementation applicable en Belgique.
+Que vous soyez influenceur, modèle ou simple particulier, il est possible de **monétiser efficacement son contenu sur OnlyFans**, à condition de comprendre les mécanismes de revenus, les [obligations fiscales](https://www.leconseillerfiscal.com/), et la réglementation applicable en Belgique.
 
 ## Comment gagner de l’argent sur OnlyFans ?
 

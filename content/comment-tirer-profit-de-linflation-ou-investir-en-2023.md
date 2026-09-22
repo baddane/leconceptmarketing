@@ -23,7 +23,7 @@ Les investissements suivants ont tendance à bien se comporter en période d’i
 - Les obligations indexées sur l’inflation et les titres du Trésor protégés contre l’inflation (TIPS) ont tendance à augmenter leurs rendements avec les pressions inflationnistes.
 - Les valeurs de consommation de base se portent généralement bien car les augmentations de prix sont répercutées sur les consommateurs.
 - Les titres adossés à des créances hypothécaires ([MBS)](https://www.investirsorcier.com/definition-des-titres-adosses-a-des-creances-hypothecaires-mbs/) et les titres garantis par des créances (CDO) sont des choix risqués, mais ils ont tendance à bien se comporter en cas de pression inflationniste.
-- L’immobilier d’investissement est traditionnellement une valeur refuge, mais doit être abordé avec prudence en 2022 et 2023, compte tenu de l’instabilité du secteur.
+- [L’immobilier d’investissement](https://www.guide-hypotheque.ca/) est traditionnellement une valeur refuge, mais doit être abordé avec prudence en 2022 et 2023, compte tenu de l’instabilité du secteur.
 
 - 1 Les bases de l’inflation :
 - 2 Comment suivre l’inflation :

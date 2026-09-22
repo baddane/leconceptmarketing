@@ -19,7 +19,7 @@ En 2020, obtenir un prêt immobilier à Dubaï signifiait souvent des mois de pa
 
 ## Une ascension rapide dans la proptech régionale
 
-En cinq ans, Huspy est devenue l’un des leaders de la proptech dans la région. La société offre une plateforme complète permettant de rechercher un bien immobilier et d’obtenir un prêt hypothécaire en ligne. Déjà présente aux Émirats et en Espagne, Huspy vient de lever **59 millions de dollars en série B** pour renforcer ses opérations au Moyen-Orient et élargir sa présence en Europe.
+En cinq ans, Huspy est devenue l’un des leaders de la proptech dans la région. La société offre une plateforme complète permettant de rechercher un bien immobilier et d’obtenir un [prêt hypothécaire en ligne](https://www.guide-hypotheque.ca/). Déjà présente aux Émirats et en Espagne, Huspy vient de lever **59 millions de dollars en série B** pour renforcer ses opérations au Moyen-Orient et élargir sa présence en Europe.
 
 ## Des investisseurs de renom misent à nouveau sur Huspy
 

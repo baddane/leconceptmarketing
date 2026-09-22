@@ -67,7 +67,26 @@ Ce que fait le script :
 Sont ignorés : archives de catégories et d'auteurs (le site les regénère),
 doublons AMP, et les pages sans corps de texte exploitable.
 
-### 2. Images — `python3 tools/fetch_images.py`
+### 2. Liens partenaires — `python3 tools/partner_links.py`
+
+`content/` étant régénéré depuis `dump/`, un lien ajouté à la main y serait
+effacé. Ce script rejoue les insertions décrites dans
+`tools/partner_links.json`, juste après l'extraction — d'où le `&&` dans
+`npm run content:extract`.
+
+Chaque insertion transforme **une expression déjà écrite par l'auteur** en lien :
+rien n'est ajouté à l'article. Les règles tenues dans la configuration :
+
+- un seul lien par article, et seulement là où le sujet de l'article recoupe
+  réellement celui du site cible ;
+- une ancre différente à chaque fois — répéter la même expression exacte d'un
+  article à l'autre est ce que Google traite comme un schéma de liens ;
+- l'ancre est vérifiée dans le texte : `--check` signale toute entrée dont
+  l'expression n'existe pas, plutôt que d'inventer une phrase.
+
+Le script est idempotent : relancez-le, il ne double jamais un lien.
+
+### 3. Images — `python3 tools/fetch_images.py`
 
 Les URL `wp-content` d'origine renvoient toutes 404. Le script retrouve chaque
 image dans l'Internet Archive, la stocke dans `public/images/` et met à jour

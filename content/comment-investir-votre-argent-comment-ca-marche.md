@@ -140,7 +140,7 @@ La sélection de vos investissements va de pair avec votre type de compte et vot
 
 Notez que les régimes enregistrés, comme les REER et les CELI, ne peuvent détenir que les types de placements considérés comme admissibles pour ces régimes.
 
-De plus, si vous prévoyez de détenir des titres étrangers dans le cadre d’un régime enregistré, consultez votre conseiller fiscal, car il pourrait y avoir des répercussions fiscales.
+De plus, si vous prévoyez de détenir des titres étrangers dans le cadre d’un régime enregistré, consultez votre conseiller fiscal, car il pourrait y avoir des [répercussions fiscales](https://www.leconseillerfiscal.com/).
 
 ### Actions ou parts sociales :
 
