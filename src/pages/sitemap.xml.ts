@@ -1,5 +1,4 @@
 import type { APIContext } from "astro";
 import { sitemapIndex } from "../lib/sitemap";
 
-// Adresse historique du site, conservee pour les liens et les outils qui la connaissent.
 export const GET = (context: APIContext) => sitemapIndex(context);

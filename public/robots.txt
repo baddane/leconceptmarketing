@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /recherche/
 
-Sitemap: https://leconceptmarketing.com/sitemap_index.xml
+Sitemap: https://leconceptmarketing.com/sitemap.xml
