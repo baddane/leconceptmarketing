@@ -11,7 +11,7 @@ const category = d.categories[0];
 
 <article class="card">
   <a class="card__media" href={post.href} tabindex="-1" aria-hidden="true">
-    <Thumb src={post.image} alt={d.title} seed={post.slug} />
+    <Thumb src={post.image} alt={d.title} seed={post.slug} category={category} />
   </a>
   <div class="card__body">
     {category && <a class="chip" href={`/category/${slugify(category)}/`}>{category}</a>}

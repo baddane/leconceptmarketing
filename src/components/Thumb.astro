@@ -1,21 +1,26 @@
 ---
-interface Props { src?: string | null; alt: string; seed: string }
-const { src = null, alt, seed } = Astro.props;
-const resolved = src;
+import { SITE } from "../lib/site";
 
-// Teinte stable dérivée du slug : deux articles gardent toujours la même vignette.
+interface Props { src?: string | null; alt: string; seed: string; category?: string }
+const { src = null, alt, seed, category } = Astro.props;
+
+// Teinte stable derivee du slug : un article garde toujours la meme couverture.
 let hash = 0;
 for (let i = 0; i < seed.length; i++) hash = (hash * 31 + seed.charCodeAt(i)) >>> 0;
-const hue = hash % 360;
-const initials = alt.replace(/[^\p{L}\p{N} ]/gu, "").trim().slice(0, 1).toUpperCase() || "•";
+const hue = (hash % 360 + 360) % 360;
+const angle = 120 + (hash % 5) * 15;
 ---
 
-{resolved ? (
-  <img src={resolved} alt="" loading="lazy" decoding="async" />
+{src ? (
+  <img src={src} alt="" loading="lazy" decoding="async" />
 ) : (
   <div
-    class="thumb-fallback"
+    class="cover-card"
     aria-hidden="true"
-    style={`background:linear-gradient(135deg, hsl(${hue} 62% 48%), hsl(${(hue + 42) % 360} 68% 38%))`}
-  >{initials}</div>
+    style={`--cover-a:hsl(${hue} 58% 42%); --cover-b:hsl(${(hue + 38) % 360} 62% 30%); --cover-angle:${angle}deg`}
+  >
+    <span class="cover-card__kicker">{category ?? SITE.title}</span>
+    <span class="cover-card__title">{alt}</span>
+    <span class="cover-card__mark">{SITE.title}</span>
+  </div>
 )}
