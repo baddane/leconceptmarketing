@@ -50,6 +50,12 @@ const ogImage = image ? new URL(image, Astro.site ?? SITE.url).href : undefined;
     <meta name="twitter:card" content={ogImage ? "summary_large_image" : "summary"} />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="alternate" type="application/rss+xml" title={SITE.title} href="/rss.xml" />
+    <script
+      is:inline
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9529483171281257"
+      crossorigin="anonymous"
+    ></script>
     <script is:inline>
       try {
         const t = localStorage.getItem("theme");
